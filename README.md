@@ -6,10 +6,12 @@ Team Members: Chayan Kochar, Tanishq Goel
 ---
 ### Data :
 
-We have primarily used the data from the cfilt iitb website, the zip and folders of which are present in the repo named as "dev_test.tgz" and dev_test/
+We have primarily used the en-hi parallel data from the cflit iitb website, the zip and folders of which are present in the repo named as "dev_test.tgz" and dev_test/
 From the dev.en set we only got around 55 occurences of relative clause out of 500 sentences(put in "english_relcl.txt"). Hence we also ran on the test set which had roughly 2500 sentences - the sentences with rel clause is put "in english_relcl_testen" file.
 
 Similarly for Hindi, from dev.hi, we got some 30 out of 500 dev set(put in "hindi_relcl.txt"). And on running the test.hi set(2.5k), we got 435 sentences with rel clause, and is put under "hindi_relcl_testhi.txt"
+
+We have also included two more file datasets(for backup in case we dont get enough sentences with relative clauses.) namely 'health_english.txt' and 'technical_domain_corpus.txt' which has very large around 25k sentences in each. We got this data while ding a NLP Assignment.
 
 NOTE: 
 - The running of the file over all the sentences very long time. Like for the 2.5k sentences, it almost took around 10 minutes or so even after running on colab!
