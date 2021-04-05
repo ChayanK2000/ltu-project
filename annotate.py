@@ -59,23 +59,23 @@ for i in english_data:  # swap between english and hindi data accordingly
     # sentence = english_data.readline()
     doc = nlp_en(i)  # swap accordingly
     dep = (get_dependencies(doc, 1))
-    print(dep)
+    # print(dep)
     pos = (get_pos_tags(doc, 1))
-    print(pos)
-    print("--------------")
-    for x in dep[0]:
-        print(x)
-    print("dep done now pos------------")
-    for x in pos[0]:
-        print(x)
+    # print(pos)
+    # print("--------------")
+    # for x in dep[0]:
+    #     print(x)
+    # print("dep done now pos------------")
+    # for x in pos[0]:
+    #     print(x)
 
-    # reltive_clause(dep[0], pos[0], i)
+    reltive_clause(dep[0], pos[0], i)
 
     
-# for z in relcl:
-#     f = open("./english_relcl.txt", "a")
-#     f.write(str(z) + "\n")
-#     f.close()
+for z in relcl:
+    f = open("./english_relcl.txt", "a")
+    f.write(str(z) + "\n")
+    f.close()
 
 
 
