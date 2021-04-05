@@ -12,5 +12,15 @@ From the dev.en set we only got around 55 occurences of relative clause out of 5
 Similarly for Hindi, from dev.hi, we got some 30 out of 500 dev set(put in "hindi_relcl.txt"). And on running the test.hi set(2.5k), we got 435 sentences with rel clause, and is put under "hindi_relcl_testhi.txt"
 
 NOTE: 
-- The running of the file over all the sentences very long time. Like for the 2.5k sentences, it almost took around 10 minutes or so!
+- The running of the file over all the sentences very long time. Like for the 2.5k sentences, it almost took around 10 minutes or so even after running on colab!
 - regarding telugu, we did not get any good sources for the data. Though once we get, i think we can simply apply the same code over it using stanza and shortlist the sentences and annotate it.
+
+---
+
+### Tasks for interim
+
+- [ ] Mercury
+- [x] Venus
+- [x] Earth (Orbit/Moon)
+- [x] Mars
+- [ ] Jupiter
