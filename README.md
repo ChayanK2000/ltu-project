@@ -1,4 +1,5 @@
 # LTU-Project S21
+Team Members: Chayan Kochar, Tanishq Goel
 
 ## Topic: To find patterns in 500 sentences in English, Hindi, Telugu each.
 
