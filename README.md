@@ -19,8 +19,6 @@ NOTE:
 
 ### Tasks for interim
 
-- [ ] Mercury
-- [x] Venus
-- [x] Earth (Orbit/Moon)
-- [x] Mars
-- [ ] Jupiter
+- [X] Shortlist and annotate the sentences ( we did the shortlisting, and we did using certain dep features by stanza, so basically annotation is almost done, we just need to present it in a file)
+- [x] Read through the literary section and other stuff(tbh, not totally done, but almost completed)
+- [ ] Try to start code for finding patterns
