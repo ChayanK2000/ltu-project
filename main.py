@@ -52,11 +52,16 @@ def reltive_pron(deprel_list, pos_list, sent):
     for x in deprel_list:
         if (re.search(".*relcl.*", x[2])):
             print((x[0], x[1]))
-
+            pronoun_present = False
             for y in deprel_list:
-                if (y[0] == x[4]) and (y[3].lower() in relPronList):
-                    print("REL PRONOUN: ", y[3], "id: ", y[4])
-                    print("REFERNT: ", x[1], "id :", x[0])
+                if (y[0] == x[4]):
+                    if (y[3].lower() in relPronList):
+                        print("REL PRONOUN: \""+str(y[3])+"\" with ID: ", y[4])
+                        print("REFERNT: \""+str(x[1])+"\" with ID :", x[0])
+                        pronoun_present = True
+            if pronoun_present == False:
+                print("no pronoun")
+                print("REFERNT: \""+str(x[1])+"\" with ID :", x[0])
 
 
 # ==== MAIN: English ====
@@ -71,7 +76,7 @@ nlp_hi = stanza.Pipeline('hi')
 #                 "I saw the man you love.",
 #                 "I saw the man whom you love."]
 
-english_data = open("./abc.txt", "r")
+english_data = open("./20.txt", "r")
 # hindi_data = open("./hindi_relcl_test.txt", "r")
 
 global textlines
@@ -89,8 +94,8 @@ for i in english_data:  # swap between english and hindi data accordingly
     pos = (get_pos_tags(doc, 1))
     # print(pos)
     # print("--------------")
-    # for x in dep[0]:
-    #     print(x)
+    for x in dep[0]:
+        print(x)
     # print("dep done now pos------------")
     # for x in pos[0]:
     #     print(x)

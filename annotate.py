@@ -31,6 +31,20 @@ def get_pos_tags(doc, n):
     return [getpos(i) for i in range(n)]
 
 
+def get_ann_tags(doc, n):
+    """Get POS-tagged tokens in the format of a list of
+    (token, POStag) pairs for all sentences in doc.
+    Returns upos (Universal part-of-speech) tag only, not
+    xpos (treebank-specific part of speech)"""
+
+    def getann(i):
+        tokens = []
+        for token in doc.sentences[i].words:
+            tokens.append((token.id, token.text, token.lemma, token.upos, token.xpos, token.feats, token.head, token.deprel))
+        return tokens
+
+    return [getann(i) for i in range(n)]
+
 global relcl
 relcl = []
 
@@ -52,30 +66,36 @@ nlp_hi = stanza.Pipeline('hi')
 #                 "If you know who did it, you should tell the teacher.",
 #                 "Many Revenue department officials are continuously asking the Canadian Chartered Accountants to force foreigners to declare their income which they are earning in other countries, so that they can calculate the appropriate tax on the income they are earning in Canada."]
 
-english_data = open("./dev.en", "r")
-# hindi_data = open("./hindi_data.txt", "r")
-
-for i in english_data:  # swap between english and hindi data accordingly
+# english_data = open("./english_final.txt", "r")
+hindi_data = open("./hindi_final.txt", "r")
+sentcount = 1
+f = open('final_annotated_hindi.txt','w')
+for i in hindi_data:  # swap between english and hindi data accordingly
     # sentence = english_data.readline()
-    doc = nlp_en(i)  # swap accordingly
+    f.write("Sentence "+str(sentcount)+":\n")
+    sentcount += 1
+    f.write(i+"\n")
+    doc = nlp_hi(i)  # swap accordingly
     dep = (get_dependencies(doc, 1))
     # print(dep)
     pos = (get_pos_tags(doc, 1))
+    ann = (get_ann_tags(doc, 1))
     # print(pos)
     # print("--------------")
     # for x in dep[0]:
     #     print(x)
     # print("dep done now pos------------")
-    # for x in pos[0]:
-    #     print(x)
-
-    reltive_clause(dep[0], pos[0], i)
+    for x in ann[0]:
+        f.write(str(x)+"\n")
+    f.write("\n\n")
+f.close()
+    # reltive_clause(dep[0], pos[0], i)
 
     
-for z in relcl:
-    f = open("./english_relcl.txt", "a")
-    f.write(str(z) + "\n")
-    f.close()
+# for z in relcl:
+#     f = open("./english_relcl.txt", "a")
+#     f.write(str(z) + "\n")
+#     f.close()
 
 
 
