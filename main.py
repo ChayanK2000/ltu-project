@@ -1,5 +1,6 @@
 import stanza
 import re
+import json
 
 
 def get_dependencies(doc, n):
@@ -29,6 +30,26 @@ def get_pos_tags(doc, n):
         return tokens
 
     return [getpos(i) for i in range(n)]
+
+
+def get_ann_tags(doc, n, sentcount):
+    """Get POS-tagged tokens in the format of a list of
+    (token, POStag) pairs for all sentences in doc.
+    Returns upos (Universal part-of-speech) tag only, not
+    xpos (treebank-specific part of speech)"""
+
+    def getann(i, sentcount):
+        global annotation
+        annotation[sentcount] = {}
+        tokens = []
+        for token in doc.sentences[i].words:
+            tokens.append((token.id, token.text, token.lemma, token.upos,
+                           token.xpos, token.feats, token.head, token.deprel))
+            annotation[sentcount][token.id] = {"id": token.id, "text": token.text, "lemma": token.lemma,
+                                               "upos": token.upos, "xpos": token.xpos, "feats": token.feats, "head": token.head, "deprel": token.deprel}
+        return tokens
+
+    return [getann(i, sentcount) for i in range(n)]
 
 
 global relcl
@@ -76,32 +97,36 @@ nlp_hi = stanza.Pipeline('hi')
 #                 "I saw the man you love.",
 #                 "I saw the man whom you love."]
 
-english_data = open("./20.txt", "r")
-# hindi_data = open("./hindi_relcl_test.txt", "r")
+# english_data = open("./english_final.txt", "r")
+hindi_data = open("./hindi_final.txt", "r")
 
-global textlines
-textlines = []
-for i in english_data:  # swap between english and hindi data accordingly
+global annotation
+annotation = {}
+sentcount = 1
+for i in hindi_data:  # swap between english and hindi data accordingly
     # sentence = english_data.readline()
-    if i in textlines:
-        continue
-    textlines.append(i)
 
-    doc = nlp_en(i)  # swap accordingly
-    dep = (get_dependencies(doc, 1))
+    doc = nlp_hi(i)  # swap accordingly
+    # dep = (get_dependencies(doc, 1))
 
-    # print(dep)
-    pos = (get_pos_tags(doc, 1))
+    # # print(dep)
+    # pos = (get_pos_tags(doc, 1))
+    ann = (get_ann_tags(doc, 1, sentcount))
+    annotation[sentcount]['sentence'] = i
+    sentcount += 1
     # print(pos)
     # print("--------------")
-    for x in dep[0]:
-        print(x)
+    # for x in dep[0]:
+    #     print(x)
     # print("dep done now pos------------")
     # for x in pos[0]:
     #     print(x)
 
-    reltive_pron(dep[0], pos[0], i)
-
+    # reltive_pron(dep[0], pos[0], i)
+# print(annotation[1]['sentence'])
+f = open('annotated.json', 'w')
+json.dump(annotation, f)
+f.close()
 # for z in relcl:
 #     f = open("./english_relcl.txt", "a")
 #     f.write(str(z) + "\n")

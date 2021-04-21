@@ -1,8 +1,11 @@
 import json
-f = open('annotated_english.json', 'r')
+f = open('annotated_hindi.json', 'r')
 data = json.load(f)
-relPronList = ["who", "whom", "which", "that",
-               "those", "whose", "where", "when", "why", "what"]
+# relPronList = ["who", "whom", "which", "that",
+#                "those", "whose", "where", "when", "why", "what"]
+
+relPronList = ['जो', 'जोकि', 'जहाँ', 'जिधर', 'जितना', 'जितने', 'जैसा', 'जैसे', 'जिसको', 'जिसके',
+               'जिस', 'जिसे', 'जिससे', 'जिसकी', 'जिसका', 'जिसने', 'जिन्हें', 'जिन्होंने', 'जिसमें', 'जिनमें', 'जिनकी', 'जब']
 for j in data:
 #for every sentence in data
     print("\nSentence ", j, ":")
