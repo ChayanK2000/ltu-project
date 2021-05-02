@@ -13,6 +13,7 @@ Similarly for Hindi, from dev.hi, we got some 30 out of 500 dev set(put in "hind
 
 
 Directory structure:
+```
 .
 -> Data/
     -> english*.txt
@@ -20,6 +21,7 @@ Directory structure:
 -> final_annotated_data/
     -> english_annotated.txt
     -> hindi_annotated.txt
+    -> annotated_telugu.txt
 -> main.py(for converting the annoattions to json)
 -> annotate.py(for annotating and storing it in .txt files)
 -> analyze.py(for analysing using json)
@@ -31,5 +33,6 @@ Directory structure:
     -> hindi*.txt
 -> LTU_ProjectReport.pdf
 ....other not so relevant files
+```
 
-
+The 'outputs' folder has the instances where the phenomena as mentioned in the filename has occurred.
