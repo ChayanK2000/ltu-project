@@ -22,7 +22,7 @@ Directory structure:
     -> hindi_annotated.txt
 -> main.py(for converting the annoattions to json)
 -> annotate.py(for annotating and storing it in .txt files)
--> try.py(for analysing using json)
+-> analyze.py(for analysing using json)
 -> concatenate.py(random file for preprocessing)
 -> annotated_english.json
 -> annotated_hindi.json
