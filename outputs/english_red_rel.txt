@@ -1,0 +1,512 @@
+Sentence 2:Through a special unit, the Federal government questioned pension holders in Canada about the income they are earning from their properties in other countries.
+NO PRONOUN
+REFERNT: "income" with ID :16
+
+Sentence 6:The last time people saw him he was with a man.
+NO PRONOUN
+REFERNT: "time" with ID :3
+
+Sentence 11:Many Revenue department officials are continuously asking the Canadian Chartered Accountants to force foreigners to declare their income which they are earning in other countries, so that they can calculate the appropriate tax on the income they are earning in Canada.
+NO PRONOUN
+REFERNT: "income" with ID :37
+
+Sentence 16:He said that it is the feelings of inferiority Pakistan has, when compared to India, that forces them to move down the wrong path again and again.
+NO PRONOUN
+REFERNT: "inferiority" with ID :9
+
+Sentence 17:When asked about the differences in his comments he became annoyed and started accusing the Government and the SSI, talking about what exactly is being done at the excavation site and that the media is being banned from entry there.
+NO PRONOUN
+REFERNT: "what" with ID :23
+
+Sentence 21:The Canadian government is questioning NRIs about the income from their properties and the amount they received as pension, etc. from the Punjab or India.
+NO PRONOUN
+REFERNT: "amount" with ID :15
+
+Sentence 26:According to Canadian law, after obtaining Canadian citizenship the income received from abroad must be added to their total income, but people are not doing it.
+NO PRONOUN
+REFERNT: "citizenship" with ID :9
+
+Sentence 30:He was removed from the cabinet on the 15th of April, due to offensive remarks he made about women officers.
+NO PRONOUN
+REFERNT: "remarks" with ID :16
+
+Sentence 48:This is why the TDS team initiated an income tax survey of this group.
+NO PRONOUN
+REFERNT: "why" with ID :3
+
+Sentence 52:It's a mystery I have yet to solve.
+NO PRONOUN
+REFERNT: "mystery" with ID :4
+
+Sentence 60:Rather than being rattled by the U.S. government shutdown, investors kept their focus on what probably matters more: the Federal Reserve.
+NO PRONOUN
+REFERNT: "what" with ID :16
+
+Sentence 61:"The only problem they have is poverty," Bwelle said.
+NO PRONOUN
+REFERNT: "problem" with ID :4
+
+Sentence 62:In fact, there are 1,200 officially sanctioned haunted houses in the United States generating about $500 million in revenue, according to America Haunts, and that includes those awesome photos of you mid-peeing your pants that your friend puts on Facebook and you can't take down and then that guy you like sees the photo and leaves a comment like "nice face."
+NO PRONOUN
+REFERNT: "guy" with ID :54
+
+Sentence 65:The way he has started he'll be at the Horse of the Year show before long - and I'm sure he'll do well.
+NO PRONOUN
+REFERNT: "way" with ID :2
+
+Sentence 68:They never believed he died the way the sheriff concluded.
+NO PRONOUN
+REFERNT: "way" with ID :7
+
+Sentence 73:That's not something you'd ever get to do in America as a second-year medical student.
+NO PRONOUN
+REFERNT: "something" with ID :4
+
+Sentence 76:Under the new guidelines, airlines whose planes are properly protected from electronic interference may allow passengers to use the devices during takeoffs, landings and taxiing, the FAA said.
+NO PRONOUN
+REFERNT: "airlines" with ID :6
+
+Sentence 79:I suspect that Scotland could do well inside a looser European arrangement provided we kept our own currency.
+NO PRONOUN
+REFERNT: "arrangement" with ID :12
+
+Sentence 83:With these, the accused could see the shares the investors were buying.
+NO PRONOUN
+REFERNT: "shares" with ID :9
+
+Sentence 85:What he found out was horrifying.
+NO PRONOUN
+REFERNT: "What" with ID :1
+
+Sentence 89:But the court heard he would call major players in the drugs supply chain, some of whom he had previously represented, after key arrests to tell them what detectives knew about them.
+NO PRONOUN
+REFERNT: "chain" with ID :14
+
+Sentence 91:We are driving forward HS2 because the benefits it will bring are huge.
+NO PRONOUN
+REFERNT: "benefits" with ID :8
+
+Sentence 93:It was only the second time he had competed with Toffee and we were all ecstatic when he won.
+NO PRONOUN
+REFERNT: "time" with ID :6
+
+Sentence 98:Nobody can answer the questions about why this happens.
+NO PRONOUN
+REFERNT: "why" with ID :7
+
+Sentence 101:In most cases, the process will slow down or stall -- something a pediatrician can monitor closely.
+NO PRONOUN
+REFERNT: "something" with ID :13
+
+Sentence 104:The one thing we don't want to consume, candy corn; and yet nearly 35 million pounds of it are sold around Halloween, according to the National Confectioners Association.
+NO PRONOUN
+REFERNT: "thing" with ID :3
+
+Sentence 105:To make people laugh, to reduce the pain, that's why I'm doing this.
+NO PRONOUN
+REFERNT: "why" with ID :13
+
+Sentence 113:My classmates cried with joy, and my parents saved every newspaper they could find.
+NO PRONOUN
+REFERNT: "newspaper" with ID :12
+
+Sentence 117:"It is not a matter of something we might choose to do," said Hasan Ikhrata, executive director of the Southern California Assn. of Governments, which is planning for the state to start tracking miles driven by every California motorist by 2025.
+NO PRONOUN
+REFERNT: "something" with ID :8
+
+Sentence 118:By silencing the media, politicians know they can do whatever they like with impunity.
+NO PRONOUN
+REFERNT: "whatever" with ID :11
+
+Sentence 127:That is not a battle young children should have to take up at this point.
+NO PRONOUN
+REFERNT: "battle" with ID :5
+
+Sentence 128:"The boarding process was the smoothest I had seen in my airline career," he said.
+NO PRONOUN
+REFERNT: "smoothest" with ID :7
+
+Sentence 130:We wish to apologise to all ticket holders for any inconvenience this has caused.
+NO PRONOUN
+REFERNT: "inconvenience" with ID :11
+
+Sentence 134:Two YMCA NSW employees had been charged with child sex offences before allegations were raised against Caringbah child care worker Jonathan Lord in 2011, the child sexual abuse Royal Commission has heard.
+NO PRONOUN
+REFERNT: "abuse" with ID :29
+
+Sentence 136:We had decided to do a first flight and to do an update period and that's what we have done.
+NO PRONOUN
+REFERNT: "what" with ID :18
+
+Sentence 143:"It was a shock," recalls one woman whose daughter started her period at 10.
+NO PRONOUN
+REFERNT: "woman" with ID :10
+
+Sentence 146:"There is no need for radical surgery when all you need to do is take an aspirin," said Randy Rentschler, the commission's director of legislation and public affairs.
+NO PRONOUN
+REFERNT: "all" with ID :10
+
+Sentence 155:The Secretary of State also admitted that he'd been guilty, along with Barack Obama, of being on "automatic pilot" as incendiary revelations from whistleblower Edward Snowden about the NSA's spying activities emerged.
+NO PRONOUN
+REFERNT: "whistleblower" with ID :29
+
+Sentence 157:He claims that the people's trust in Chief Minister Mamata Banarjee's leadership is increasing, and that this is the reason people are joining Trunamool.
+NO PRONOUN
+REFERNT: "reason" with ID :23
+
+Sentence 158:One thing I do look forward to every Halloween are the trends.
+NO PRONOUN
+REFERNT: "thing" with ID :2
+
+Sentence 164:"Motorists would be attracted to participate because of the value of the benefits it offers to them," says a city planning document.
+NO PRONOUN
+REFERNT: "benefits" with ID :14
+
+Sentence 165:Assaults on the former rebels then escalated as government forces attacked Renamo bases and attempted to kill Afonso Dhlakama, the group's leader, Fernando Mazanga, Renamo's spokesman, told the Financial Times.
+NO PRONOUN
+REFERNT: "Afonso" with ID :18
+
+Sentence 167:The company will fund that by using 60 per cent of S$66m it raised this week in a listing on the Singapore stock exchange.
+NO PRONOUN
+REFERNT: "$" with ID :13
+
+Sentence 169:No criminal, no matter how wealthy he becomes, can never enjoy his wealth in the correct manner and nor can he be useful to others.
+NO PRONOUN
+REFERNT: "criminal" with ID :2
+
+Sentence 172:By the time the people around him came to his help the bear had badly bitten his face.
+NO PRONOUN
+REFERNT: "help" with ID :11
+
+Sentence 173:There is debate about what constitutes the actual onset of puberty, but it is considered "precocious" when breast enlargement is accompanied by a growth spurt before age 8.
+NO PRONOUN
+REFERNT: "what" with ID :5
+
+Sentence 176:The parents of a Georgia teenager, whose body was found inside a rolled-up wrestling mat in his high school gym, believe their son was murdered, the family's attorney said Thursday.
+NO PRONOUN
+REFERNT: "teenager" with ID :6
+
+Sentence 182:Chief Executive Officer Pierre Beaudoin was confident Bombardier would meet its 300 firm order target by the time the first jet is put into commercial use.
+NO PRONOUN
+REFERNT: "time" with ID :18
+
+Sentence 187:An extra one-time or annual levy could be imposed on drivers of hybrids and others whose vehicles don't use much gas, so they pay their fair share.
+NO PRONOUN
+REFERNT: "hybrids" with ID :15
+
+Sentence 194:Since Scotland isn't in the Schengen area now, continued non-compliance would be a cheap concession for Brussels to offer up in return for whatever it really wanted out of the Scots.
+NO PRONOUN
+REFERNT: "whatever" with ID :28
+
+Sentence 195:"Double Down" claims Daley spearheaded the effort to replace Biden, despite their "close personal rapport," before ultimately deciding against the move when their data showed adding Clinton to the ticket wouldn't "materially improve Obama's odds."
+NO PRONOUN
+REFERNT: "claims" with ID :5
+
+Sentence 196:Libertarians have joined environmental groups in lobbying to allow government to use the little boxes to keep track of the miles you drive, and possibly where you drive them - then use the information to draw up a tax bill.
+NO PRONOUN
+REFERNT: "miles" with ID :21
+
+Sentence 198:But after the hearing Supt Lee Halstead from Lancashire Police said: "Mr Ditta turned from criminal solicitor to a criminal himself the moment he started obtaining drugs from organised criminals."
+NO PRONOUN
+REFERNT: "moment" with ID :25
+
+Sentence 199:The judge had ruled in August the city violated the Constitution in the way it carried out its program of stopping and questioning people.
+NO PRONOUN
+REFERNT: "way" with ID :14
+
+Sentence 203:Helping others live happier lives, fulfilling a promise he made to his father, is something that brings him great joy.
+NO PRONOUN
+REFERNT: "promise" with ID :9
+
+Sentence 204:Corporate leaders are not generally keen to boast about the countermeasures they have taken, in case this hands an advantage to an attacker.
+NO PRONOUN
+REFERNT: "countermeasures" with ID :11
+
+Sentence 206:Thousands of motorists have already taken the black boxes, some of which have GPS monitoring, for a test drive.
+NO PRONOUN
+REFERNT: "boxes" with ID :9
+
+Sentence 211:If the current guidance is achieved it will represent a 12 to 17 per cent growth on the record $290.4 million profit it achieved in 2011/12.
+NO PRONOUN
+REFERNT: "profit" with ID :23
+
+Sentence 213:As Reuters first reported in July, seat layout is exactly what drives the battle between the latest jets.
+NO PRONOUN
+REFERNT: "what" with ID :12
+
+Sentence 221:The judge noted she wasn't putting an end to the stop-and-frisk practice, which is constitutional, but was reforming the way the NYPD implemented its stops.
+NO PRONOUN
+REFERNT: "way" with ID :25
+
+Sentence 222:On Thursday, OPCW said the two locations were, according to Syria, "abandoned and ... the chemical weapons program items they contained were moved to other declared sites, which were inspected."
+NO PRONOUN
+REFERNT: "items" with ID :23
+
+Sentence 222:On Thursday, OPCW said the two locations were, according to Syria, "abandoned and ... the chemical weapons program items they contained were moved to other declared sites, which were inspected."
+NO PRONOUN
+REFERNT: "Syria" with ID :13
+
+Sentence 223:The push comes as the country's Highway Trust Fund, financed with taxes Americans pay at the gas pump, is broke.
+NO PRONOUN
+REFERNT: "taxes" with ID :14
+
+Sentence 228:One man explained that the free hernia surgery he'd received will allow him to work again.
+NO PRONOUN
+REFERNT: "surgery" with ID :8
+
+Sentence 232:He coined the term "gender identity" and argued that social and environmental cues -- how parents raised a child -- interacted with a child's genes and hormones to shape whether the person identified as male or female.
+NO PRONOUN
+REFERNT: "cues" with ID :15
+
+Sentence 233:But when they arrive, they receive a true heroes' welcome: a feast, singing and dancing, and the best accommodations the community can offer.
+NO PRONOUN
+REFERNT: "accommodations" with ID :24
+
+Sentence 234:"I salute the fortitude and courage you've all demonstrated in fulfilling the most challenging mission ever undertaken by this organization," the watchdog's director-general, Ahmet Uzumcu, said in comments released by the OPCW.
+NO PRONOUN
+REFERNT: "fortitude" with ID :5
+
+Sentence 236:The principle guest, shedding light on the life of the Veer Shaheed Kesari Chand, made everyone aware of the contribution he had made to the freedom struggle.
+NO PRONOUN
+REFERNT: "contribution" with ID :22
+
+Sentence 240:It is probably the most expensive ice cream I have made because the jellyfish luminescence is four times more expensive than gold.
+NO PRONOUN
+REFERNT: "cream" with ID :8
+
+Sentence 241:People are paying more directly into what they are getting.
+NO PRONOUN
+REFERNT: "what" with ID :7
+
+Sentence 243:The fans of German-American Model Heidi Klum were shocked at what she had done.
+NO PRONOUN
+REFERNT: "what" with ID :13
+
+Sentence 244:It's now investigating allegations Mr Tripodi knew of Mr Obeid's secret interest in the properties, after evidence given by Mr Tripodi's former deputy chief of staff, Lynne Ashpole, on Thursday.
+NO PRONOUN
+REFERNT: "allegations" with ID :5
+
+Sentence 245:It also said the measures could have a devastating effect on what it described as Kenya's "lively blogosphere."
+NO PRONOUN
+REFERNT: "what" with ID :12
+
+Sentence 248:But the House leadership killed the proposal, acting on concerns of rural lawmakers representing constituents whose daily lives often involve logging lots of miles to get to work or into town.
+NO PRONOUN
+REFERNT: "constituents" with ID :16
+
+Sentence 250:The completion of what is essentially the initial stage of destruction is a significant milestone in an ambitious timeline that aims to destroy all of Damascus' chemical weapons by mid-2014.
+NO PRONOUN
+REFERNT: "completion" with ID :2
+
+Sentence 251:It was simply nothing I could have imagined.
+NO PRONOUN
+REFERNT: "nothing" with ID :4
+
+Sentence 257:But we haven't seen how the law will play out, so all we can do is speculate.
+NO PRONOUN
+REFERNT: "all" with ID :14
+
+Sentence 258:Obama's 2008 campaign memoir is a sad reminder of what might have been
+NO PRONOUN
+REFERNT: "what" with ID :11
+
+Sentence 260:US authorities described the four foot by three foot tunnel as one of the most sophisticated secret passages they have ever discovered.
+NO PRONOUN
+REFERNT: "passages" with ID :18
+
+Sentence 261:The state would have to maintain current funding levels in order to receive Commonwealth cash and report monthly on where it was spending the extra funds.
+NO PRONOUN
+REFERNT: "where" with ID :20
+
+Sentence 267:He said European leaders need to be honest with their own people about the kind of espionage programs they've used for years themselves.
+NO PRONOUN
+REFERNT: "programs" with ID :18
+
+Sentence 270:The occasion was a Halloween party and Heidi had dressed up in such a way that people who saw her were in shock and were also were very impressed by the amazing change she had undergone.
+NO PRONOUN
+REFERNT: "change" with ID :33
+
+Sentence 272:Ditta, 42, fed information to criminals because of fears his cocaine addiction would be exposed
+NO PRONOUN
+REFERNT: "fears" with ID :11
+
+Sentence 276:It was not something people wanted.
+NO PRONOUN
+REFERNT: "something" with ID :4
+
+Sentence 285:He advised the parents of a boy whose penis had been severed in a botched circumcision to have the child fully castrated, removing his testicles, as well, and to raise him as a girl.
+NO PRONOUN
+REFERNT: "boy" with ID :7
+
+Sentence 287:Earlier this year Lord was convicted for sexual offences against 12 boys during the two years he worked at the YMCA.
+NO PRONOUN
+REFERNT: "years" with ID :16
+
+Sentence 288:There is going to be a change in how we pay these taxes.
+NO PRONOUN
+REFERNT: "how" with ID :9
+
+Sentence 290:The travel company now expects its full year underlying profit before tax to be between $325 million and $340 million, compared with the $305 million to $315 million it previously forecast.
+NO PRONOUN
+REFERNT: "$" with ID :16
+
+Sentence 296:This is the first set of such guidelines the U.S. government has put out, as the number of school-age children suffering from food allergies climbs.
+NO PRONOUN
+REFERNT: "guidelines" with ID :8
+
+Sentence 304:"The reason Boeing are doing this is to cram more seats in to make their plane more competitive with our products," said Kevin Keniston, head of passenger comfort at Europe's Airbus.
+NO PRONOUN
+REFERNT: "reason" with ID :3
+
+Sentence 305:The protein we are using in the ice cream reacts with your tongue at neutral pH.
+NO PRONOUN
+REFERNT: "protein" with ID :2
+
+Sentence 306:Many German executives argue that the latest reports are simply confirmation of what they already knew: that powerful states want to steal their most prized secrets and these data must therefore be guarded at all costs.
+NO PRONOUN
+REFERNT: "what" with ID :13
+
+Sentence 311:"We need to be careful about how we identify the true onset of puberty," said Dr. Lawrence Silverman, a pediatric endocrinologist at Goryeb Children's Hospital in Morristown, New Jersey.
+NO PRONOUN
+REFERNT: "how" with ID :8
+
+Sentence 314:Staff gave evidence they observed breaches including Lord being alone with children, babysitting them privately, having them sit on his lap, saying he loved one and letting them play with his mobile phone.
+NO PRONOUN
+REFERNT: "evidence" with ID :3
+
+Sentence 315:Obviously, elective office isn't a predictable course, as the opposing political party and random events, such as the Newtown massacre, will shape our public conversation.
+NO PRONOUN
+REFERNT: "course" with ID :9
+
+Sentence 321:I credit Obama with great and varied accomplishments, from the passage of the Affordable Care Act to our military exit from Iraq, the end of "don't ask don't tell," to the killing of Osama bin Laden.
+NO PRONOUN
+REFERNT: "end" with ID :26
+
+Sentence 322:Last month, people close to the situation said that RBS had turned over records of emails and instant messages to the UK regulator, the Financial Conduct Authority, sent to and from a former trader.
+NO PRONOUN
+REFERNT: "regulator" with ID :24
+
+Sentence 324:It's like the mystery of why people are gay.
+NO PRONOUN
+REFERNT: "why" with ID :7
+
+Sentence 338:"The Government has come up with an emergency rescue package we believe will address the unique challenges faced by the state," Ms Plibersek said today.
+NO PRONOUN
+REFERNT: "package" with ID :11
+
+Sentence 341:They are exploring how, over the next decade, they can move to a system in which drivers pay per mile of road they roll over.
+NO PRONOUN
+REFERNT: "system" with ID :16
+
+Sentence 345:Some of which we are sharing with you here.
+NO PRONOUN
+REFERNT: "Some" with ID :1
+
+Sentence 346:Instead, Bwelle spent years escorting his father to overcrowded clinics and hospitals, getting whatever treatment they could get.
+NO PRONOUN
+REFERNT: "treatment" with ID :17
+
+Sentence 351:The relationship we are talking about is not simply a drug dealer, but a drug dealer providing his own lawyer with drugs.
+NO PRONOUN
+REFERNT: "relationship" with ID :2
+
+Sentence 358:In August, New York City agreed to end the practice of storing the names and addresses of people whose cases are dismissed after a police stop.
+NO PRONOUN
+REFERNT: "people" with ID :19
+
+Sentence 359:Rather, the euro system locked in its members at exchange rates favourable to German exporters - something German politicians want to keep.
+NO PRONOUN
+REFERNT: "something" with ID :18
+
+Sentence 360:But Mr Hare rejected the suggestion the YMCA had a cultural problem which prevented staff from reporting Lord's breaches of child safety.
+NO PRONOUN
+REFERNT: "suggestion" with ID :6
+
+Sentence 365:The judges marked Fenton and Toffee on how well they were turned out and the way they presented in the show ring.
+NO PRONOUN
+REFERNT: "way" with ID :16
+
+Sentence 368:The fighting underscored the dangers the chemical weapons' inspectors face as they race against tight deadlines in their mission to rid Syria of the toxic arsenal in the midst of an ongoing civil war.
+NO PRONOUN
+REFERNT: "dangers" with ID :5
+
+Sentence 372:The group that owns thousands of former Nortel patents filed a barrage of patent lawsuits on Thursday against cell phone manufacturers including Google, the company it outbid in the Nortel bankruptcy auction.
+NO PRONOUN
+REFERNT: "company" with ID :26
+
+Sentence 375:The water rail was fit and well by the time it was released.
+NO PRONOUN
+REFERNT: "time" with ID :10
+
+Sentence 382:Charlie Brown introduced us to The Great Pumpkin when we were kids, and carving a jack-o-lantern is like decorating a Christmas tree - it's something we've done since we were little.
+NO PRONOUN
+REFERNT: "something" with ID :29
+
+Sentence 384:So what if you were able to intercept that and stop it before it happens?
+NO PRONOUN
+REFERNT: "what" with ID :2
+
+Sentence 385:Chris says because the ice cream lights up when it reacts with the heat of the mouth it means the more you lick, the brighter it becomes.
+NO PRONOUN
+REFERNT: "more" with ID :21
+
+Sentence 388:YMCA NSW was not a child safe organisation at the time Jonathan Lord was employed between 2009 and 2011, child sex abuse expert Professor Stephen Smallbone of Griffith University told the commission.
+NO PRONOUN
+REFERNT: "time" with ID :11
+
+Sentence 388:YMCA NSW was not a child safe organisation at the time Jonathan Lord was employed between 2009 and 2011, child sex abuse expert Professor Stephen Smallbone of Griffith University told the commission.
+NO PRONOUN
+REFERNT: "organisation" with ID :8
+
+Sentence 393:That is what troubles me most of all.
+NO PRONOUN
+REFERNT: "what" with ID :3
+
+Sentence 402:Boeing disputes Airbus's figures on seat measurements and says it is not up to manufacturers to step into decisions on how airlines balance fares and facilities.
+NO PRONOUN
+REFERNT: "how" with ID :22
+
+Sentence 406:The group -- a mix of Cameroonian doctors and foreign medical students -- has performed 700 free surgeries in the past year, and they know that their help can make a world of difference to those they help.
+NO PRONOUN
+REFERNT: "those" with ID :37
+
+Sentence 415:This means that in those states where most households in the rural areas have gas connections the sale of PDS kerosene will be stopped.
+NO PRONOUN
+REFERNT: "connections" with ID :16
+
+Sentence 417:But, contrary to the claims by Modi during the NDA government (between 1994 and 2004), while Atal Bihari Vajpayee was the PM there was a time for 2 consecutive years (2001-2002) when not a single advertisement for Sardar Patel was published by the Government.
+NO PRONOUN
+REFERNT: "PM" with ID :26
+
+Sentence 421:The heart-throb of many young men, Heidi was seen in such a manner it was difficult to recognise her.
+NO PRONOUN
+REFERNT: "manner" with ID :16
+
+Sentence 430:A study of how dogs responded to real dogs could help, he explained.
+NO PRONOUN
+REFERNT: "how" with ID :4
+
+Sentence 431:That is why they will never allow peace to prevail on the border.
+NO PRONOUN
+REFERNT: "why" with ID :3
+
+Sentence 441:"The reason we are here is that the Labor State Government ripped $430 million out of its health system," he told ABC TV.
+NO PRONOUN
+REFERNT: "reason" with ID :3
+
+Sentence 442:Jim Snabe, co-chief executive at SAP, says: "We see a new question from customers that didn't come up a year ago - which is where is my data stored and can you guarantee that it stays physically in that jurisdiction."
+NO PRONOUN
+REFERNT: "where" with ID :30
+
+Sentence 445:Please contact the customer services at the box office you purchased your tickets from for any further assistance.
+NO PRONOUN
+REFERNT: "office" with ID :9
+
+Sentence 450:Time is the most accurate test of how puberty is going to progress.
+NO PRONOUN
+REFERNT: "how" with ID :8
+
+Sentence 460:I don't know if this is what I should have expected.
+NO PRONOUN
+REFERNT: "what" with ID :8
+

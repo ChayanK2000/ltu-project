@@ -1,0 +1,1316 @@
+Sentence 1:
+ఈ యోగాను పరిగణించే వ్యక్తులు ఈ సమయంలో షాపింగ్ చేయకుండా ఉండగలరు మరియు ఈ యోగును విస్మరించే వ్యక్తులు షాపింగ్‌కు వెళ్ళవచ్చు.
+Ī yōgānu parigaṇin̄cē vyaktulu ī samayanlō ṣāpiṅg cēyakuṇḍā uṇḍagalaru mariyu ī yōgunu vismarin̄cē vyaktulu ṣāpiṅg‌ku veḷḷavaccu.
+
+(1, 'ఈ', 'ఈ', 'DET', 'DET', None, 2, 'det')
+(2, 'యోగాను', 'యోగాను', 'NOUN', 'NOUN', None, 3, 'nsubj')
+(3, 'పరిగణించే', 'పరిగణించే', 'VERB', 'VERB', None, 4, 'nmod')
+(4, 'వ్యక్తులు', 'వ్యక్తులు', 'NOUN', 'NOUN', None, 9, 'nsubj')
+(5, 'ఈ', 'ఈ', 'DET', 'DET', None, 12, 'det')
+(6, 'సమయంలో', 'సమయంలో', 'ADP', 'ADP', None, 4, 'case')
+(7, 'షాపింగ్', 'షాపింగ్', 'NOUN', 'NOUN', None, 8, 'nsubj')
+(8, 'చేయకుండా', 'చేయకుండా', 'VERB', 'VERB', None, 9, 'compound:svc')
+(9, 'ఉండగలరు', 'ఉండగలరు', 'VERB', 'VERB', None, 16, 'ccomp')
+(10, 'మరియు', 'మరియు', 'CCONJ', 'CCONJ', None, 9, 'punct')
+(11, 'ఈ', 'ఈ', 'DET', 'DET', None, 12, 'det')
+(12, 'యోగును', 'యోగును', 'NOUN', 'NOUN', None, 14, 'nsubj')
+(13, 'విస్మరించే', 'విస్మరించే', 'VERB', 'VERB', None, 14, 'amod')
+(14, 'వ్యక్తులు', 'వ్యక్తులు', 'NOUN', 'NOUN', None, 16, 'nsubj')
+(15, 'షాపింగ్\u200cకు', 'షాపింగ్\u200cకు', 'ADV', 'ADV', None, 16, 'advmod')
+(16, 'వెళ్ళవచ్చు', 'వెళ్ళవచ్చు', 'VERB', 'VERB', None, 0, 'root')
+(17, '.', '.', 'PUNCT', 'PUNCT', None, 16, 'punct')
+
+
+Sentence 2:
+ప్రత్యేక యూనిట్ ద్వారా, ఫెడరల్ ప్రభుత్వం కెనడాలోని పెన్షన్ హోల్డర్లను ఇతర దేశాలలో వారి ఆస్తుల ద్వారా సంపాదించే ఆదాయం గురించి ప్రశ్నించింది.
+Pratyēka yūniṭ dvārā, pheḍaral prabhutvaṁ kenaḍālōni penṣan hōlḍarlanu itara dēśālalō vāri āstula dvārā sampādin̄cē ādāyaṁ gurin̄ci praśnin̄cindi.
+
+(1, 'ప్రత్యేక', 'ప్రత్యేక', 'NOUN', 'NOUN', None, 2, 'nmod:poss')
+(2, 'యూనిట్', 'యూనిట్', 'NOUN', 'NOUN', None, 9, 'obl')
+(3, 'ద్వారా', 'ద్వారా', 'ADP', 'ADP', None, 2, 'case')
+(4, ',', ',', 'PUNCT', 'PUNCT', None, 9, 'punct')
+(5, 'ఫెడరల్', 'ఫెడరల్', 'NOUN', 'NOUN', None, 9, 'obl')
+(6, 'ప్రభుత్వం', 'ప్రభుత్వం', 'NOUN', 'NOUN', None, 9, 'obl')
+(7, 'కెనడాలోని', 'కెనడాలోని', 'NOUN', 'NOUN', None, 9, 'obl')
+(8, 'పెన్షన్', 'పెన్షన్', 'NOUN', 'NOUN', None, 9, 'advmod')
+(9, 'హోల్డర్లను', 'హోల్డర్లను', 'VERB', 'VERB', None, 16, 'ccomp')
+(10, 'ఇతర', 'ఇతర', 'DET', 'DET', None, 11, 'det')
+(11, 'దేశాలలో', 'దేశాలలో', 'NOUN', 'NOUN', None, 18, 'obl')
+(12, 'వారి', 'వారి', 'PRON', 'PRON', None, 13, 'nmod')
+(13, 'ఆస్తుల', 'ఆస్తుల', 'NOUN', 'NOUN', None, 16, 'acl')
+(14, 'ద్వారా', 'ద్వారా', 'ADP', 'ADP', None, 2, 'case')
+(15, 'సంపాదించే', 'సంపాదించే', 'VERB', 'VERB', None, 16, 'amod')
+(16, 'ఆదాయం', 'ఆదాయం', 'NOUN', 'NOUN', None, 18, 'nsubj')
+(17, 'గురించి', 'గురించి', 'ADV', 'ADV', None, 18, 'advmod')
+(18, 'ప్రశ్నించింది', 'ప్రశ్నించింది', 'VERB', 'VERB', None, 0, 'root')
+(19, '.', '.', 'PUNCT', 'PUNCT', None, 18, 'punct')
+
+
+Sentence 3:
+అమెరికన్ ఎకానమీకి తన రిలీఫ్ ప్యాకేజీతో మద్దతు ఇవ్వడం కొనసాగించాలని ఫెడరల్ రిజర్వ్ తీసుకున్న నిర్ణయం విదేశీ పెట్టుబడిదారులలో ఉత్సాహాన్ని సృష్టించింది, ఇది దేశీయ వాటా మార్కెట్‌కు గురువారం చరిత్ర సృష్టించడానికి సహాయపడింది.
+Amerikan ekānamīki tana rilīph pyākējītō maddatu ivvaḍaṁ konasāgin̄cālani pheḍaral rijarv tīsukunna nirṇayaṁ vidēśī peṭṭubaḍidārulalō utsāhānni sr̥ṣṭin̄cindi, idi dēśīya vāṭā mārkeṭ‌ku guruvāraṁ caritra sr̥ṣṭin̄caḍāniki sahāyapaḍindi.
+
+(1, 'అమెరికన్', 'అమెరికన్', 'PROPN', 'PROPN', None, 2, 'compound')
+(2, 'ఎకానమీకి', 'ఎకానమీకి', 'NOUN', 'NOUN', None, 7, 'obl')
+(3, 'తన', 'తన', 'PRON', 'PRON', None, 4, 'nmod:poss')
+(4, 'రిలీఫ్', 'రిలీఫ్', 'NOUN', 'NOUN', None, 7, 'obl')
+(5, 'ప్యాకేజీతో', 'ప్యాకేజీతో', 'NOUN', 'NOUN', None, 7, 'obl')
+(6, 'మద్దతు', 'మద్దతు', 'NOUN', 'NOUN', None, 7, 'obj')
+(7, 'ఇవ్వడం', 'ఇవ్వడం', 'VERB', 'VERB', None, 8, 'ccomp')
+(8, 'కొనసాగించాలని', 'కొనసాగించాలని', 'VERB', 'VERB', None, 12, 'ccomp')
+(9, 'ఫెడరల్', 'ఫెడరల్', 'NOUN', 'NOUN', None, 11, 'nsubj')
+(10, 'రిజర్వ్', 'రిజర్వ్', 'NOUN', 'NOUN', None, 20, 'nmod')
+(11, 'తీసుకున్న', 'తీసుకున్న', 'VERB', 'VERB', None, 12, 'ccomp')
+(12, 'నిర్ణయం', 'నిర్ణయం', 'VERB', 'VERB', None, 16, 'ccomp')
+(13, 'విదేశీ', 'విదేశీ', 'NOUN', 'NOUN', None, 16, 'nsubj')
+(14, 'పెట్టుబడిదారులలో', 'పెట్టుబడిదారులలో', 'NOUN', 'NOUN', None, 16, 'obl:tmod')
+(15, 'ఉత్సాహాన్ని', 'ఉత్సాహాన్ని', 'NOUN', 'NOUN', None, 20, 'nmod')
+(16, 'సృష్టించింది', 'సృష్టించింది', 'VERB', 'VERB', None, 20, 'ccomp')
+(17, ',', ',', 'PUNCT', 'PUNCT', None, 20, 'punct')
+(18, 'ఇది', 'ఇది', 'PRON', 'PRON', None, 20, 'punct')
+(19, 'దేశీయ', 'దేశీయ', 'NOUN', 'NOUN', None, 20, 'nmod')
+(20, 'వాటా', 'వాటా', 'NOUN', 'NOUN', None, 22, 'ccomp')
+(21, 'మార్కెట్\u200cకు', 'మార్కెట్\u200cకు', 'DET', 'DET', None, 22, 'det')
+(22, 'గురువారం', 'గురువారం', 'NOUN', 'NOUN', None, 25, 'ccomp')
+(23, 'చరిత్ర', 'చరిత్ర', 'NOUN', 'NOUN', None, 25, 'nsubj')
+(24, 'సృష్టించడానికి', 'సృష్టించడానికి', 'NOUN', 'NOUN', None, 25, 'obj')
+(25, 'సహాయపడింది', 'సహాయపడింది', 'VERB', 'VERB', None, 0, 'root')
+(26, '.', '.', 'PUNCT', 'PUNCT', None, 25, 'punct')
+
+
+Sentence 4:
+మీరు ఇంకా సంతృప్తి చెందకపోతే మరియు ఈ పేర్ల గురించి మీకు రిజర్వేషన్లు ఉంటే, మార్కెట్లో అందుబాటులో ఉన్న ఇతర ఎంపికలు ఉన్నాయి.
+Mīru iṅkā santr̥pti cendakapōtē mariyu ī pērla gurin̄ci mīku rijarvēṣanlu uṇṭē, mārkeṭlō andubāṭulō unna itara empikalu unnāyi.
+
+(1, 'మీరు', 'మీరు', 'PRON', 'PRON', None, 4, 'nsubj')
+(2, 'ఇంకా', 'ఇంకా', 'ADV', 'ADV', None, 4, 'advmod')
+(3, 'సంతృప్తి', 'సంతృప్తి', 'NOUN', 'NOUN', None, 4, 'obj')
+(4, 'చెందకపోతే', 'చెందకపోతే', 'VERB', 'VERB', None, 11, 'ccomp')
+(5, 'మరియు', 'మరియు', 'CCONJ', 'CCONJ', None, 4, 'punct')
+(6, 'ఈ', 'ఈ', 'DET', 'DET', None, 7, 'det')
+(7, 'పేర్ల', 'పేర్ల', 'NOUN', 'NOUN', None, 11, 'obl')
+(8, 'గురించి', 'గురించి', 'ADP', 'ADP', None, 7, 'case')
+(9, 'మీకు', 'మీకు', 'PRON', 'PRON', None, 11, 'nsubj')
+(10, 'రిజర్వేషన్లు', 'రిజర్వేషన్లు', 'NOUN', 'NOUN', None, 11, 'nsubj')
+(11, 'ఉంటే', 'ఉంటే', 'VERB', 'VERB', None, 15, 'compound:svc')
+(12, ',', ',', 'PUNCT', 'PUNCT', None, 11, 'punct')
+(13, 'మార్కెట్లో', 'మార్కెట్లో', 'NOUN', 'NOUN', None, 15, 'obl')
+(14, 'అందుబాటులో', 'అందుబాటులో', 'NOUN', 'NOUN', None, 15, 'advmod')
+(15, 'ఉన్న', 'ఉన్న', 'VERB', 'VERB', None, 18, 'ccomp')
+(16, 'ఇతర', 'ఇతర', 'DET', 'DET', None, 17, 'det')
+(17, 'ఎంపికలు', 'ఎంపికలు', 'NOUN', 'NOUN', None, 18, 'nsubj')
+(18, 'ఉన్నాయి', 'ఉన్నాయి', 'VERB', 'VERB', None, 0, 'root')
+(19, '.', '.', 'PUNCT', 'PUNCT', None, 18, 'punct')
+
+
+Sentence 5:
+ఆరోగ్య శాఖ, సిడిపిఓ లేనప్పుడు సమావేశానికి హాజరుకావడానికి వచ్చిన ప్రతినిధులను సమావేశ మందిరంలో కూర్చోవడానికి అనుమతించలేదు.
+Ārōgya śākha, siḍipi'ō lēnappuḍu samāvēśāniki hājarukāvaḍāniki vaccina pratinidhulanu samāvēśa mandiranlō kūrcōvaḍāniki anumatin̄calēdu.
+
+(1, 'ఆరోగ్య', 'ఆరోగ్య', 'NOUN', 'NOUN', None, 7, 'obl')
+(2, 'శాఖ', 'శాఖ', 'PROPN', 'PROPN', None, 5, 'obl')
+(3, ',', ',', 'PUNCT', 'PUNCT', None, 5, 'punct')
+(4, 'సిడిపిఓ', 'సిడిపిఓ', 'NOUN', 'NOUN', None, 5, 'obl')
+(5, 'లేనప్పుడు', 'లేనప్పుడు', 'VERB', 'VERB', None, 8, 'ccomp')
+(6, 'సమావేశానికి', 'సమావేశానికి', 'NOUN', 'NOUN', None, 8, 'obl')
+(7, 'హాజరుకావడానికి', 'హాజరుకావడానికి', 'VERB', 'VERB', None, 8, 'obj')
+(8, 'వచ్చిన', 'వచ్చిన', 'VERB', 'VERB', None, 9, 'acl')
+(9, 'ప్రతినిధులను', 'ప్రతినిధులను', 'NOUN', 'NOUN', None, 10, 'nsubj')
+(10, 'సమావే', 'సమావే', 'VERB', 'VERB', None, 0, 'root')
+(11, 'శ', 'శ', 'ADP', 'ADP', None, 2, 'case')
+
+
+Sentence 6:
+చివరిసారి ప్రజలు అతన్ని చూసినప్పుడు అతను ఒక వ్యక్తితో ఉన్నాడు.
+Civarisāri prajalu atanni cūsinappuḍu atanu oka vyaktitō unnāḍu.
+
+(1, 'చివరిసారి', 'చివరిసారి', 'ADV', 'ADV', None, 8, 'advmod')
+(2, 'ప్రజలు', 'ప్రజలు', 'NOUN', 'NOUN', None, 4, 'nsubj')
+(3, 'అతన్ని', 'అతన్ని', 'PRON', 'PRON', None, 4, 'obj')
+(4, 'చూసినప్పుడు', 'చూసినప్పుడు', 'VERB', 'VERB', None, 8, 'advcl')
+(5, 'అతను', 'అతను', 'PRON', 'PRON', None, 8, 'nsubj')
+(6, 'ఒక', 'ఒక', 'NUM', 'NUM', 'NumType=Card', 7, 'nummod')
+(7, 'వ్యక్తితో', 'వ్యక్తితో', 'NOUN', 'NOUN', None, 8, 'obl')
+(8, 'ఉన్నాడు', 'ఉన్నాడు', 'VERB', 'VERB', None, 0, 'root')
+(9, '.', '.', 'PUNCT', 'PUNCT', None, 8, 'punct')
+
+
+Sentence 7:
+పూజా మరియు ఇతర ఇత్తడి వస్తువులకు ఉపయోగించిన వస్తువులను సబ్జీ-మండిలో విక్రయించే వికాస్ మాట్లాడుతూ, ఇత్తడి ఖరీదైనదిగా ఉన్నందున, ఇత్తడి నుండి తయారైన వస్తువులు కూడా ఖరీదైనవి.
+Pūjā mariyu itara ittaḍi vastuvulaku upayōgin̄cina vastuvulanu sabjī-maṇḍilō vikrayin̄cē vikās māṭlāḍutū, ittaḍi kharīdainadigā unnanduna, ittaḍi nuṇḍi tayāraina vastuvulu kūḍā kharīdainavi.
+
+(1, 'పూజా', 'పూజా', 'NOUN', 'NOUN', None, 4, 'nmod')
+(2, 'మరియు', 'మరియు', 'ADP', 'ADP', None, 1, 'case')
+(3, 'ఇతర', 'ఇతర', 'DET', 'DET', None, 4, 'det')
+(4, 'ఇత్తడి', 'ఇత్తడి', 'NOUN', 'NOUN', None, 6, 'nsubj')
+(5, 'వస్తువులకు', 'వస్తువులకు', 'NOUN', 'NOUN', None, 6, 'obl')
+(6, 'ఉపయోగించిన', 'ఉపయోగించిన', 'VERB', 'VERB', None, 7, 'ccomp')
+(7, 'వస్తువులను', 'వస్తువులను', 'NOUN', 'NOUN', None, 11, 'obl')
+(8, 'సబ్జీ-మండిలో', 'సబ్జీ-మండిలో', 'NOUN', 'NOUN', None, 11, 'obl:tmod')
+(9, 'విక్రయించే', 'విక్రయించే', 'VERB', 'VERB', None, 11, 'compound:svc')
+(10, 'వికాస్', 'వికాస్', 'NOUN', 'NOUN', None, 11, 'nsubj')
+(11, 'మాట్లాడుతూ', 'మాట్లాడుతూ', 'VERB', 'VERB', None, 15, 'ccomp')
+(12, ',', ',', 'PUNCT', 'PUNCT', None, 11, 'punct')
+(13, 'ఇత్తడి', 'ఇత్తడి', 'NOUN', 'NOUN', None, 15, 'nsubj')
+(14, 'ఖరీదైనదిగా', 'ఖరీదైనదిగా', 'NOUN', 'NOUN', None, 15, 'advmod')
+(15, 'ఉన్నందున', 'ఉన్నందున', 'VERB', 'VERB', None, 19, 'ccomp')
+(16, ',', ',', 'PUNCT', 'PUNCT', None, 15, 'punct')
+(17, 'ఇత్తడి', 'ఇత్తడి', 'NOUN', 'NOUN', None, 20, 'nsubj')
+(18, 'నుండి', 'నుండి', 'ADP', 'ADP', None, 17, 'case')
+(19, 'తయారైన', 'తయారైన', 'VERB', 'VERB', None, 20, 'acl')
+(20, 'వస్తువులు', 'వస్తువులు', 'NOUN', 'NOUN', None, 22, 'nsubj')
+(21, 'కూడా', 'కూడా', 'ADV', 'ADV', None, 22, 'advmod')
+(22, 'ఖరీదైనవి', 'ఖరీదైనవి', 'NOUN', 'NOUN', None, 0, 'root')
+(23, '.', '.', 'PUNCT', 'PUNCT', None, 22, 'punct')
+
+
+Sentence 8:
+వివాదాస్పద ప్రసంగాలకు పేరుగాంచిన యుపి మాజీ మంత్రి రాజారాం పాండే గుండెపోటుతో గురువారం సాయంత్రం కన్నుమూశారు.
+Vivādāspada prasaṅgālaku pērugān̄cina yupi mājī mantri rājārāṁ pāṇḍē guṇḍepōṭutō guruvāraṁ sāyantraṁ kannumūśāru.
+
+(1, 'వివాదాస్పద', 'వివాదాస్పద', 'PROPN', 'PROPN', None, 2, 'compound')
+(2, 'ప్రసంగాలకు', 'ప్రసంగాలకు', 'NOUN', 'NOUN', None, 3, 'obl')
+(3, 'పేరుగాంచిన', 'పేరుగాంచిన', 'VERB', 'VERB', None, 9, 'acl')
+(4, 'యుపి', 'యుపి', 'PRON', 'PRON', None, 6, 'nmod')
+(5, 'మాజీ', 'మాజీ', 'NOUN', 'NOUN', None, 6, 'nmod')
+(6, 'మంత్రి', 'మంత్రి', 'NOUN', 'NOUN', None, 7, 'nsubj')
+(7, 'రాజారాం', 'రాజారాం', 'PROPN', 'PROPN', None, 3, 'punct')
+(8, 'పాండే', 'పాండే', 'ADJ', 'ADJ', None, 9, 'amod')
+(9, 'గుండెపోటుతో', 'గుండెపోటుతో', 'NOUN', 'NOUN', None, 12, 'obl:tmod')
+(10, 'గురువారం', 'గురువారం', 'NOUN', 'NOUN', None, 12, 'nsubj')
+(11, 'సాయంత్రం', 'సాయంత్రం', 'NOUN', 'NOUN', None, 12, 'obl')
+(12, 'కన్నుమూశారు', 'కన్నుమూశారు', 'NOUN', 'NOUN', None, 0, 'root')
+(13, '.', '.', 'PUNCT', 'PUNCT', None, 12, 'punct')
+
+
+Sentence 9:
+పిఎస్‌ఎస్‌ సర్వసభ్య సమావేశాన్ని 7 రోజుల నోటీసుతో పిలిచామని, అయితే మే 12 న జరిగిన సమావేశం సమాచారం మే 8 న పంపబడిందని, ఇది సమావేశానికి ఒక రోజు ముందు పిఎస్‌ఎస్‌కు చేరుకుందని చెప్పారు.
+Pi'es‌es‌ sarvasabhya samāvēśānni 7 rōjula nōṭīsutō pilicāmani, ayitē mē 12 na jarigina samāvēśaṁ samācāraṁ mē 8 na pampabaḍindani, idi samāvēśāniki oka rōju mundu pi'es‌es‌ku cērukundani ceppāru.
+
+(1, 'పిఎస్\u200cఎస్\u200c', 'పిఎస్\u200cఎస్\u200c', 'PROPN', 'PROPN', None, 2, 'compound')
+(2, 'సర్వసభ్య', 'సర్వసభ్య', 'PROPN', 'PROPN', None, 4, 'nsubj')
+(3, 'సమావేశాన్ని', 'సమావేశాన్ని', 'NOUN', 'NOUN', None, 4, 'obj')
+(4, '7', '7', 'VERB', 'VERB', None, 0, 'root')
+
+
+Sentence 10:
+నిర్ణీత తేదీలోగా తమ విద్యుత్ బిల్లు చెల్లించని వారు.
+Nirṇīta tēdīlōgā tama vidyut billu cellin̄cani vāru.
+
+(1, 'నిర్ణీత', 'నిర్ణీత', 'NOUN', 'NOUN', None, 2, 'nummod')
+(2, 'తేదీలోగా', 'తేదీలోగా', 'ADV', 'ADV', None, 7, 'advmod')
+(3, 'తమ', 'తమ', 'NOUN', 'NOUN', None, 4, 'nmod:poss')
+(4, 'విద్యుత్', 'విద్యుత్', 'NOUN', 'NOUN', None, 5, 'nmod:poss')
+(5, 'బిల్లు', 'బిల్లు', 'NOUN', 'NOUN', None, 7, 'nsubj')
+(6, 'చెల్లించని', 'చెల్లించని', 'NOUN', 'NOUN', None, 7, 'nmod')
+(7, 'వారు', 'వారు', 'PRON', 'PRON', None, 0, 'root')
+(8, '.', '.', 'PUNCT', 'PUNCT', None, 7, 'punct')
+
+
+Sentence 11:
+కెనడా చార్టర్డ్ అకౌంటెంట్లను చాలా మంది రెవెన్యూ శాఖ అధికారులు నిరంతరం అడుగుతున్నారు, విదేశీయులు తమ ఆదాయాన్ని ఇతర దేశాలలో ప్రకటించమని బలవంతం చేయమని, తద్వారా వారు కెనడాలో సంపాదిస్తున్న ఆదాయంపై తగిన పన్నును లెక్కించవచ్చు.
+Kenaḍā cārṭarḍ akauṇṭeṇṭlanu cālā mandi reven'yū śākha adhikārulu nirantaraṁ aḍugutunnāru, vidēśīyulu tama ādāyānni itara dēśālalō prakaṭin̄camani balavantaṁ cēyamani, tadvārā vāru kenaḍālō sampādistunna ādāyampai tagina pannunu lekkin̄cavaccu.
+
+(1, 'కెనడా', 'కెనడా', 'PROPN', 'PROPN', None, 2, 'nmod')
+(2, 'చార్టర్డ్', 'చార్టర్డ్', 'NOUN', 'NOUN', None, 10, 'nsubj')
+(3, 'అకౌంటెంట్లను', 'అకౌంటెంట్లను', 'NOUN', 'NOUN', None, 6, 'list')
+(4, 'చాలా', 'చాలా', 'DET', 'DET', None, 5, 'det')
+(5, 'మంది', 'మంది', 'NOUN', 'NOUN', None, 8, 'nmod')
+(6, 'రెవెన్యూ', 'రెవెన్యూ', 'NOUN', 'NOUN', None, 8, 'nmod')
+(7, 'శాఖ', 'శాఖ', 'PROPN', 'PROPN', None, 10, 'punct')
+(8, 'అధికారులు', 'అధికారులు', 'NOUN', 'NOUN', None, 10, 'nsubj')
+(9, 'నిరంతరం', 'నిరంతరం', 'NOUN', 'NOUN', None, 10, 'advmod')
+(10, 'అడుగుతున్నారు', 'అడుగుతున్నారు', 'VERB', 'VERB', None, 12, 'list')
+(11, ',', ',', 'PUNCT', 'PUNCT', None, 12, 'punct')
+(12, 'విదేశీయులు', 'విదేశీయులు', 'NOUN', 'NOUN', None, 14, 'nmod')
+(13, 'తమ', 'తమ', 'NOUN', 'NOUN', None, 14, 'nmod')
+(14, 'ఆదాయాన్ని', 'ఆదాయాన్ని', 'NOUN', 'NOUN', None, 17, 'iobj')
+(15, 'ఇతర', 'ఇతర', 'DET', 'DET', None, 16, 'det')
+(16, 'దేశాలలో', 'దేశాలలో', 'NOUN', 'NOUN', None, 19, 'obl')
+(17, 'ప్రకటించమని', 'ప్రకటించమని', 'VERB', 'VERB', None, 19, 'ccomp')
+(18, 'బలవంతం', 'బలవంతం', 'NOUN', 'NOUN', None, 19, 'nsubj')
+(19, 'చేయమని', 'చేయమని', 'VERB', 'VERB', None, 24, 'ccomp')
+(20, ',', ',', 'PUNCT', 'PUNCT', None, 19, 'punct')
+(21, 'తద్వారా', 'తద్వారా', 'CCONJ', 'CCONJ', None, 19, 'punct')
+(22, 'వారు', 'వారు', 'PRON', 'PRON', None, 24, 'nsubj')
+(23, 'కెనడాలో', 'కెనడాలో', 'NOUN', 'NOUN', None, 24, 'obl:tmod')
+(24, 'సంపాదిస్తున్న', 'సంపాదిస్తున్న', 'VERB', 'VERB', None, 27, 'ccomp')
+(25, 'ఆదాయంపై', 'ఆదాయంపై', 'NOUN', 'NOUN', None, 27, 'nsubj')
+(26, 'తగిన', 'తగిన', 'ADV', 'ADV', None, 28, 'advmod')
+(27, 'పన్నును', 'పన్నును', 'NOUN', 'NOUN', None, 28, 'advmod')
+(28, 'లెక్కించవచ్చు', 'లెక్కించవచ్చు', 'VERB', 'VERB', None, 0, 'root')
+(29, '.', '.', 'PUNCT', 'PUNCT', None, 28, 'punct')
+
+
+Sentence 12:
+1 నెల తరువాత కూడా డిఎల్ పంపిణీ చేయని దరఖాస్తుదారులు చాలా మంది ఉన్నారు.
+1 Nela taruvāta kūḍā ḍi'el pampiṇī cēyani darakhāstudārulu cālā mandi unnāru.
+
+(1, '1', '1', 'NUM', 'NUM', 'NumType=Card', 2, 'nummod')
+(2, 'నెల', 'నెల', 'NOUN', 'NOUN', None, 7, 'obl')
+(3, 'తరువాత', 'తరువాత', 'ADP', 'ADP', None, 2, 'case')
+(4, 'కూడా', 'కూడా', 'ADV', 'ADV', None, 7, 'advmod')
+(5, 'డిఎల్', 'డిఎల్', 'NOUN', 'NOUN', None, 7, 'obl')
+(6, 'పంపిణీ', 'పంపిణీ', 'PRON', 'PRON', None, 7, 'nsubj')
+(7, 'చేయని', 'చేయని', 'VERB', 'VERB', None, 10, 'acl')
+(8, 'దరఖాస్తుదారులు', 'దరఖాస్తుదారులు', 'NOUN', 'NOUN', None, 11, 'nsubj')
+(9, 'చాలా', 'చాలా', 'DET', 'DET', None, 10, 'det')
+(10, 'మంది', 'మంది', 'NOUN', 'NOUN', None, 11, 'obj')
+(11, 'ఉన్నారు', 'ఉన్నారు', 'VERB', 'VERB', None, 0, 'root')
+(12, '.', '.', 'PUNCT', 'PUNCT', None, 11, 'punct')
+
+
+Sentence 13:
+గత సంవత్సరం దీపావళి సందర్భంగా వివిధ ప్రదేశాలలో నిర్వహించిన దర్యాప్తులో శబ్ద కాలుష్యం 100 డెసిబెల్ స్థాయికి చేరుకుందని తేలింది.
+Gata sanvatsaraṁ dīpāvaḷi sandarbhaṅgā vividha pradēśālalō nirvahin̄cina daryāptulō śabda kāluṣyaṁ 100 ḍesibel sthāyiki cērukundani tēlindi.
+
+(1, 'గత', 'గత', 'NOUN', 'NOUN', None, 2, 'compound')
+(2, 'సంవత్సరం', 'సంవత్సరం', 'NOUN', 'NOUN', None, 3, 'nmod:poss')
+(3, 'దీపావళి', 'దీపావళి', 'PROPN', 'PROPN', None, 7, 'obl')
+(4, 'సందర్భంగా', 'సందర్భంగా', 'ADP', 'ADP', None, 3, 'case')
+(5, 'వివిధ', 'వివిధ', 'ADJ', 'ADJ', None, 13, 'amod')
+(6, 'ప్రదేశాలలో', 'ప్రదేశాలలో', 'NOUN', 'NOUN', None, 7, 'obl')
+(7, 'నిర్వహించిన', 'నిర్వహించిన', 'VERB', 'VERB', None, 11, 'advmod')
+(8, 'దర్యాప్తులో', 'దర్యాప్తులో', 'NOUN', 'NOUN', None, 11, 'obl')
+(9, 'శబ్ద', 'శబ్ద', 'NOUN', 'NOUN', None, 10, 'nmod')
+(10, 'కాలుష్యం', 'కాలుష్యం', 'NOUN', 'NOUN', None, 11, 'nsubj')
+(11, '100', '100', 'VERB', 'VERB', None, 14, 'ccomp')
+(12, 'డెసిబెల్', 'డెసిబెల్', 'DET', 'DET', None, 13, 'det')
+(13, 'స్థాయికి', 'స్థాయికి', 'NOUN', 'NOUN', None, 14, 'obl')
+(14, 'చేరుకుందని', 'చేరుకుందని', 'VERB', 'VERB', None, 15, 'ccomp')
+(15, 'తేలింది', 'తేలింది', 'VERB', 'VERB', None, 0, 'root')
+(16, '.', '.', 'PUNCT', 'PUNCT', None, 15, 'punct')
+
+
+Sentence 14:
+ర్యాలీ బద్వాలా నుండి హరిపూర్ కల్సి గేట్ వరకు ప్రారంభమైంది, ఇక్కడ పిల్లలు పర్యావరణాన్ని కాపాడాలని ప్రజలను విజ్ఞప్తి చేశారు.
+Ryālī badvālā nuṇḍi haripūr kalsi gēṭ varaku prārambhamaindi, ikkaḍa pillalu paryāvaraṇānni kāpāḍālani prajalanu vijñapti cēśāru.
+
+(1, 'ర్యాలీ', 'ర్యాలీ', 'NOUN', 'NOUN', None, 2, 'nmod')
+(2, 'బద్వాలా', 'బద్వాలా', 'NOUN', 'NOUN', None, 6, 'nmod:poss')
+(3, 'నుండి', 'నుండి', 'ADP', 'ADP', None, 2, 'case')
+(4, 'హరిపూర్', 'హరిపూర్', 'PROPN', 'PROPN', None, 5, 'nmod')
+(5, 'కల్సి', 'కల్సి', 'NOUN', 'NOUN', None, 6, 'nmod')
+(6, 'గేట్', 'గేట్', 'NOUN', 'NOUN', None, 8, 'obl')
+(7, 'వరకు', 'వరకు', 'ADP', 'ADP', None, 2, 'case')
+(8, 'ప్రారంభమైంది', 'ప్రారంభమైంది', 'NOUN', 'NOUN', None, 13, 'ccomp')
+(9, ',', ',', 'PUNCT', 'PUNCT', None, 8, 'punct')
+(10, 'ఇక్కడ', 'ఇక్కడ', 'ADV', 'ADV', None, 13, 'advmod')
+(11, 'పిల్లలు', 'పిల్లలు', 'NOUN', 'NOUN', None, 12, 'nmod')
+(12, 'పర్యావరణాన్ని', 'పర్యావరణాన్ని', 'NOUN', 'NOUN', None, 13, 'nsubj')
+(13, 'కాపాడాలని', 'కాపాడాలని', 'VERB', 'VERB', None, 14, 'acl')
+(14, 'ప్రజలను', 'ప్రజలను', 'NOUN', 'NOUN', None, 16, 'nsubj')
+(15, 'విజ్ఞప్తి', 'విజ్ఞప్తి', 'NOUN', 'NOUN', None, 16, 'obj')
+(16, 'చేశారు', 'చేశారు', 'VERB', 'VERB', None, 0, 'root')
+(17, '.', '.', 'PUNCT', 'PUNCT', None, 16, 'punct')
+
+
+Sentence 15:
+ఈ కథకు ముందు వందలాది మంది యాత్రికులు సరిహద్దులో శాంతి కోరిక కోసం ఏర్పాటు చేస్తున్న హవాన్‌కు అర్పణలు చేశారు.
+Ī kathaku mundu vandalādi mandi yātrikulu sarihaddulō śānti kōrika kōsaṁ ērpāṭu cēstunna havān‌ku arpaṇalu cēśāru.
+
+(1, 'ఈ', 'ఈ', 'DET', 'DET', None, 2, 'det')
+(2, 'కథకు', 'కథకు', 'NOUN', 'NOUN', None, 15, 'obl')
+(3, 'ముందు', 'ముందు', 'ADP', 'ADP', None, 2, 'case')
+(4, 'వందలాది', 'వందలాది', 'DET', 'DET', None, 5, 'det')
+(5, 'మంది', 'మంది', 'NOUN', 'NOUN', None, 6, 'nmod')
+(6, 'యాత్రికులు', 'యాత్రికులు', 'NOUN', 'NOUN', None, 13, 'nsubj')
+(7, 'సరిహద్దులో', 'సరిహద్దులో', 'NOUN', 'NOUN', None, 13, 'obl')
+(8, 'శాంతి', 'శాంతి', 'PRON', 'PRON', None, 9, 'nsubj')
+(9, 'కోరిక', 'కోరిక', 'NOUN', 'NOUN', None, 13, 'nsubj')
+(10, 'కోసం', 'కోసం', 'ADP', 'ADP', None, 2, 'case')
+(11, 'ఏర్పాటు', 'ఏర్పాటు', 'NOUN', 'NOUN', None, 13, 'nsubj')
+(12, 'చేస్తున్న', 'చేస్తున్న', 'VERB', 'VERB', None, 13, 'acl')
+(13, 'హవాన్\u200cకు', 'హవాన్\u200cకు', 'VERB', 'VERB', None, 15, 'ccomp')
+(14, 'అర్పణలు', 'అర్పణలు', 'NOUN', 'NOUN', None, 15, 'nsubj')
+(15, 'చేశారు', 'చేశారు', 'VERB', 'VERB', None, 0, 'root')
+(16, '.', '.', 'PUNCT', 'PUNCT', None, 15, 'punct')
+
+
+Sentence 16:
+భారతదేశంతో పోల్చినప్పుడు, పాకిస్తాన్ యొక్క న్యూనత యొక్క భావాలు, మళ్లీ మళ్లీ తప్పు మార్గంలో వెళ్ళటానికి వారిని బలవంతం చేస్తాయని ఆయన అన్నారు.
+Bhāratadēśantō pōlcinappuḍu, pākistān yokka n'yūnata yokka bhāvālu, maḷlī maḷlī tappu mārganlō veḷḷaṭāniki vārini balavantaṁ cēstāyani āyana annāru.
+
+(1, 'భారతదేశంతో', 'భారతదేశంతో', 'NOUN', 'NOUN', None, 2, 'obl')
+(2, 'పోల్చినప్పుడు', 'పోల్చినప్పుడు', 'VERB', 'VERB', None, 8, 'advcl')
+(3, ',', ',', 'PUNCT', 'PUNCT', None, 2, 'punct')
+(4, 'పాకిస్తాన్', 'పాకిస్తాన్', 'NOUN', 'NOUN', None, 12, 'list')
+(5, 'యొక్క', 'యొక్క', 'ADP', 'ADP', None, 4, 'case')
+(6, 'న్యూనత', 'న్యూనత', 'NOUN', 'NOUN', None, 12, 'list')
+(7, 'యొక్క', 'యొక్క', 'DET', 'DET', None, 8, 'det')
+(8, 'భావాలు', 'భావాలు', 'NOUN', 'NOUN', None, 12, 'list')
+(9, ',', ',', 'PUNCT', 'PUNCT', None, 12, 'punct')
+(10, 'మళ్లీ', 'మళ్లీ', 'NOUN', 'NOUN', None, 12, 'list')
+(11, 'మళ్లీ', 'మళ్లీ', 'NOUN', 'NOUN', None, 12, 'nmod')
+(12, 'తప్పు', 'తప్పు', 'NOUN', 'NOUN', None, 14, 'nsubj')
+(13, 'మార్గంలో', 'మార్గంలో', 'NOUN', 'NOUN', None, 14, 'obl')
+(14, 'వెళ్ళటానికి', 'వెళ్ళటానికి', 'VERB', 'VERB', None, 17, 'ccomp')
+(15, 'వారిని', 'వారిని', 'PRON', 'PRON', None, 17, 'obj')
+(16, 'బలవంతం', 'బలవంతం', 'NOUN', 'NOUN', None, 17, 'compound:lvc')
+(17, 'చేస్తాయని', 'చేస్తాయని', 'VERB', 'VERB', None, 0, 'root')
+
+
+Sentence 17:
+తన వ్యాఖ్యలలోని తేడాల గురించి అడిగినప్పుడు, అతను కోపంగా ఉన్నాడు మరియు ప్రభుత్వం మరియు ఎస్ఎస్ఐపై నిందలు వేయడం మొదలుపెట్టాడు, తవ్వకం స్థలంలో సరిగ్గా ఏమి జరుగుతుందో మరియు మీడియాను అక్కడ ప్రవేశించకుండా నిషేధించబడ్డాడు.
+Tana vyākhyalalōni tēḍāla gurin̄ci aḍiginappuḍu, atanu kōpaṅgā unnāḍu mariyu prabhutvaṁ mariyu esesaipai nindalu vēyaḍaṁ modalupeṭṭāḍu, tavvakaṁ sthalanlō sariggā ēmi jarugutundō mariyu mīḍiyānu akkaḍa pravēśin̄cakuṇḍā niṣēdhin̄cabaḍḍāḍu.
+
+(1, 'తన', 'తన', 'PRON', 'PRON', None, 2, 'nmod:poss')
+(2, 'వ్యాఖ్యలలోని', 'వ్యాఖ్యలలోని', 'NOUN', 'NOUN', None, 5, 'obl')
+(3, 'తేడాల', 'తేడాల', 'NOUN', 'NOUN', None, 5, 'obl')
+(4, 'గురించి', 'గురించి', 'ADP', 'ADP', None, 3, 'case')
+(5, 'అడిగినప్పుడు', 'అడిగినప్పుడు', 'VERB', 'VERB', None, 9, 'ccomp')
+(6, ',', ',', 'PUNCT', 'PUNCT', None, 9, 'punct')
+(7, 'అతను', 'అతను', 'PRON', 'PRON', None, 9, 'nsubj')
+(8, 'కోపంగా', 'కోపంగా', 'ADV', 'ADV', None, 9, 'advmod')
+(9, 'ఉన్నాడు', 'ఉన్నాడు', 'VERB', 'VERB', None, 11, 'ccomp')
+(10, 'మరియు', 'మరియు', 'SCONJ', 'SCONJ', None, 9, 'mark')
+(11, 'ప్రభుత్వం', 'ప్రభుత్వం', 'NOUN', 'NOUN', None, 15, 'ccomp')
+(12, 'మరియు', 'మరియు', 'CCONJ', 'CCONJ', None, 9, 'punct')
+(13, 'ఎస్ఎస్ఐపై', 'ఎస్ఎస్ఐపై', 'NOUN', 'NOUN', None, 14, 'nmod')
+(14, 'నిందలు', 'నిందలు', 'NOUN', 'NOUN', None, 16, 'nsubj')
+(15, 'వేయడం', 'వేయడం', 'VERB', 'VERB', None, 16, 'ccomp')
+(16, 'మొదలుపెట్టాడు', 'మొదలుపెట్టాడు', 'VERB', 'VERB', None, 26, 'ccomp')
+(17, ',', ',', 'PUNCT', 'PUNCT', None, 16, 'punct')
+(18, 'తవ్వకం', 'తవ్వకం', 'NOUN', 'NOUN', None, 22, 'nsubj')
+(19, 'స్థలంలో', 'స్థలంలో', 'NOUN', 'NOUN', None, 22, 'obl')
+(20, 'సరిగ్గా', 'సరిగ్గా', 'ADV', 'ADV', None, 22, 'advmod')
+(21, 'ఏమి', 'ఏమి', 'PRON', 'PRON', None, 22, 'nsubj')
+(22, 'జరుగుతుందో', 'జరుగుతుందో', 'VERB', 'VERB', None, 26, 'ccomp')
+(23, 'మరియు', 'మరియు', 'CCONJ', 'CCONJ', None, 22, 'punct')
+(24, 'మీడియాను', 'మీడియాను', 'PRON', 'PRON', None, 26, 'obj')
+(25, 'అక్కడ', 'అక్కడ', 'ADV', 'ADV', None, 26, 'advmod')
+(26, 'ప్రవేశించకుండా', 'ప్రవేశించకుండా', 'VERB', 'VERB', None, 27, 'ccomp')
+(27, 'నిషేధించబడ్డాడు', 'నిషేధించబడ్డాడు', 'VERB', 'VERB', None, 0, 'root')
+(28, '.', '.', 'PUNCT', 'PUNCT', None, 27, 'punct')
+
+
+Sentence 18:
+టిక్కెట్లు లేని ప్రయాణికులపై ఈ ఏడాది అక్టోబర్‌లో ప్రారంభించిన ప్రచారం వల్ల రిజర్వ్‌లో 11,000 మంది ప్రయాణికులు, రిజర్వ్ చేయని కేటగిరీలో 28,000 మంది ప్రయాణికులు పెరిగారు.
+Ṭikkeṭlu lēni prayāṇikulapai ī ēḍādi akṭōbar‌lō prārambhin̄cina pracāraṁ valla rijarv‌lō 11,000 mandi prayāṇikulu, rijarv cēyani kēṭagirīlō 28,000 mandi prayāṇikulu perigāru.
+
+(1, 'టిక్కెట్లు', 'టిక్కెట్లు', 'NOUN', 'NOUN', None, 2, 'nsubj')
+(2, 'లేని', 'లేని', 'VERB', 'VERB', None, 5, 'acl')
+(3, 'ప్రయాణికులపై', 'ప్రయాణికులపై', 'NOUN', 'NOUN', None, 2, 'mark')
+(4, 'ఈ', 'ఈ', 'DET', 'DET', None, 5, 'det')
+(5, 'ఏడాది', 'ఏడాది', 'NOUN', 'NOUN', None, 7, 'nmod')
+(6, 'అక్టోబర్\u200cలో', 'అక్టోబర్\u200cలో', 'ADV', 'ADV', None, 2, 'advmod')
+(7, 'ప్రారంభించిన', 'ప్రారంభించిన', 'NOUN', 'NOUN', None, 8, 'nmod')
+(8, 'ప్రచారం', 'ప్రచారం', 'NOUN', 'NOUN', None, 11, 'nsubj')
+(9, 'వల్ల', 'వల్ల', 'ADP', 'ADP', None, 8, 'case')
+(10, 'రిజర్వ్\u200cలో', 'రిజర్వ్\u200cలో', 'NOUN', 'NOUN', None, 11, 'obl')
+(11, '11,000', '11,000', 'VERB', 'VERB', None, 0, 'root')
+
+
+Sentence 19:
+ప్రధాన కార్యదర్శిని కలవడానికి వెళ్ళిన వారిలో గులాం మొయినుద్దీన్, మంజిత్ సింగ్, సరోజ్ పాండే, మహేంద్ర సింగ్, ధర్మేంద్ర ఉపాధ్యాయ, లాల్ బహదూర్ ఉపాధ్యాయ, రవిశంకర్ పాండే, మున్నేశ్వర్ పాండే మరియు గిరీష్ ఉన్నారు.
+Pradhāna kāryadarśini kalavaḍāniki veḷḷina vārilō gulāṁ moyinuddīn, man̄jit siṅg, sarōj pāṇḍē, mahēndra siṅg, dharmēndra upādhyāya, lāl bahadūr upādhyāya, raviśaṅkar pāṇḍē, munnēśvar pāṇḍē mariyu girīṣ unnāru.
+
+(1, 'ప్రధాన', 'ప్రధాన', 'NOUN', 'NOUN', None, 2, 'compound')
+(2, 'కార్యదర్శిని', 'కార్యదర్శిని', 'NOUN', 'NOUN', None, 3, 'compound:lvc')
+(3, 'కలవడానికి', 'కలవడానికి', 'VERB', 'VERB', None, 4, 'ccomp')
+(4, 'వెళ్ళిన', 'వెళ్ళిన', 'VERB', 'VERB', None, 7, 'punct')
+(5, 'వారిలో', 'వారిలో', 'NOUN', 'NOUN', None, 7, 'punct')
+(6, 'గులాం', 'గులాం', 'ADJ', 'ADJ', None, 7, 'amod')
+(7, 'మొయినుద్దీన్', 'మొయినుద్దీన్', 'NOUN', 'NOUN', None, 10, 'list')
+(8, ',', ',', 'PUNCT', 'PUNCT', None, 10, 'punct')
+(9, 'మంజిత్', 'మంజిత్', 'NOUN', 'NOUN', None, 12, 'nmod')
+(10, 'సింగ్', 'సింగ్', 'PROPN', 'PROPN', None, 12, 'list')
+(11, ',', ',', 'PUNCT', 'PUNCT', None, 12, 'punct')
+(12, 'సరోజ్', 'సరోజ్', 'NOUN', 'NOUN', None, 15, 'nmod')
+(13, 'పాండే', 'పాండే', 'NOUN', 'NOUN', None, 15, 'list')
+(14, ',', ',', 'PUNCT', 'PUNCT', None, 15, 'punct')
+(15, 'మహేంద్ర', 'మహేంద్ర', 'PROPN', 'PROPN', None, 19, 'punct')
+(16, 'సింగ్', 'సింగ్', 'PROPN', 'PROPN', None, 19, 'list')
+(17, ',', ',', 'PUNCT', 'PUNCT', None, 19, 'punct')
+(18, 'ధర్మేంద్ర', 'ధర్మేంద్ర', 'PROPN', 'PROPN', None, 19, 'punct')
+(19, 'ఉపాధ్యాయ', 'ఉపాధ్యాయ', 'NOUN', 'NOUN', None, 23, 'list')
+(20, ',', ',', 'PUNCT', 'PUNCT', None, 19, 'punct')
+(21, 'లాల్', 'లాల్', 'PROPN', 'PROPN', None, 23, 'list')
+(22, 'బహదూర్', 'బహదూర్', 'PROPN', 'PROPN', None, 23, 'punct')
+(23, 'ఉపాధ్యాయ', 'ఉపాధ్యాయ', 'NOUN', 'NOUN', None, 26, 'list')
+(24, ',', ',', 'PUNCT', 'PUNCT', None, 26, 'punct')
+(25, 'రవిశంకర్', 'రవిశంకర్', 'PROPN', 'PROPN', None, 26, 'list')
+(26, 'పాండే', 'పాండే', 'NOUN', 'NOUN', None, 28, 'list')
+(27, ',', ',', 'PUNCT', 'PUNCT', None, 28, 'punct')
+(28, 'మున్నేశ్వర్', 'మున్నేశ్వర్', 'NOUN', 'NOUN', None, 31, 'ccomp')
+(29, 'పాండే', 'పాండే', 'NOUN', 'NOUN', None, 32, 'nsubj')
+(30, 'మరియు', 'మరియు', 'ADJ', 'ADJ', None, 31, 'amod')
+(31, 'గిరీష్', 'గిరీష్', 'NOUN', 'NOUN', None, 32, 'ccomp')
+(32, 'ఉన్నారు', 'ఉన్నారు', 'VERB', 'VERB', None, 0, 'root')
+(33, '.', '.', 'PUNCT', 'PUNCT', None, 32, 'punct')
+
+
+Sentence 20:
+సమాజంలోని ప్రతి సభ్యుడు దానిపై పూర్తి నియంత్రణ కలిగి ఉండటానికి ముందుకు రావాలి, ఎందుకంటే అవినీతికి ఇప్పుడు చాలా లోతుగా ఉన్న మూలాలు ఉన్నాయి, కనుక ప్రభుత్వం ఒంటరిగా వ్యవహరించడం ద్వారా దానిని వెలికితీసి దానిని ఆపడం సాధ్యం కాదు.
+Samājanlōni prati sabhyuḍu dānipai pūrti niyantraṇa kaligi uṇḍaṭāniki munduku rāvāli, endukaṇṭē avinītiki ippuḍu cālā lōtugā unna mūlālu unnāyi, kanuka prabhutvaṁ oṇṭarigā vyavaharin̄caḍaṁ dvārā dānini velikitīsi dānini āpaḍaṁ sādhyaṁ kādu.
+
+(1, 'సమాజంలోని', 'సమాజంలోని', 'NOUN', 'NOUN', None, 8, 'obl')
+(2, 'ప్రతి', 'ప్రతి', 'ADJ', 'ADJ', None, 3, 'amod')
+(3, 'సభ్యుడు', 'సభ్యుడు', 'NOUN', 'NOUN', None, 8, 'obl')
+(4, 'దానిపై', 'దానిపై', 'ADP', 'ADP', None, 3, 'case')
+(5, 'పూర్తి', 'పూర్తి', 'NOUN', 'NOUN', None, 6, 'nmod')
+(6, 'నియంత్రణ', 'నియంత్రణ', 'NOUN', 'NOUN', None, 8, 'nsubj')
+(7, 'కలిగి', 'కలిగి', 'VERB', 'VERB', None, 8, 'compound:svc')
+(8, 'ఉండటానికి', 'ఉండటానికి', 'VERB', 'VERB', None, 10, 'compound:svc')
+(9, 'ముందుకు', 'ముందుకు', 'NOUN', 'NOUN', None, 10, 'obl:tmod')
+(10, 'రావాలి', 'రావాలి', 'VERB', 'VERB', None, 17, 'ccomp')
+(11, ',', ',', 'PUNCT', 'PUNCT', None, 10, 'punct')
+(12, 'ఎందుకంటే', 'ఎందుకంటే', 'CCONJ', 'CCONJ', None, 10, 'punct')
+(13, 'అవినీతికి', 'అవినీతికి', 'NOUN', 'NOUN', None, 17, 'iobj')
+(14, 'ఇప్పుడు', 'ఇప్పుడు', 'ADV', 'ADV', None, 19, 'advmod')
+(15, 'చాలా', 'చాలా', 'ADV', 'ADV', None, 18, 'advmod')
+(16, 'లోతుగా', 'లోతుగా', 'ADV', 'ADV', None, 19, 'advmod')
+(17, 'ఉన్న', 'ఉన్న', 'VERB', 'VERB', None, 19, 'punct')
+(18, 'మూలాలు', 'మూలాలు', 'NOUN', 'NOUN', None, 19, 'nsubj')
+(19, 'ఉన్నాయి', 'ఉన్నాయి', 'VERB', 'VERB', None, 24, 'ccomp')
+(20, ',', ',', 'PUNCT', 'PUNCT', None, 19, 'punct')
+(21, 'కనుక', 'కనుక', 'ADV', 'ADV', None, 24, 'advmod')
+(22, 'ప్రభుత్వం', 'ప్రభుత్వం', 'NOUN', 'NOUN', None, 24, 'nsubj')
+(23, 'ఒంటరిగా', 'ఒంటరిగా', 'ADV', 'ADV', None, 24, 'advmod')
+(24, 'వ్యవహరించడం', 'వ్యవహరించడం', 'VERB', 'VERB', None, 29, 'ccomp')
+(25, 'ద్వారా', 'ద్వారా', 'ADV', 'ADV', None, 29, 'advmod')
+(26, 'దానిని', 'దానిని', 'PRON', 'PRON', None, 28, 'nmod')
+(27, 'వెలికితీసి', 'వెలికితీసి', 'NOUN', 'NOUN', None, 28, 'nmod')
+(28, 'దానిని', 'దానిని', 'PRON', 'PRON', None, 29, 'nsubj')
+(29, 'ఆపడం', 'ఆపడం', 'VERB', 'VERB', None, 31, 'ccomp')
+(30, 'సాధ్యం', 'సాధ్యం', 'ADV', 'ADV', None, 31, 'advmod')
+(31, 'కాదు', 'కాదు', 'VERB', 'VERB', None, 0, 'root')
+(32, '.', '.', 'PUNCT', 'PUNCT', None, 31, 'punct')
+
+
+Sentence 21:
+కెనడా ప్రభుత్వం ఎన్నారైలను వారి ఆస్తుల ద్వారా వచ్చే ఆదాయం మరియు వారు పంజాబ్ లేదా భారతదేశం నుండి పింఛనుగా అందుకున్న మొత్తం గురించి ప్రశ్నిస్తున్నారు.
+Kenaḍā prabhutvaṁ ennārailanu vāri āstula dvārā vaccē ādāyaṁ mariyu vāru pan̄jāb lēdā bhāratadēśaṁ nuṇḍi pin̄chanugā andukunna mottaṁ gurin̄ci praśnistunnāru.
+
+(1, 'కెనడా', 'కెనడా', 'PROPN', 'PROPN', None, 2, 'compound')
+(2, 'ప్రభుత్వం', 'ప్రభుత్వం', 'NOUN', 'NOUN', None, 5, 'nmod:poss')
+(3, 'ఎన్నారైలను', 'ఎన్నారైలను', 'NOUN', 'NOUN', None, 7, 'obl')
+(4, 'వారి', 'వారి', 'PRON', 'PRON', None, 10, 'nmod')
+(5, 'ఆస్తుల', 'ఆస్తుల', 'NOUN', 'NOUN', None, 7, 'obl')
+(6, 'ద్వారా', 'ద్వారా', 'ADP', 'ADP', None, 5, 'case')
+(7, 'వచ్చే', 'వచ్చే', 'VERB', 'VERB', None, 12, 'ccomp')
+(8, 'ఆదాయం', 'ఆదాయం', 'NOUN', 'NOUN', None, 11, 'obl:tmod')
+(9, 'మరియు', 'మరియు', 'ADV', 'ADV', None, 12, 'advmod')
+(10, 'వారు', 'వారు', 'PRON', 'PRON', None, 12, 'nsubj')
+(11, 'పంజాబ్', 'పంజాబ్', 'VERB', 'VERB', None, 12, 'compound:svc')
+(12, 'లేదా', 'లేదా', 'VERB', 'VERB', None, 13, 'acl')
+(13, 'భారతదేశం', 'భారతదేశం', 'NOUN', 'NOUN', None, 16, 'obl')
+(14, 'నుండి', 'నుండి', 'ADP', 'ADP', None, 5, 'case')
+(15, 'పింఛనుగా', 'పింఛనుగా', 'NOUN', 'NOUN', None, 16, 'nsubj')
+(16, 'అందుకున్న', 'అందుకున్న', 'VERB', 'VERB', None, 18, 'amod')
+(17, 'మొత్తం', 'మొత్తం', 'ADJ', 'ADJ', None, 18, 'amod')
+(18, 'గురించి', 'గురించి', 'ADV', 'ADV', None, 19, 'advmod')
+(19, 'ప్రశ్నిస్తున్నారు', 'ప్రశ్నిస్తున్నారు', 'VERB', 'VERB', None, 0, 'root')
+(20, '.', '.', 'PUNCT', 'PUNCT', None, 19, 'punct')
+
+
+Sentence 22:
+రెండు, మూడు నెలలు కార్యాలయం చుట్టూ తిరిగే దరఖాస్తుదారుల సంఖ్య లెక్కలేనన్ని.
+Reṇḍu, mūḍu nelalu kāryālayaṁ cuṭṭū tirigē darakhāstudārula saṅkhya lekkalēnanni.
+
+(1, 'రెండు', 'రెండు', 'NUM', 'NUM', 'NumType=Card', 4, 'nummod')
+(2, ',', ',', 'PUNCT', 'PUNCT', None, 7, 'punct')
+(3, 'మూడు', 'మూడు', 'NUM', 'NUM', 'NumType=Card', 4, 'nummod')
+(4, 'నెలలు', 'నెలలు', 'NOUN', 'NOUN', None, 7, 'obl:tmod')
+(5, 'కార్యాలయం', 'కార్యాలయం', 'NOUN', 'NOUN', None, 7, 'nsubj')
+(6, 'చుట్టూ', 'చుట్టూ', 'NOUN', 'NOUN', None, 7, 'obl')
+(7, 'తిరిగే', 'తిరిగే', 'VERB', 'VERB', None, 8, 'advmod')
+(8, 'దరఖాస్తుదారుల', 'దరఖాస్తుదారుల', 'VERB', 'VERB', None, 9, 'acl')
+(9, 'సంఖ్య', 'సంఖ్య', 'NOUN', 'NOUN', None, 10, 'nsubj')
+(10, 'లెక్కలేనన్ని', 'లెక్కలేనన్ని', 'VERB', 'VERB', None, 0, 'root')
+(11, '.', '.', 'PUNCT', 'PUNCT', None, 10, 'punct')
+
+
+Sentence 23:
+కొన్నూర్ దేశంలో మొట్టమొదటి జిల్లా, ఇందులో ఇప్పుడు ఏ కుటుంబమూ భూమిలేనిది.
+Konnūr dēśanlō moṭṭamodaṭi jillā, indulō ippuḍu ē kuṭumbamū bhūmilēnidi.
+
+(1, 'కొన్నూర్', 'కొన్నూర్', 'VERB', 'VERB', None, 10, 'nsubj')
+(2, 'దేశంలో', 'దేశంలో', 'NOUN', 'NOUN', None, 1, 'obl')
+(3, 'మొట్టమొదటి', 'మొట్టమొదటి', 'ADJ', 'ADJ', None, 4, 'amod')
+(4, 'జిల్లా', 'జిల్లా', 'NOUN', 'NOUN', None, 1, 'conj')
+(5, ',', ',', 'PUNCT', 'PUNCT', None, 4, 'punct')
+(6, 'ఇందులో', 'ఇందులో', 'ADV', 'ADV', None, 10, 'advmod')
+(7, 'ఇప్పుడు', 'ఇప్పుడు', 'ADV', 'ADV', None, 10, 'advmod')
+(8, 'ఏ', 'ఏ', 'DET', 'DET', None, 9, 'det')
+(9, 'కుటుంబమూ', 'కుటుంబమూ', 'NOUN', 'NOUN', None, 10, 'nsubj')
+(10, 'భూమిలేనిది', 'భూమిలేనిది', 'VERB', 'VERB', None, 0, 'root')
+(11, '.', '.', 'PUNCT', 'PUNCT', None, 10, 'punct')
+
+
+Sentence 24:
+బోద్గయ-బక్రౌర్ వంతెన మీదుగా వెళ్లే మోహన్‌పూర్ - ఇట్వా రహదారిపై నేరస్థుడు నిలబడి ఉన్నాడు.
+Bōdgaya-bakraur vantena mīdugā veḷlē mōhan‌pūr - iṭvā rahadāripai nērasthuḍu nilabaḍi unnāḍu.
+
+(1, 'బోద్గయ-బక్రౌర్', 'బోద్గయ-బక్రౌర్', 'NOUN', 'NOUN', None, 2, 'compound')
+(2, 'వంతెన', 'వంతెన', 'NOUN', 'NOUN', None, 4, 'obj')
+(3, 'మీదుగా', 'మీదుగా', 'NOUN', 'NOUN', None, 4, 'obl')
+(4, 'వెళ్లే', 'వెళ్లే', 'VERB', 'VERB', None, 5, 'acl:relcl')
+(5, 'మోహన్\u200cపూర్', 'మోహన్\u200cపూర్', 'PROPN', 'PROPN', None, 0, 'root')
+(6, '-', '-', 'PUNCT', 'PUNCT', None, 5, 'punct')
+
+
+Sentence 25:
+విదేశీ సాయుధ దాడులకు, పాలకులకు వ్యతిరేకంగా పోరాడిన దిగ్గజ పురుషుల సుదీర్ఘ జాబితా ఉంది.
+Vidēśī sāyudha dāḍulaku, pālakulaku vyatirēkaṅgā pōrāḍina diggaja puruṣula sudīrgha jābitā undi.
+
+(1, 'విదేశీ', 'విదేశీ', 'PROPN', 'PROPN', None, 2, 'compound')
+(2, 'సాయుధ', 'సాయుధ', 'NOUN', 'NOUN', None, 7, 'obj')
+(3, 'దాడులకు', 'దాడులకు', 'NOUN', 'NOUN', None, 7, 'obl')
+(4, ',', ',', 'PUNCT', 'PUNCT', None, 7, 'punct')
+(5, 'పాలకులకు', 'పాలకులకు', 'NOUN', 'NOUN', None, 7, 'iobj')
+(6, 'వ్యతిరేకంగా', 'వ్యతిరేకంగా', 'ADV', 'ADV', None, 7, 'advmod')
+(7, 'పోరాడిన', 'పోరాడిన', 'VERB', 'VERB', None, 9, 'acl')
+(8, 'దిగ్గజ', 'దిగ్గజ', 'ADJ', 'ADJ', None, 9, 'amod')
+(9, 'పురుషుల', 'పురుషుల', 'NOUN', 'NOUN', None, 12, 'ccomp')
+(10, 'సుదీర్ఘ', 'సుదీర్ఘ', 'NOUN', 'NOUN', None, 12, 'nsubj')
+(11, 'జాబితా', 'జాబితా', 'NOUN', 'NOUN', None, 12, 'nsubj')
+(12, 'ఉంది', 'ఉంది', 'VERB', 'VERB', None, 0, 'root')
+(13, '.', '.', 'PUNCT', 'PUNCT', None, 12, 'punct')
+
+
+Sentence 26:
+కెనడియన్ చట్టం ప్రకారం, కెనడియన్ పౌరసత్వం పొందిన తరువాత విదేశాల నుండి వచ్చిన ఆదాయాన్ని వారి మొత్తం ఆదాయానికి చేర్చాలి, కాని ప్రజలు దీనిని చేయడం లేదు.
+Kenaḍiyan caṭṭaṁ prakāraṁ, kenaḍiyan paurasatvaṁ pondina taruvāta vidēśāla nuṇḍi vaccina ādāyānni vāri mottaṁ ādāyāniki cērcāli, kāni prajalu dīnini cēyaḍaṁ lēdu.
+
+(1, 'కెనడియన్', 'కెనడియన్', 'PROPN', 'PROPN', None, 2, 'nmod')
+(2, 'చట్టం', 'చట్టం', 'PROPN', 'PROPN', None, 3, 'nsubj')
+(3, 'ప్రకారం', 'ప్రకారం', 'VERB', 'VERB', None, 7, 'ccomp')
+(4, ',', ',', 'PUNCT', 'PUNCT', None, 7, 'punct')
+(5, 'కెనడియన్', 'కెనడియన్', 'PROPN', 'PROPN', None, 6, 'nmod')
+(6, 'పౌరసత్వం', 'పౌరసత్వం', 'NOUN', 'NOUN', None, 7, 'nsubj')
+(7, 'పొందిన', 'పొందిన', 'VERB', 'VERB', None, 11, 'ccomp')
+(8, 'తరువాత', 'తరువాత', 'ADV', 'ADV', None, 11, 'advmod')
+(9, 'విదేశాల', 'విదేశాల', 'NOUN', 'NOUN', None, 11, 'obl:tmod')
+(10, 'నుండి', 'నుండి', 'ADP', 'ADP', None, 9, 'case')
+(11, 'వచ్చిన', 'వచ్చిన', 'VERB', 'VERB', None, 21, 'ccomp')
+(12, 'ఆదాయాన్ని', 'ఆదాయాన్ని', 'NOUN', 'NOUN', None, 16, 'punct')
+(13, 'వారి', 'వారి', 'PRON', 'PRON', None, 15, 'nmod')
+(14, 'మొత్తం', 'మొత్తం', 'ADJ', 'ADJ', None, 15, 'amod')
+(15, 'ఆదాయానికి', 'ఆదాయానికి', 'NOUN', 'NOUN', None, 16, 'obl:tmod')
+(16, 'చేర్చాలి', 'చేర్చాలి', 'VERB', 'VERB', None, 21, 'ccomp')
+(17, ',', ',', 'PUNCT', 'PUNCT', None, 22, 'punct')
+(18, 'కాని', 'కాని', 'CCONJ', 'CCONJ', None, 16, 'cc')
+(19, 'ప్రజలు', 'ప్రజలు', 'NOUN', 'NOUN', None, 21, 'nsubj')
+(20, 'దీనిని', 'దీనిని', 'PRON', 'PRON', None, 21, 'compound:lvc')
+(21, 'చేయడం', 'చేయడం', 'VERB', 'VERB', None, 22, 'ccomp')
+(22, 'లేదు', 'లేదు', 'VERB', 'VERB', None, 0, 'root')
+(23, '.', '.', 'PUNCT', 'PUNCT', None, 22, 'punct')
+
+
+Sentence 27:
+యుటి అధికారులు 90 శాతం డి.ఎ. జూలై నుండి ప్రారంభమవుతుంది, ఇది D.A. కేంద్ర ప్రభుత్వ అధికారుల.
+Yuṭi adhikārulu 90 śātaṁ ḍi.E. Jūlai nuṇḍi prārambhamavutundi, idi D.A. Kēndra prabhutva adhikārula.
+
+(1, 'యుటి', 'యుటి', 'PRON', 'PRON', None, 3, 'obl')
+(2, 'అధికారులు', 'అధికారులు', 'NOUN', 'NOUN', None, 3, 'nsubj')
+(3, '90', '90', 'VERB', 'VERB', None, 4, 'acl:relcl')
+(4, 'శాతం', 'శాతం', 'NOUN', 'NOUN', None, 0, 'root')
+(5, 'డి.ఎ.', 'డి.ఎ.', 'PUNCT', 'PUNCT', None, 4, 'punct')
+
+
+Sentence 28:
+ఈ కారణంగా అతివేగంగా ఉన్న టాక్సీ హైవే అంచున ఉన్న యూకలిప్టస్ చెట్టును ided ీకొట్టింది.
+Ī kāraṇaṅgā ativēgaṅgā unna ṭāksī haivē an̄cuna unna yūkalipṭas ceṭṭunu ided ̔īkoṭṭindi.
+
+(1, 'ఈ', 'ఈ', 'DET', 'DET', None, 2, 'det')
+(2, 'కారణంగా', 'కారణంగా', 'ADV', 'ADV', None, 4, 'advmod')
+(3, 'అతివేగంగా', 'అతివేగంగా', 'ADV', 'ADV', None, 4, 'advmod')
+(4, 'ఉన్న', 'ఉన్న', 'VERB', 'VERB', None, 8, 'ccomp')
+(5, 'టాక్సీ', 'టాక్సీ', 'NOUN', 'NOUN', None, 8, 'advmod')
+(6, 'హైవే', 'హైవే', 'NOUN', 'NOUN', None, 8, 'nsubj')
+(7, 'అంచున', 'అంచున', 'NOUN', 'NOUN', None, 8, 'advmod')
+(8, 'ఉన్న', 'ఉన్న', 'VERB', 'VERB', None, 12, 'ccomp')
+(9, 'యూకలిప్టస్', 'యూకలిప్టస్', 'ADJ', 'ADJ', None, 10, 'amod')
+(10, 'చెట్టును', 'చెట్టును', 'NOUN', 'NOUN', None, 12, 'nsubj')
+(11, 'ided', 'ided', 'NOUN', 'NOUN', None, 12, 'nsubj')
+(12, 'ీకొట్టింది', 'ీకొట్టింది', 'VERB', 'VERB', None, 0, 'root')
+(13, '.', '.', 'PUNCT', 'PUNCT', None, 12, 'punct')
+
+
+Sentence 29:
+వర్గాల ప్రకారం, కులం కారణంగా కొంత వ్యతిరేకత లేదా సమస్యలు ఉన్న అసెంబ్లీ సీట్లు, కొత్త అభ్యర్థులను ఖరారు చేయవచ్చు.
+Vargāla prakāraṁ, kulaṁ kāraṇaṅgā konta vyatirēkata lēdā samasyalu unna asemblī sīṭlu, kotta abhyarthulanu kharāru cēyavaccu.
+
+(1, 'వర్గాల', 'వర్గాల', 'NOUN', 'NOUN', None, 2, 'nmod')
+(2, 'ప్రకారం', 'ప్రకారం', 'NOUN', 'NOUN', None, 4, 'list')
+(3, ',', ',', 'PUNCT', 'PUNCT', None, 4, 'punct')
+(4, 'కులం', 'కులం', 'PROPN', 'PROPN', None, 8, 'nsubj')
+(5, 'కారణంగా', 'కారణంగా', 'ADV', 'ADV', None, 10, 'advmod')
+(6, 'కొంత', 'కొంత', 'DET', 'DET', None, 7, 'det')
+(7, 'వ్యతిరేకత', 'వ్యతిరేకత', 'NOUN', 'NOUN', None, 9, 'nmod')
+(8, 'లేదా', 'లేదా', 'VERB', 'VERB', None, 10, 'ccomp')
+(9, 'సమస్యలు', 'సమస్యలు', 'NOUN', 'NOUN', None, 10, 'nsubj')
+(10, 'ఉన్న', 'ఉన్న', 'VERB', 'VERB', None, 12, 'ccomp')
+(11, 'అసెంబ్లీ', 'అసెంబ్లీ', 'NOUN', 'NOUN', None, 12, 'nmod')
+(12, 'సీట్లు', 'సీట్లు', 'NOUN', 'NOUN', None, 14, 'ccomp')
+(13, ',', ',', 'PUNCT', 'PUNCT', None, 12, 'punct')
+(14, 'కొత్త', 'కొత్త', 'NOUN', 'NOUN', None, 15, 'nsubj')
+(15, 'అభ్యర్థులను', 'అభ్యర్థులను', 'NOUN', 'NOUN', None, 17, 'nsubj')
+(16, 'ఖరారు', 'ఖరారు', 'ADV', 'ADV', None, 17, 'advmod')
+(17, 'చేయవచ్చు', 'చేయవచ్చు', 'VERB', 'VERB', None, 0, 'root')
+(18, '.', '.', 'PUNCT', 'PUNCT', None, 17, 'punct')
+
+
+Sentence 30:
+మహిళా అధికారుల గురించి చేసిన అసభ్యకర వ్యాఖ్యల కారణంగా ఏప్రిల్ 15 న ఆయనను మంత్రివర్గం నుంచి తొలగించారు.
+Mahiḷā adhikārula gurin̄ci cēsina asabhyakara vyākhyala kāraṇaṅgā ēpril 15 na āyananu mantrivargaṁ nun̄ci tolagin̄cāru.
+
+(1, 'మహిళా', 'మహిళా', 'NOUN', 'NOUN', None, 2, 'nmod:poss')
+(2, 'అధికారుల', 'అధికారుల', 'NOUN', 'NOUN', None, 4, 'obl')
+(3, 'గురించి', 'గురించి', 'ADP', 'ADP', None, 2, 'case')
+(4, 'చేసిన', 'చేసిన', 'VERB', 'VERB', None, 6, 'ccomp')
+(5, 'అసభ్యకర', 'అసభ్యకర', 'NOUN', 'NOUN', None, 6, 'iobj')
+(6, 'వ్యాఖ్యల', 'వ్యాఖ్యల', 'VERB', 'VERB', None, 8, 'acl')
+(7, 'కారణంగా', 'కారణంగా', 'ADV', 'ADV', None, 9, 'advmod')
+(8, 'ఏప్రిల్', 'ఏప్రిల్', 'NOUN', 'NOUN', None, 9, 'obl:tmod')
+(9, '15', '15', 'VERB', 'VERB', None, 0, 'root')
+(10, 'న', 'న', 'PUNCT', 'PUNCT', None, 9, 'punct')
+
+
+Sentence 31:
+కలల్ ఖేడియాకు వెళుతుండగా, వారి ముందు ఉన్న ట్రక్ డ్రైవర్, అకస్మాత్తుగా బ్రేక్లను ప్రయోగించాడు.
+Kalal khēḍiyāku veḷutuṇḍagā, vāri mundu unna ṭrak ḍraivar, akasmāttugā brēklanu prayōgin̄cāḍu.
+
+(1, 'కలల్', 'కలల్', 'PRON', 'PRON', None, 3, 'nsubj')
+(2, 'ఖేడియాకు', 'ఖేడియాకు', 'NOUN', 'NOUN', None, 3, 'nsubj')
+(3, 'వెళుతుండగా', 'వెళుతుండగా', 'VERB', 'VERB', None, 7, 'obl')
+(4, ',', ',', 'PUNCT', 'PUNCT', None, 7, 'punct')
+(5, 'వారి', 'వారి', 'PRON', 'PRON', None, 6, 'nmod')
+(6, 'ముందు', 'ముందు', 'NOUN', 'NOUN', None, 7, 'nsubj')
+(7, 'ఉన్న', 'ఉన్న', 'VERB', 'VERB', None, 9, 'ccomp')
+(8, 'ట్రక్', 'ట్రక్', 'NOUN', 'NOUN', None, 9, 'nsubj')
+(9, 'డ్రైవర్', 'డ్రైవర్', 'NOUN', 'NOUN', None, 13, 'ccomp')
+(10, ',', ',', 'PUNCT', 'PUNCT', None, 9, 'punct')
+(11, 'అకస్మాత్తుగా', 'అకస్మాత్తుగా', 'NOUN', 'NOUN', None, 13, 'nsubj')
+(12, 'బ్రేక్లను', 'బ్రేక్లను', 'NOUN', 'NOUN', None, 13, 'compound:lvc')
+(13, 'ప్రయోగించాడు', 'ప్రయోగించాడు', 'VERB', 'VERB', None, 0, 'root')
+(14, '.', '.', 'PUNCT', 'PUNCT', None, 13, 'punct')
+
+
+Sentence 32:
+శనివారం ఆఫీస్ బేరర్ సమావేశం జరుగుతుంది, ఈ అంశంపై చర్చించబడతారు.
+Śanivāraṁ āphīs bērar samāvēśaṁ jarugutundi, ī anśampai carcin̄cabaḍatāru.
+
+(1, 'శనివారం', 'శనివారం', 'NOUN', 'NOUN', None, 2, 'nmod')
+(2, 'ఆఫీస్', 'ఆఫీస్', 'NOUN', 'NOUN', None, 4, 'compound')
+(3, 'బేరర్', 'బేరర్', 'NOUN', 'NOUN', None, 4, 'nmod')
+(4, 'సమావేశం', 'సమావేశం', 'NOUN', 'NOUN', None, 5, 'nsubj')
+(5, 'జరుగుతుంది', 'జరుగుతుంది', 'VERB', 'VERB', None, 9, 'ccomp')
+(6, ',', ',', 'PUNCT', 'PUNCT', None, 9, 'punct')
+(7, 'ఈ', 'ఈ', 'DET', 'DET', None, 8, 'det')
+(8, 'అంశంపై', 'అంశంపై', 'NOUN', 'NOUN', None, 9, 'obl')
+(9, 'చర్చించబడతారు', 'చర్చించబడతారు', 'VERB', 'VERB', None, 0, 'root')
+(10, '.', '.', 'PUNCT', 'PUNCT', None, 9, 'punct')
+
+
+Sentence 33:
+బ్యూరోక్రసీ రాజకీయ ప్రభువుల అవమానానికి వ్యతిరేకంగా సుప్రీంకోర్టు జోక్యం చేసుకోవాలని పిటిషన్ దాఖలు చేసిన అధికారులపై బలమైన వైఖరి తీసుకొని, రిటైర్డ్ అధికారులు రాజకీయ ప్రభువులకు సేవ చేసినప్పటికీ పెద్ద సంఖ్యలో ప్రజా ప్రయోజన పిటిషన్లను దాఖలు చేస్తున్నారని అన్నారు. వారు కార్యాలయంలో ఉన్నప్పుడు చాలా బాగా.
+Byūrōkrasī rājakīya prabhuvula avamānāniki vyatirēkaṅgā suprīṅkōrṭu jōkyaṁ cēsukōvālani piṭiṣan dākhalu cēsina adhikārulapai balamaina vaikhari tīsukoni, riṭairḍ adhikārulu rājakīya prabhuvulaku sēva cēsinappaṭikī pedda saṅkhyalō prajā prayōjana piṭiṣanlanu dākhalu cēstunnārani annāru. Vāru kāryālayanlō unnappuḍu cālā bāgā.
+
+(1, 'బ్యూరోక్రసీ', 'బ్యూరోక్రసీ', 'PROPN', 'PROPN', None, 3, 'obl')
+(2, 'రాజకీయ', 'రాజకీయ', 'NOUN', 'NOUN', None, 3, 'nsubj')
+(3, 'ప్రభువుల', 'ప్రభువుల', 'NOUN', 'NOUN', None, 0, 'root')
+
+
+Sentence 34:
+జూలై 3 న జరిగిన పిఎస్‌ఎస్ సమావేశం గురించి సమాచారం పంచాయతీ స్థాయి కమిటీ అధికారికి ఇవ్వలేదు కాబట్టి వారు సమావేశానికి హాజరు కాలేదు.
+Jūlai 3 na jarigina pi'es‌es samāvēśaṁ gurin̄ci samācāraṁ pan̄cāyatī sthāyi kamiṭī adhikāriki ivvalēdu kābaṭṭi vāru samāvēśāniki hājaru kālēdu.
+
+(1, 'జూలై', 'జూలై', 'NOUN', 'NOUN', None, 4, 'nsubj')
+(2, '3', '3', 'NUM', 'NUM', 'NumType=Card', 3, 'nummod')
+(3, 'న', 'న', 'NOUN', 'NOUN', None, 8, 'nummod')
+(4, 'జరిగిన', 'జరిగిన', 'VERB', 'VERB', None, 8, 'punct')
+(5, 'పిఎస్\u200cఎస్', 'పిఎస్\u200cఎస్', 'NOUN', 'NOUN', None, 6, 'nmod')
+(6, 'సమావేశం', 'సమావేశం', 'NOUN', 'NOUN', None, 8, 'list')
+(7, 'గురించి', 'గురించి', 'ADP', 'ADP', None, 6, 'case')
+(8, 'సమాచారం', 'సమాచారం', 'NOUN', 'NOUN', None, 13, 'nsubj')
+(9, 'పంచాయతీ', 'పంచాయతీ', 'DET', 'DET', None, 10, 'det')
+(10, 'స్థాయి', 'స్థాయి', 'PROPN', 'PROPN', None, 11, 'nmod')
+(11, 'కమిటీ', 'కమిటీ', 'NOUN', 'NOUN', None, 13, 'nsubj')
+(12, 'అధికారికి', 'అధికారికి', 'NOUN', 'NOUN', None, 13, 'advmod')
+(13, 'ఇవ్వలేదు', 'ఇవ్వలేదు', 'VERB', 'VERB', None, 18, 'ccomp')
+(14, 'కాబట్టి', 'కాబట్టి', 'ADV', 'ADV', None, 13, 'advmod')
+(15, 'వారు', 'వారు', 'PRON', 'PRON', None, 18, 'nsubj')
+(16, 'సమావేశానికి', 'సమావేశానికి', 'NOUN', 'NOUN', None, 18, 'obl')
+(17, 'హాజరు', 'హాజరు', 'NOUN', 'NOUN', None, 18, 'nsubj')
+(18, 'కాలేదు', 'కాలేదు', 'VERB', 'VERB', None, 0, 'root')
+(19, '.', '.', 'PUNCT', 'PUNCT', None, 18, 'punct')
+
+
+Sentence 35:
+కోమల్‌ను వెంటనే సెక్టార్ -16 లోని మల్టీ-స్పెషాలిటీ ప్రభుత్వ ఆసుపత్రికి తీసుకెళ్లారు, అక్కడకు రాగానే ఆమె మరణించినట్లు ప్రకటించారు.
+Kōmal‌nu veṇṭanē sekṭār -16 lōni malṭī-speṣāliṭī prabhutva āsupatriki tīsukeḷlāru, akkaḍaku rāgānē āme maraṇin̄cinaṭlu prakaṭin̄cāru.
+
+(1, 'కోమల్\u200cను', 'కోమల్\u200cను', 'PRON', 'PRON', None, 3, 'obj')
+(2, 'వెంటనే', 'వెంటనే', 'ADV', 'ADV', None, 15, 'advmod')
+(3, 'సెక్టార్', 'సెక్టార్', 'NOUN', 'NOUN', None, 9, 'nsubj')
+(4, '-16', '-16', 'DET', 'DET', None, 5, 'det')
+(5, 'లోని', 'లోని', 'NOUN', 'NOUN', None, 9, 'obl')
+(6, 'మల్టీ-స్పెషాలిటీ', 'మల్టీ-స్పెషాలిటీ', 'ADV', 'ADV', None, 9, 'advmod')
+(7, 'ప్రభుత్వ', 'ప్రభుత్వ', 'NOUN', 'NOUN', None, 9, 'nsubj')
+(8, 'ఆసుపత్రికి', 'ఆసుపత్రికి', 'NOUN', 'NOUN', None, 9, 'obl:tmod')
+(9, 'తీసుకెళ్లారు', 'తీసుకెళ్లారు', 'VERB', 'VERB', None, 14, 'ccomp')
+(10, ',', ',', 'PUNCT', 'PUNCT', None, 9, 'punct')
+(11, 'అక్కడకు', 'అక్కడకు', 'NOUN', 'NOUN', None, 12, 'obl:tmod')
+(12, 'రాగానే', 'రాగానే', 'VERB', 'VERB', None, 14, 'ccomp')
+(13, 'ఆమె', 'ఆమె', 'PRON', 'PRON', None, 14, 'nsubj')
+(14, 'మరణించినట్లు', 'మరణించినట్లు', 'VERB', 'VERB', None, 15, 'ccomp')
+(15, 'ప్రకటించారు', 'ప్రకటించారు', 'VERB', 'VERB', None, 0, 'root')
+(16, '.', '.', 'PUNCT', 'PUNCT', None, 15, 'punct')
+
+
+Sentence 36:
+సమర్పణ పటం కోసం దరఖాస్తు చేసిన తేదీపై సమాచారంతో ఏ సర్క్యులర్ ప్రచురించబడలేదు, ఇది కార్మికులలో కొంత గందరగోళాన్ని సృష్టించింది.
+Samarpaṇa paṭaṁ kōsaṁ darakhāstu cēsina tēdīpai samācārantō ē sarkyular pracurin̄cabaḍalēdu, idi kārmikulalō konta gandaragōḷānni sr̥ṣṭin̄cindi.
+
+(1, 'సమర్పణ', 'సమర్పణ', 'NUM', 'NUM', 'NumType=Card', 2, 'nummod')
+(2, 'పటం', 'పటం', 'NOUN', 'NOUN', None, 5, 'obj')
+(3, 'కోసం', 'కోసం', 'ADP', 'ADP', None, 2, 'case')
+(4, 'దరఖాస్తు', 'దరఖాస్తు', 'NOUN', 'NOUN', None, 5, 'nsubj')
+(5, 'చేసిన', 'చేసిన', 'VERB', 'VERB', None, 9, 'acl')
+(6, 'తేదీపై', 'తేదీపై', 'NOUN', 'NOUN', None, 9, 'acl')
+(7, 'సమాచారంతో', 'సమాచారంతో', 'NOUN', 'NOUN', None, 10, 'obl')
+(8, 'ఏ', 'ఏ', 'DET', 'DET', None, 9, 'det')
+(9, 'సర్క్యులర్', 'సర్క్యులర్', 'NOUN', 'NOUN', None, 10, 'nsubj')
+(10, 'ప్రచురించబడలేదు', 'ప్రచురించబడలేదు', 'VERB', 'VERB', None, 0, 'root')
+(11, ',', ',', 'PUNCT', 'PUNCT', None, 10, 'punct')
+
+
+Sentence 37:
+నవంబర్ 10 నుండి న్యూజిలాండ్‌తో జరగబోయే పరిమిత ఓవర్ మ్యాచ్ సిరీస్ కోసం శ్రీలంక సెలెక్టర్లు జట్టులోని 16 మంది సభ్యులను ఎంపిక చేశారు.
+Navambar 10 nuṇḍi n'yūjilāṇḍ‌tō jaragabōyē parimita ōvar myāc sirīs kōsaṁ śrīlaṅka selekṭarlu jaṭṭulōni 16 mandi sabhyulanu empika cēśāru.
+
+(1, 'నవంబర్', 'నవంబర్', 'NOUN', 'NOUN', None, 2, 'nmod')
+(2, '10', '10', 'NOUN', 'NOUN', None, 5, 'obl')
+(3, 'నుండి', 'నుండి', 'ADP', 'ADP', None, 2, 'case')
+(4, 'న్యూజిలాండ్\u200cతో', 'న్యూజిలాండ్\u200cతో', 'PROPN', 'PROPN', None, 5, 'obl')
+(5, 'జరగబోయే', 'జరగబోయే', 'VERB', 'VERB', None, 9, 'acl')
+(6, 'పరిమిత', 'పరిమిత', 'ADJ', 'ADJ', None, 7, 'amod')
+(7, 'ఓవర్', 'ఓవర్', 'NOUN', 'NOUN', None, 9, 'list')
+(8, 'మ్యాచ్', 'మ్యాచ్', 'NOUN', 'NOUN', None, 9, 'punct')
+(9, 'సిరీస్', 'సిరీస్', 'NOUN', 'NOUN', None, 13, 'obl')
+(10, 'కోసం', 'కోసం', 'ADP', 'ADP', None, 2, 'case')
+(11, 'శ్రీలంక', 'శ్రీలంక', 'NOUN', 'NOUN', None, 12, 'nmod')
+(12, 'సెలెక్టర్లు', 'సెలెక్టర్లు', 'NOUN', 'NOUN', None, 13, 'nsubj')
+(13, 'జట్టులోని', 'జట్టులోని', 'NOUN', 'NOUN', None, 18, 'obl')
+(14, '16', '16', 'DET', 'DET', None, 15, 'det')
+(15, 'మంది', 'మంది', 'NOUN', 'NOUN', None, 18, 'ccomp')
+(16, 'సభ్యులను', 'సభ్యులను', 'NOUN', 'NOUN', None, 18, 'nsubj')
+(17, 'ఎంపిక', 'ఎంపిక', 'ADV', 'ADV', None, 18, 'advmod')
+(18, 'చేశారు', 'చేశారు', 'VERB', 'VERB', None, 0, 'root')
+(19, '.', '.', 'PUNCT', 'PUNCT', None, 18, 'punct')
+
+
+Sentence 38:
+2004 లో రోడ్డు ప్రమాదంలో మరణించిన మహారాష్ట్ర మాజీ మంత్రి శ్రీకాంత్ జిచ్కర్ కుటుంబానికి రూ .50.67 లక్షల పరిహారం చెల్లించాలని మోటారు వాహన ప్రమాద దావాల ట్రిబ్యునల్ ఆదేశించింది.
+2004 Lō rōḍḍu pramādanlō maraṇin̄cina mahārāṣṭra mājī mantri śrīkānt jickar kuṭumbāniki rū.50.67 Lakṣala parihāraṁ cellin̄cālani mōṭāru vāhana pramāda dāvāla ṭribyunal ādēśin̄cindi.
+
+(1, '2004', '2004', 'NOUN', 'NOUN', None, 5, 'obl')
+(2, 'లో', 'లో', 'ADP', 'ADP', None, 1, 'case')
+(3, 'రోడ్డు', 'రోడ్డు', 'NOUN', 'NOUN', None, 5, 'obl')
+(4, 'ప్రమాదంలో', 'ప్రమాదంలో', 'NOUN', 'NOUN', None, 5, 'obl')
+(5, 'మరణించిన', 'మరణించిన', 'VERB', 'VERB', None, 9, 'ccomp')
+(6, 'మహారాష్ట్ర', 'మహారాష్ట్ర', 'PROPN', 'PROPN', None, 8, 'nmod')
+(7, 'మాజీ', 'మాజీ', 'NOUN', 'NOUN', None, 8, 'nmod')
+(8, 'మంత్రి', 'మంత్రి', 'NOUN', 'NOUN', None, 9, 'nsubj')
+(9, 'శ్రీకాంత్', 'శ్రీకాంత్', 'PROPN', 'PROPN', None, 13, 'nsubj:nc')
+(10, 'జిచ్కర్', 'జిచ్కర్', 'PUNCT', 'PUNCT', None, 13, 'punct')
+(11, 'కుటుంబానికి', 'కుటుంబానికి', 'NOUN', 'NOUN', None, 13, 'nsubj:nc')
+(12, 'రూ', 'రూ', 'ADJ', 'ADJ', None, 13, 'amod')
+(13, '.50', '.50', 'NOUN', 'NOUN', None, 0, 'root')
+(14, '.67', '.67', 'PUNCT', 'PUNCT', None, 13, 'punct')
+
+
+Sentence 39:
+ముందు కూర్చున్న చౌకి ఇన్‌చార్జి రెజిస్టర్ పాల్ సింగ్ వెంటనే మృతి చెందాడు.
+Mundu kūrcunna cauki in‌cārji rejisṭar pāl siṅg veṇṭanē mr̥ti cendāḍu.
+
+(1, 'ముందు', 'ముందు', 'ADV', 'ADV', None, 2, 'advmod')
+(2, 'కూర్చున్న', 'కూర్చున్న', 'VERB', 'VERB', None, 10, 'csubj')
+(3, 'చౌకి', 'చౌకి', 'PUNCT', 'PUNCT', None, 6, 'punct')
+(4, 'ఇన్\u200cచార్జి', 'ఇన్\u200cచార్జి', 'NOUN', 'NOUN', None, 6, 'nmod')
+(5, 'రెజిస్టర్', 'రెజిస్టర్', 'VERB', 'VERB', None, 6, 'nmod')
+(6, 'పాల్', 'పాల్', 'PROPN', 'PROPN', None, 2, 'punct')
+(7, 'సింగ్', 'సింగ్', 'PRON', 'PRON', None, 8, 'amod')
+(8, 'వెంటనే', 'వెంటనే', 'ADV', 'ADV', None, 10, 'advmod')
+(9, 'మృతి', 'మృతి', 'NOUN', 'NOUN', None, 10, 'nsubj')
+(10, 'చెందాడు', 'చెందాడు', 'VERB', 'VERB', None, 0, 'root')
+(11, '.', '.', 'PUNCT', 'PUNCT', None, 10, 'punct')
+
+
+Sentence 40:
+శుక్రవారం జరగనున్న కేబినెట్ పునర్వ్యవస్థీకరణలో తనను చేర్చలేదని రాజారాం పాండే తెలుసుకున్నారు.
+Śukravāraṁ jaraganunna kēbineṭ punarvyavasthīkaraṇalō tananu cērcalēdani rājārāṁ pāṇḍē telusukunnāru.
+
+(1, 'శుక్రవారం', 'శుక్రవారం', 'NOUN', 'NOUN', None, 2, 'nsubj')
+(2, 'జరగనున్న', 'జరగనున్న', 'VERB', 'VERB', None, 6, 'advcl')
+(3, 'కేబినెట్', 'కేబినెట్', 'NOUN', 'NOUN', None, 2, 'nsubj')
+(4, 'పునర్వ్యవస్థీకరణలో', 'పునర్వ్యవస్థీకరణలో', 'NOUN', 'NOUN', None, 2, 'obl:tmod')
+(5, 'తనను', 'తనను', 'PRON', 'PRON', None, 6, 'nsubj')
+(6, 'చేర్చలేదని', 'చేర్చలేదని', 'VERB', 'VERB', None, 7, 'acl')
+(7, 'రాజారాం', 'రాజారాం', 'PROPN', 'PROPN', None, 9, 'nsubj')
+(8, 'పాండే', 'పాండే', 'NOUN', 'NOUN', None, 9, 'nsubj')
+(9, 'తెలుసుకున్నారు', 'తెలుసుకున్నారు', 'VERB', 'VERB', None, 0, 'root')
+(10, '.', '.', 'PUNCT', 'PUNCT', None, 9, 'punct')
+
+
+Sentence 41:
+ఈ జాబితాలో ఇంతకుముందు ulated హించిన పేర్లు మాత్రమే ఉన్నాయి.
+Ī jābitālō intakumundu ulated hin̄cina pērlu mātramē unnāyi.
+
+(1, 'ఈ', 'ఈ', 'DET', 'DET', None, 2, 'det')
+(2, 'జాబితాలో', 'జాబితాలో', 'NOUN', 'NOUN', None, 8, 'obl')
+(3, 'ఇంతకుముందు', 'ఇంతకుముందు', 'NOUN', 'NOUN', None, 5, 'obl')
+(4, 'ulated', 'ulated', 'VERB', 'VERB', None, 5, 'advmod')
+(5, 'హించిన', 'హించిన', 'VERB', 'VERB', None, 6, 'acl')
+(6, 'పేర్లు', 'పేర్లు', 'NOUN', 'NOUN', None, 8, 'nsubj')
+(7, 'మాత్రమే', 'మాత్రమే', 'NOUN', 'NOUN', None, 8, 'compound:lvc')
+(8, 'ఉన్నాయి', 'ఉన్నాయి', 'VERB', 'VERB', None, 0, 'root')
+(9, '.', '.', 'PUNCT', 'PUNCT', None, 8, 'punct')
+
+
+Sentence 42:
+కెనడాలో అన్ని ఆర్ధిక ప్రయోజనాలను పొందుతున్న విదేశాల నుండి వచ్చిన వ్యక్తుల గురించి ఈ రకమైన ఫిర్యాదులు మరియు సమాచారాన్ని ప్రభుత్వం స్వీకరిస్తోంది.
+Kenaḍālō anni ārdhika prayōjanālanu pondutunna vidēśāla nuṇḍi vaccina vyaktula gurin̄ci ī rakamaina phiryādulu mariyu samācārānni prabhutvaṁ svīkaristōndi.
+
+(1, 'కెనడాలో', 'కెనడాలో', 'PROPN', 'PROPN', None, 0, 'root')
+(2, 'అన్ని', 'అన్ని', 'DET', 'DET', None, 1, 'det')
+
+
+Sentence 43:
+బిజెపి తయారుచేసిన జాబితాలో నార్త్-సెంటర్ మరియు బార్గి అసెంబ్లీ మినహా ఇప్పటికే ఎంపికైన అభ్యర్థులు ఉన్నారు, ఇక్కడ అభ్యర్థులను మార్చడానికి చర్చలు చాలా కాలం కొనసాగాయి.
+Bijepi tayārucēsina jābitālō nārt-seṇṭar mariyu bārgi asemblī minahā ippaṭikē empikaina abhyarthulu unnāru, ikkaḍa abhyarthulanu mārcaḍāniki carcalu cālā kālaṁ konasāgāyi.
+
+(1, 'బిజెపి', 'బిజెపి', 'PROPN', 'PROPN', None, 2, 'nsubj')
+(2, 'తయారుచేసిన', 'తయారుచేసిన', 'VERB', 'VERB', None, 4, 'acl:relcl')
+(3, 'జాబితాలో', 'జాబితాలో', 'NOUN', 'NOUN', None, 2, 'obj')
+(4, 'నార్త్-సెంటర్', 'నార్త్-సెంటర్', 'NOUN', 'NOUN', None, 8, 'list')
+(5, 'మరియు', 'మరియు', 'CCONJ', 'CCONJ', None, 2, 'mark')
+(6, 'బార్గి', 'బార్గి', 'PUNCT', 'PUNCT', None, 8, 'punct')
+(7, 'అసెంబ్లీ', 'అసెంబ్లీ', 'NOUN', 'NOUN', None, 11, 'nmod')
+(8, 'మినహా', 'మినహా', 'NOUN', 'NOUN', None, 12, 'nsubj')
+(9, 'ఇప్పటికే', 'ఇప్పటికే', 'NOUN', 'NOUN', None, 12, 'punct')
+(10, 'ఎంపికైన', 'ఎంపికైన', 'NOUN', 'NOUN', None, 11, 'nmod')
+(11, 'అభ్యర్థులు', 'అభ్యర్థులు', 'NOUN', 'NOUN', None, 12, 'nsubj')
+(12, 'ఉన్నారు', 'ఉన్నారు', 'VERB', 'VERB', None, 16, 'ccomp')
+(13, ',', ',', 'PUNCT', 'PUNCT', None, 12, 'punct')
+(14, 'ఇక్కడ', 'ఇక్కడ', 'ADV', 'ADV', None, 16, 'advmod')
+(15, 'అభ్యర్థులను', 'అభ్యర్థులను', 'NOUN', 'NOUN', None, 16, 'nsubj')
+(16, 'మార్చడానికి', 'మార్చడానికి', 'VERB', 'VERB', None, 19, 'ccomp')
+(17, 'చర్చలు', 'చర్చలు', 'NOUN', 'NOUN', None, 20, 'nsubj')
+(18, 'చాలా', 'చాలా', 'DET', 'DET', None, 19, 'det')
+(19, 'కాలం', 'కాలం', 'NOUN', 'NOUN', None, 20, 'obj')
+(20, 'కొనసాగాయి', 'కొనసాగాయి', 'VERB', 'VERB', None, 0, 'root')
+(21, '.', '.', 'PUNCT', 'PUNCT', None, 20, 'punct')
+
+
+Sentence 44:
+దూరప్రాంతం నుండి వచ్చిన కస్టమర్లు ఈ మార్కెట్ నుండి వస్తువులను కొనుగోలు చేస్తారు, కాని వస్తువులు ఖరీదైనవి కావడంతో ప్రజలు తక్కువ వస్తువులను కొనుగోలు చేస్తున్నారు.
+Dūraprāntaṁ nuṇḍi vaccina kasṭamarlu ī mārkeṭ nuṇḍi vastuvulanu konugōlu cēstāru, kāni vastuvulu kharīdainavi kāvaḍantō prajalu takkuva vastuvulanu konugōlu cēstunnāru.
+
+(1, 'దూరప్రాంతం', 'దూరప్రాంతం', 'NOUN', 'NOUN', None, 3, 'obl')
+(2, 'నుండి', 'నుండి', 'ADP', 'ADP', None, 1, 'case')
+(3, 'వచ్చిన', 'వచ్చిన', 'VERB', 'VERB', None, 6, 'acl')
+(4, 'కస్టమర్లు', 'కస్టమర్లు', 'NOUN', 'NOUN', None, 3, 'nsubj')
+(5, 'ఈ', 'ఈ', 'DET', 'DET', None, 6, 'det')
+(6, 'మార్కెట్', 'మార్కెట్', 'NOUN', 'NOUN', None, 10, 'obl')
+(7, 'నుండి', 'నుండి', 'ADP', 'ADP', None, 6, 'case')
+(8, 'వస్తువులను', 'వస్తువులను', 'NOUN', 'NOUN', None, 10, 'nsubj')
+(9, 'కొనుగోలు', 'కొనుగోలు', 'NOUN', 'NOUN', None, 10, 'advmod')
+(10, 'చేస్తారు', 'చేస్తారు', 'VERB', 'VERB', None, 15, 'ccomp')
+(11, ',', ',', 'PUNCT', 'PUNCT', None, 10, 'punct')
+(12, 'కాని', 'కాని', 'CCONJ', 'CCONJ', None, 10, 'obl:tmod')
+(13, 'వస్తువులు', 'వస్తువులు', 'NOUN', 'NOUN', None, 16, 'ccomp')
+(14, 'ఖరీదైనవి', 'ఖరీదైనవి', 'NOUN', 'NOUN', None, 16, 'ccomp')
+(15, 'కావడంతో', 'కావడంతో', 'VERB', 'VERB', None, 16, 'ccomp')
+(16, 'ప్రజలు', 'ప్రజలు', 'NOUN', 'NOUN', None, 20, 'nsubj')
+(17, 'తక్కువ', 'తక్కువ', 'DET', 'DET', None, 18, 'det')
+(18, 'వస్తువులను', 'వస్తువులను', 'NOUN', 'NOUN', None, 20, 'obj')
+(19, 'కొనుగోలు', 'కొనుగోలు', 'NOUN', 'NOUN', None, 20, 'compound:lvc')
+(20, 'చేస్తున్నారు', 'చేస్తున్నారు', 'VERB', 'VERB', None, 0, 'root')
+(21, '.', '.', 'PUNCT', 'PUNCT', None, 20, 'punct')
+
+
+Sentence 45:
+విలువైన లోహాలు కాకుండా, నిన్నటి వరకు టన్నుకు, 9 3,933 ఉన్న ఇత్తడి స్క్రాప్ ధర టన్నుకు, 8 3,840 కు తగ్గించబడింది.
+Viluvaina lōhālu kākuṇḍā, ninnaṭi varaku ṭannuku, 9 3,933 unna ittaḍi skrāp dhara ṭannuku, 8 3,840 ku taggin̄cabaḍindi.
+
+(1, 'విలువైన', 'విలువైన', 'NOUN', 'NOUN', None, 2, 'nmod:poss')
+(2, 'లోహాలు', 'లోహాలు', 'NOUN', 'NOUN', None, 7, 'nsubj')
+(3, 'కాకుండా', 'కాకుండా', 'CCONJ', 'CCONJ', None, 2, 'nummod')
+(4, ',', ',', 'PUNCT', 'PUNCT', None, 9, 'punct')
+(5, 'నిన్నటి', 'నిన్నటి', 'NOUN', 'NOUN', None, 7, 'obl:tmod')
+(6, 'వరకు', 'వరకు', 'ADP', 'ADP', None, 5, 'case')
+(7, 'టన్నుకు', 'టన్నుకు', 'VERB', 'VERB', None, 0, 'root')
+(8, ',', ',', 'PUNCT', 'PUNCT', None, 9, 'punct')
+(9, '9', '9', 'VERB', 'VERB', None, 7, 'conj')
+
+
+Sentence 46:
+నగర శివార్లలో ఉన్న మలోయా గ్రామంలో చాలా విచారకరమైన సంఘటన జరిగింది, కొత్తగా వివాహం చేసుకున్న మహిళ అభిమాని నుండి ఉరి వేసుకుని ఆత్మహత్య చేసుకుంది.
+Nagara śivārlalō unna malōyā grāmanlō cālā vicārakaramaina saṅghaṭana jarigindi, kottagā vivāhaṁ cēsukunna mahiḷa abhimāni nuṇḍi uri vēsukuni ātmahatya cēsukundi.
+
+(1, 'నగర', 'నగర', 'NOUN', 'NOUN', None, 2, 'nmod:poss')
+(2, 'శివార్లలో', 'శివార్లలో', 'NOUN', 'NOUN', None, 3, 'obl')
+(3, 'ఉన్న', 'ఉన్న', 'VERB', 'VERB', None, 7, 'ccomp')
+(4, 'మలోయా', 'మలోయా', 'PRON', 'PRON', None, 3, 'punct')
+(5, 'గ్రామంలో', 'గ్రామంలో', 'NOUN', 'NOUN', None, 9, 'obl')
+(6, 'చాలా', 'చాలా', 'DET', 'DET', None, 7, 'det')
+(7, 'విచారకరమైన', 'విచారకరమైన', 'VERB', 'VERB', None, 9, 'nsubj')
+(8, 'సంఘటన', 'సంఘటన', 'NOUN', 'NOUN', None, 9, 'nsubj')
+(9, 'జరిగింది', 'జరిగింది', 'VERB', 'VERB', None, 18, 'ccomp')
+(10, ',', ',', 'PUNCT', 'PUNCT', None, 9, 'punct')
+(11, 'కొత్తగా', 'కొత్తగా', 'ADV', 'ADV', None, 13, 'advmod')
+(12, 'వివాహం', 'వివాహం', 'NOUN', 'NOUN', None, 14, 'nmod')
+(13, 'చేసుకున్న', 'చేసుకున్న', 'VERB', 'VERB', None, 18, 'ccomp')
+(14, 'మహిళ', 'మహిళ', 'NOUN', 'NOUN', None, 18, 'nsubj')
+(15, 'అభిమాని', 'అభిమాని', 'NOUN', 'NOUN', None, 18, 'nsubj')
+(16, 'నుండి', 'నుండి', 'ADP', 'ADP', None, 15, 'case')
+(17, 'ఉరి', 'ఉరి', 'NOUN', 'NOUN', None, 18, 'nsubj')
+(18, 'వేసుకుని', 'వేసుకుని', 'VERB', 'VERB', None, 20, 'ccomp')
+(19, 'ఆత్మహత్య', 'ఆత్మహత్య', 'NOUN', 'NOUN', None, 20, 'compound:lvc')
+(20, 'చేసుకుంది', 'చేసుకుంది', 'VERB', 'VERB', None, 0, 'root')
+(21, '.', '.', 'PUNCT', 'PUNCT', None, 20, 'punct')
+
+
+Sentence 47:
+అసెంబ్లీ ఎన్నికలకు ముందు కాంగ్రెస్ నుంచి బిజెపిలో చేరిన మాజీ ఉప ముఖ్యమంత్రి నార్హారీ అమిన్‌ను ప్రణాళికా సంఘం డిప్యూటీ చైర్మన్‌గా నియమించారు.
+Asemblī ennikalaku mundu kāṅgres nun̄ci bijepilō cērina mājī upa mukhyamantri nār'hārī amin‌nu praṇāḷikā saṅghaṁ ḍipyūṭī cairman‌gā niyamin̄cāru.
+
+(1, 'అసెంబ్లీ', 'అసెంబ్లీ', 'NOUN', 'NOUN', None, 2, 'compound')
+(2, 'ఎన్నికలకు', 'ఎన్నికలకు', 'DET', 'DET', None, 4, 'nmod:poss')
+(3, 'ముందు', 'ముందు', 'ADP', 'ADP', None, 2, 'case')
+(4, 'కాంగ్రెస్', 'కాంగ్రెస్', 'PROPN', 'PROPN', None, 8, 'obl')
+(5, 'నుంచి', 'నుంచి', 'ADP', 'ADP', None, 2, 'case')
+(6, 'బిజెపిలో', 'బిజెపిలో', 'NOUN', 'NOUN', None, 7, 'obl')
+(7, 'చేరిన', 'చేరిన', 'VERB', 'VERB', None, 8, 'compound:svc')
+(8, 'మాజీ', 'మాజీ', 'VERB', 'VERB', None, 12, 'ccomp')
+(9, 'ఉప', 'ఉప', 'DET', 'DET', None, 11, 'det')
+(10, 'ముఖ్యమంత్రి', 'ముఖ్యమంత్రి', 'NOUN', 'NOUN', None, 11, 'nmod')
+(11, 'నార్హారీ', 'నార్హారీ', 'NOUN', 'NOUN', None, 12, 'obl:tmod')
+(12, 'అమిన్\u200cను', 'అమిన్\u200cను', 'VERB', 'VERB', None, 14, 'ccomp')
+(13, 'ప్రణాళికా', 'ప్రణాళికా', 'NOUN', 'NOUN', None, 14, 'nsubj')
+(14, 'సంఘం', 'సంఘం', 'NOUN', 'NOUN', None, 17, 'obl:tmod')
+(15, 'డిప్యూటీ', 'డిప్యూటీ', 'NOUN', 'NOUN', None, 17, 'nsubj')
+(16, 'చైర్మన్\u200cగా', 'చైర్మన్\u200cగా', 'ADV', 'ADV', None, 17, 'advmod')
+(17, 'నియమించారు', 'నియమించారు', 'VERB', 'VERB', None, 0, 'root')
+(18, '.', '.', 'PUNCT', 'PUNCT', None, 17, 'punct')
+
+
+Sentence 48:
+ఈ కారణంగానే టిడిఎస్ బృందం ఈ గుంపు యొక్క ఆదాయపు పన్ను సర్వేను ప్రారంభించింది.
+Ī kāraṇaṅgānē ṭiḍi'es br̥ndaṁ ī gumpu yokka ādāyapu pannu sarvēnu prārambhin̄cindi.
+
+(1, 'ఈ', 'ఈ', 'DET', 'DET', None, 2, 'det')
+(2, 'కారణంగానే', 'కారణంగానే', 'ADV', 'ADV', None, 11, 'advmod')
+(3, 'టిడిఎస్', 'టిడిఎస్', 'NOUN', 'NOUN', None, 4, 'nmod')
+(4, 'బృందం', 'బృందం', 'NOUN', 'NOUN', None, 6, 'nsubj')
+(5, 'ఈ', 'ఈ', 'NOUN', 'NOUN', None, 6, 'advmod')
+(6, 'గుంపు', 'గుంపు', 'VERB', 'VERB', None, 10, 'acl')
+(7, 'యొక్క', 'యొక్క', 'CCONJ', 'CCONJ', None, 6, 'mark')
+(8, 'ఆదాయపు', 'ఆదాయపు', 'NOUN', 'NOUN', None, 11, 'obl:tmod')
+(9, 'పన్ను', 'పన్ను', 'NOUN', 'NOUN', None, 10, 'compound')
+(10, 'సర్వేను', 'సర్వేను', 'PROPN', 'PROPN', None, 11, 'nsubj')
+(11, 'ప్రారంభించింది', 'ప్రారంభించింది', 'VERB', 'VERB', None, 0, 'root')
+(12, '.', '.', 'PUNCT', 'PUNCT', None, 11, 'punct')
+
+
+Sentence 49:
+అయినప్పటికీ, స్నోడెన్ వెల్లడి ద్వారా బహిర్గతం చేయబడిన యుఎస్ గూ y చారి ఏజెన్సీల యొక్క సాంకేతిక పరిజ్ఞానం మరియు అధునాతనత చైనాకు అతిపెద్ద నిఘా ప్రమాదం ఉందని గతంలో భావించిన కొన్ని కంపెనీలకు షాక్ ఇచ్చింది.
+Ayinappaṭikī, snōḍen vellaḍi dvārā bahirgataṁ cēyabaḍina yu'es gū y cāri ējensīla yokka sāṅkētika parijñānaṁ mariyu adhunātanata caināku atipedda nighā pramādaṁ undani gatanlō bhāvin̄cina konni kampenīlaku ṣāk iccindi.
+
+(1, 'అయినప్పటికీ', 'అయినప్పటికీ', 'NOUN', 'NOUN', None, 3, 'compound')
+(2, ',', ',', 'PUNCT', 'PUNCT', None, 4, 'punct')
+(3, 'స్నోడెన్', 'స్నోడెన్', 'NOUN', 'NOUN', None, 4, 'nmod:poss')
+(4, 'వెల్లడి', 'వెల్లడి', 'NOUN', 'NOUN', None, 7, 'obl')
+(5, 'ద్వారా', 'ద్వారా', 'ADP', 'ADP', None, 4, 'case')
+(6, 'బహిర్గతం', 'బహిర్గతం', 'NOUN', 'NOUN', None, 7, 'nsubj')
+(7, 'చేయబడిన', 'చేయబడిన', 'VERB', 'VERB', None, 8, 'acl')
+(8, 'యుఎస్', 'యుఎస్', 'PRON', 'PRON', None, 10, 'nsubj')
+(9, 'గూ', 'గూ', 'VERB', 'VERB', None, 10, 'compound:svc')
+(10, 'y', 'y', 'NOUN', 'NOUN', None, 0, 'root')
+
+
+Sentence 50:
+పరిమాణాలు మరియు ప్రధాన వ్యాపార సమూహాలలో ప్రతిబింబించిన ఈ అన్వేషణ, వ్యాపారాలు UK కి అధికారాలను తీసుకువచ్చే "అర్ధవంతమైన మార్పు" కోసం ముందుకు వస్తున్నాయని చూపిస్తుంది.
+Parimāṇālu mariyu pradhāna vyāpāra samūhālalō pratibimbin̄cina ī anvēṣaṇa, vyāpārālu UK ki adhikārālanu tīsukuvaccē"ardhavantamaina mārpu" kōsaṁ munduku vastunnāyani cūpistundi.
+
+(1, 'పరిమాణాలు', 'పరిమాణాలు', 'NOUN', 'NOUN', None, 20, 'nsubj')
+(2, 'మరియు', 'మరియు', 'DET', 'DET', None, 3, 'det')
+(3, 'ప్రధాన', 'ప్రధాన', 'NOUN', 'NOUN', None, 4, 'nmod:poss')
+(4, 'వ్యాపార', 'వ్యాపార', 'NOUN', 'NOUN', None, 6, 'obl')
+(5, 'సమూహాలలో', 'సమూహాలలో', 'ADP', 'ADP', None, 4, 'case')
+(6, 'ప్రతిబింబించిన', 'ప్రతిబింబించిన', 'VERB', 'VERB', None, 8, 'ccomp')
+(7, 'ఈ', 'ఈ', 'DET', 'DET', None, 8, 'det')
+(8, 'అన్వేషణ', 'అన్వేషణ', 'NOUN', 'NOUN', None, 19, 'ccomp')
+(9, ',', ',', 'PUNCT', 'PUNCT', None, 10, 'punct')
+(10, 'వ్యాపారాలు', 'వ్యాపారాలు', 'NOUN', 'NOUN', None, 11, 'nmod')
+(11, 'UK', 'UK', 'NOUN', 'NOUN', None, 19, 'ccomp')
+(12, 'కి', 'కి', 'ADP', 'ADP', None, 4, 'case')
+(13, 'అధికారాలను', 'అధికారాలను', 'NOUN', 'NOUN', None, 15, 'nsubj')
+(14, 'తీసుకువచ్చే', 'తీసుకువచ్చే', 'VERB', 'VERB', None, 19, 'ccomp')
+(15, '"అర్ధవంతమైన', '"అర్ధవంతమైన', 'NOUN', 'NOUN', None, 19, 'ccomp')
+(16, 'మార్పు"', 'మార్పు"', 'NOUN', 'NOUN', None, 19, 'nsubj')
+(17, 'కోసం', 'కోసం', 'ADV', 'ADV', None, 19, 'advmod')
+(18, 'ముందుకు', 'ముందుకు', 'NOUN', 'NOUN', None, 19, 'obl')
+(19, 'వస్తున్నాయని', 'వస్తున్నాయని', 'VERB', 'VERB', None, 20, 'ccomp')
+(20, 'చూపిస్తుంది', 'చూపిస్తుంది', 'VERB', 'VERB', None, 0, 'root')
+(21, '.', '.', 'PUNCT', 'PUNCT', None, 20, 'punct')
+
+
+Sentence 51:
+"ఈ హెడ్‌లైన్స్‌లో ఎక్కువ భాగం కరోలిన్స్‌లో కనిపించాయి మరియు క్లబ్‌ను ఆడటానికి చాలా పెద్దవిగా ఉన్నంత వరకు ఎక్కువ విజయాలు సాధించాయి" అని హిర్ష్ చెప్పారు.
+"Ī heḍ‌lains‌lō ekkuva bhāgaṁ karōlins‌lō kanipin̄cāyi mariyu klab‌nu āḍaṭāniki cālā peddavigā unnanta varaku ekkuva vijayālu sādhin̄cāyi" ani hirṣ ceppāru.
+
+(1, '"ఈ', '"ఈ', 'PRON', 'PRON', None, 2, 'nmod')
+(2, 'హెడ్\u200cలైన్స్\u200cలో', 'హెడ్\u200cలైన్స్\u200cలో', 'PRON', 'PRON', None, 5, 'obl')
+(3, 'ఎక్కువ', 'ఎక్కువ', 'DET', 'DET', None, 4, 'det')
+(4, 'భాగం', 'భాగం', 'NOUN', 'NOUN', None, 6, 'obj')
+(5, 'కరోలిన్స్\u200cలో', 'కరోలిన్స్\u200cలో', 'VERB', 'VERB', None, 6, 'compound:svc')
+(6, 'కనిపించాయి', 'కనిపించాయి', 'VERB', 'VERB', None, 12, 'ccomp')
+(7, 'మరియు', 'మరియు', 'CCONJ', 'CCONJ', None, 6, 'punct')
+(8, 'క్లబ్\u200cను', 'క్లబ్\u200cను', 'NOUN', 'NOUN', None, 12, 'punct')
+(9, 'ఆడటానికి', 'ఆడటానికి', 'NOUN', 'NOUN', None, 12, 'obl:tmod')
+(10, 'చాలా', 'చాలా', 'DET', 'DET', None, 15, 'det')
+(11, 'పెద్దవిగా', 'పెద్దవిగా', 'ADV', 'ADV', None, 12, 'advmod')
+(12, 'ఉన్నంత', 'ఉన్నంత', 'VERB', 'VERB', None, 16, 'ccomp')
+(13, 'వరకు', 'వరకు', 'ADV', 'ADV', None, 16, 'advmod')
+(14, 'ఎక్కువ', 'ఎక్కువ', 'DET', 'DET', None, 15, 'det')
+(15, 'విజయాలు', 'విజయాలు', 'NOUN', 'NOUN', None, 16, 'nsubj')
+(16, 'సాధించాయి"', 'సాధించాయి"', 'VERB', 'VERB', None, 19, 'ccomp')
+(17, 'అని', 'అని', 'SCONJ', 'SCONJ', None, 16, 'mark')
+(18, 'హిర్ష్', 'హిర్ష్', 'PROPN', 'PROPN', None, 19, 'nsubj')
+(19, 'చెప్పారు', 'చెప్పారు', 'VERB', 'VERB', None, 0, 'root')
+(20, '.', '.', 'PUNCT', 'PUNCT', None, 19, 'punct')
+
+
+Sentence 52:
+ఇది నేను ఇంకా పరిష్కరించాల్సిన రహస్యం.
+Idi nēnu iṅkā pariṣkarin̄cālsina rahasyaṁ.
+
+(1, 'ఇది', 'ఇది', 'PRON', 'PRON', None, 5, 'nsubj')
+(2, 'నేను', 'నేను', 'PRON', 'PRON', None, 5, 'nsubj')
+(3, 'ఇంకా', 'ఇంకా', 'ADV', 'ADV', None, 5, 'advmod')
+(4, 'పరిష్కరించాల్సిన', 'పరిష్కరించాల్సిన', 'NOUN', 'NOUN', None, 5, 'compound')
+(5, 'రహస్యం', 'రహస్యం', 'NOUN', 'NOUN', None, 0, 'root')
+(6, '.', '.', 'PUNCT', 'PUNCT', None, 5, 'punct')
+
+
+Sentence 53:
+చివరగా, మరియు అన్నింటికంటే చెప్పాలంటే, మా వ్యాపార నాయకుల పోల్ స్పష్టమైన మెజారిటీని గుర్తించింది, బ్రిటన్ ఒప్పంద మార్పు యొక్క మార్గాన్ని మరియు రాజకీయాలతో కాకుండా వాణిజ్యంపై ఆధారపడిన EU తో సంబంధాన్ని కొనసాగించాలని కోరుకుంది.
+Civaragā, mariyu anniṇṭikaṇṭē ceppālaṇṭē, mā vyāpāra nāyakula pōl spaṣṭamaina mejāriṭīni gurtin̄cindi, briṭan oppanda mārpu yokka mārgānni mariyu rājakīyālatō kākuṇḍā vāṇijyampai ādhārapaḍina EU tō sambandhānni konasāgin̄cālani kōrukundi.
+
+(1, 'చివరగా', 'చివరగా', 'ADV', 'ADV', None, 16, 'advmod')
+(2, ',', ',', 'PUNCT', 'PUNCT', None, 5, 'punct')
+(3, 'మరియు', 'మరియు', 'CCONJ', 'CCONJ', None, 5, 'punct')
+(4, 'అన్నింటికంటే', 'అన్నింటికంటే', 'NOUN', 'NOUN', None, 5, 'advmod')
+(5, 'చెప్పాలంటే', 'చెప్పాలంటే', 'VERB', 'VERB', None, 13, 'ccomp')
+(6, ',', ',', 'PUNCT', 'PUNCT', None, 5, 'punct')
+(7, 'మా', 'మా', 'PRON', 'PRON', None, 12, 'nmod')
+(8, 'వ్యాపార', 'వ్యాపార', 'NOUN', 'NOUN', None, 10, 'list')
+(9, 'నాయకుల', 'నాయకుల', 'DET', 'DET', None, 12, 'nmod')
+(10, 'పోల్', 'పోల్', 'NOUN', 'NOUN', None, 13, 'nsubj')
+(11, 'స్పష్టమైన', 'స్పష్టమైన', 'NOUN', 'NOUN', None, 12, 'nmod')
+(12, 'మెజారిటీని', 'మెజారిటీని', 'NOUN', 'NOUN', None, 13, 'nsubj')
+(13, 'గుర్తించింది', 'గుర్తించింది', 'VERB', 'VERB', None, 16, 'ccomp')
+(14, ',', ',', 'PUNCT', 'PUNCT', None, 13, 'punct')
+(15, 'బ్రిటన్', 'బ్రిటన్', 'PROPN', 'PROPN', None, 16, 'det')
+(16, 'ఒప్పంద', 'ఒప్పంద', 'NOUN', 'NOUN', None, 0, 'root')
+
+
+Sentence 54:
+ఇస్లామిస్ట్ మొహమ్మద్ మోర్సీ "కొత్త ఈజిప్ట్" కు వాగ్దానం చేసాడు, అతను దేశం యొక్క మొట్టమొదటి స్వేచ్ఛగా ఎన్నికైన అధ్యక్షుడిగా ప్రమాణ స్వీకారం చేసాడు, 16 నెలల క్రితం బహిష్కరించబడిన హోస్ని ముబారక్ తరువాత.
+Islāmisṭ moham'mad mōrsī"kotta ījipṭ" ku vāgdānaṁ cēsāḍu, atanu dēśaṁ yokka moṭṭamodaṭi svēcchagā ennikaina adhyakṣuḍigā pramāṇa svīkāraṁ cēsāḍu, 16 nelala kritaṁ bahiṣkarin̄cabaḍina hōsni mubārak taruvāta.
+
+(1, 'ఇస్లామిస్ట్', 'ఇస్లామిస్ట్', 'PROPN', 'PROPN', None, 2, 'compound')
+(2, 'మొహమ్మద్', 'మొహమ్మద్', 'PROPN', 'PROPN', None, 3, 'nmod:poss')
+(3, 'మోర్సీ', 'మోర్సీ', 'NOUN', 'NOUN', None, 8, 'obl')
+(4, '"కొత్త', '"కొత్త', 'ADP', 'ADP', None, 3, 'case')
+(5, 'ఈజిప్ట్"', 'ఈజిప్ట్"', 'NOUN', 'NOUN', None, 6, 'nmod')
+(6, 'కు', 'కు', 'VERB', 'VERB', None, 8, 'compound:svc')
+(7, 'వాగ్దానం', 'వాగ్దానం', 'VERB', 'VERB', None, 8, 'compound:svc')
+(8, 'చేసాడు', 'చేసాడు', 'VERB', 'VERB', None, 14, 'ccomp')
+(9, ',', ',', 'PUNCT', 'PUNCT', None, 8, 'punct')
+(10, 'అతను', 'అతను', 'PRON', 'PRON', None, 14, 'nsubj')
+(11, 'దేశం', 'దేశం', 'NOUN', 'NOUN', None, 14, 'obl')
+(12, 'యొక్క', 'యొక్క', 'ADP', 'ADP', None, 3, 'case')
+(13, 'మొట్టమొదటి', 'మొట్టమొదటి', 'NOUN', 'NOUN', None, 14, 'ccomp')
+(14, 'స్వేచ్ఛగా', 'స్వేచ్ఛగా', 'VERB', 'VERB', None, 15, 'ccomp')
+(15, 'ఎన్నికైన', 'ఎన్నికైన', 'NOUN', 'NOUN', None, 19, 'obl')
+(16, 'అధ్యక్షుడిగా', 'అధ్యక్షుడిగా', 'ADV', 'ADV', None, 19, 'advmod')
+(17, 'ప్రమాణ', 'ప్రమాణ', 'ADJ', 'ADJ', None, 18, 'amod')
+(18, 'స్వీకారం', 'స్వీకారం', 'NOUN', 'NOUN', None, 19, 'nsubj')
+(19, 'చేసాడు', 'చేసాడు', 'VERB', 'VERB', None, 0, 'root')
+(20, ',', ',', 'PUNCT', 'PUNCT', None, 19, 'punct')
+(21, '16', '16', 'CCONJ', 'CCONJ', None, 23, 'cc')
+(22, 'నెలల', 'నెలల', 'NOUN', 'NOUN', None, 23, 'obl:tmod')
+(23, 'క్రితం', 'క్రితం', 'NOUN', 'NOUN', None, 26, 'obl:tmod')
+(24, 'బహిష్కరించబడిన', 'బహిష్కరించబడిన', 'NOUN', 'NOUN', None, 25, 'compound')
+(25, 'హోస్ని', 'హోస్ని', 'NOUN', 'NOUN', None, 26, 'ccomp')
+(26, 'ముబారక్', 'ముబారక్', 'PROPN', 'PROPN', None, 19, 'conj')
+(27, 'తరువాత.', 'తరువాత.', 'PUNCT', 'PUNCT', None, 26, 'punct')
+
+
+Sentence 55:
+విధానాలు, శిక్షణ మరియు పర్యవేక్షణలో సంస్కరణలతో సహా ప్రధాన మార్పులను పర్యవేక్షించడానికి ఆమె బయటి మానిటర్‌ను నియమించింది మరియు చాలా ఆపులు జరిగే కొన్ని ఆవరణలలో శరీర ధరించే కెమెరాలను పరీక్షించడానికి ఆమె పైలట్ ప్రోగ్రామ్‌ను ఆదేశించింది.
+Vidhānālu, śikṣaṇa mariyu paryavēkṣaṇalō sanskaraṇalatō sahā pradhāna mārpulanu paryavēkṣin̄caḍāniki āme bayaṭi māniṭar‌nu niyamin̄cindi mariyu cālā āpulu jarigē konni āvaraṇalalō śarīra dharin̄cē kemerālanu parīkṣin̄caḍāniki āme pailaṭ prōgrām‌nu ādēśin̄cindi.
+
+(1, 'విధానాలు', 'విధానాలు', 'NOUN', 'NOUN', None, 7, 'nsubj')
+(2, ',', ',', 'PUNCT', 'PUNCT', None, 3, 'punct')
+(3, 'శిక్షణ', 'శిక్షణ', 'NOUN', 'NOUN', None, 7, 'obl')
+(4, 'మరియు', 'మరియు', 'SCONJ', 'SCONJ', None, 3, 'case')
+(5, 'పర్యవేక్షణలో', 'పర్యవేక్షణలో', 'NOUN', 'NOUN', None, 7, 'obl')
+(6, 'సంస్కరణలతో', 'సంస్కరణలతో', 'PROPN', 'PROPN', None, 7, 'obl')
+(7, 'సహా', 'సహా', 'VERB', 'VERB', None, 10, 'ccomp')
+(8, 'ప్రధాన', 'ప్రధాన', 'DET', 'DET', None, 9, 'det')
+(9, 'మార్పులను', 'మార్పులను', 'NOUN', 'NOUN', None, 10, 'obj')
+(10, 'పర్యవేక్షించడానికి', 'పర్యవేక్షించడానికి', 'VERB', 'VERB', None, 14, 'ccomp')
+(11, 'ఆమె', 'ఆమె', 'PRON', 'PRON', None, 14, 'nsubj')
+(12, 'బయటి', 'బయటి', 'NOUN', 'NOUN', None, 13, 'nmod')
+(13, 'మానిటర్\u200cను', 'మానిటర్\u200cను', 'NOUN', 'NOUN', None, 14, 'nsubj')
+(14, 'నియమించింది', 'నియమించింది', 'VERB', 'VERB', None, 18, 'ccomp')
+(15, 'మరియు', 'మరియు', 'CCONJ', 'CCONJ', None, 14, 'mark')
+(16, 'చాలా', 'చాలా', 'DET', 'DET', None, 17, 'det')
+(17, 'ఆపులు', 'ఆపులు', 'NOUN', 'NOUN', None, 18, 'nsubj')
+(18, 'జరిగే', 'జరిగే', 'VERB', 'VERB', None, 0, 'root')
+(19, 'కొన్ని', 'కొన్ని', 'DET', 'DET', None, 18, 'det')
+
+
+Sentence 56:
+కానీ, సహోద్యోగులకు మరియు తోటివారికి ఒబామా పరిపాలనను నేను సమర్థిస్తున్నట్లు లెక్కలేనన్ని సార్లు గడిపిన తరువాత, నేను అందించగల వివరణలకు నేను పరిమితిని చేరుకున్నాను.
+Kānī, sahōdyōgulaku mariyu tōṭivāriki obāmā paripālananu nēnu samarthistunnaṭlu lekkalēnanni sārlu gaḍipina taruvāta, nēnu andin̄cagala vivaraṇalaku nēnu parimitini cērukunnānu.
+
+(1, 'కానీ', 'కానీ', 'NUM', 'NUM', 'NumType=Card', 3, 'nummod')
+(2, ',', ',', 'PUNCT', 'PUNCT', None, 1, 'punct')
+(3, 'సహోద్యోగులకు', 'సహోద్యోగులకు', 'NOUN', 'NOUN', None, 9, 'obl')
+(4, 'మరియు', 'మరియు', 'CCONJ', 'CCONJ', None, 7, 'nummod')
+(5, 'తోటివారికి', 'తోటివారికి', 'NOUN', 'NOUN', None, 7, 'list')
+(6, 'ఒబామా', 'ఒబామా', 'ADV', 'ADV', None, 9, 'advmod')
+(7, 'పరిపాలనను', 'పరిపాలనను', 'NOUN', 'NOUN', None, 9, 'nsubj')
+(8, 'నేను', 'నేను', 'PRON', 'PRON', None, 12, 'nsubj')
+(9, 'సమర్థిస్తున్నట్లు', 'సమర్థిస్తున్నట్లు', 'VERB', 'VERB', None, 12, 'ccomp')
+(10, 'లెక్కలేనన్ని', 'లెక్కలేనన్ని', 'DET', 'DET', None, 11, 'det')
+(11, 'సార్లు', 'సార్లు', 'ADV', 'ADV', None, 12, 'advmod')
+(12, 'గడిపిన', 'గడిపిన', 'VERB', 'VERB', None, 17, 'ccomp')
+(13, 'తరువాత', 'తరువాత', 'SCONJ', 'SCONJ', None, 12, 'mark')
+(14, ',', ',', 'PUNCT', 'PUNCT', None, 17, 'punct')
+(15, 'నేను', 'నేను', 'PRON', 'PRON', None, 17, 'nsubj')
+(16, 'అందించగల', 'అందించగల', 'NUM', 'NUM', 'NumType=Card', 17, 'nummod')
+(17, 'వివరణలకు', 'వివరణలకు', 'NOUN', 'NOUN', None, 20, 'iobj')
+(18, 'నేను', 'నేను', 'PRON', 'PRON', None, 20, 'nsubj')
+(19, 'పరిమితిని', 'పరిమితిని', 'NOUN', 'NOUN', None, 20, 'advmod')
+(20, 'చేరుకున్నాను', 'చేరుకున్నాను', 'VERB', 'VERB', None, 0, 'root')
+(21, '.', '.', 'PUNCT', 'PUNCT', None, 20, 'punct')
+
+
+Sentence 57:
+Ms పాల్‌బీపై లైంగిక ఆసక్తి ఉన్న ఒక మూలం చెప్పినప్పుడు క్లార్క్ పాల్గొన్న వ్యవహారం గురించి పుకార్లు మొదట నాట్డబ్ల్యూ యొక్క ఫీచర్స్ డెస్క్ ద్వారా తీసుకోబడ్డాయి: "మీ సమయాన్ని వృథా చేయవద్దు, ఆమె చార్లెస్‌తో ఉంది."
+Ms pāl‌bīpai laiṅgika āsakti unna oka mūlaṁ ceppinappuḍu klārk pālgonna vyavahāraṁ gurin̄ci pukārlu modaṭa nāṭḍablyū yokka phīcars ḍesk dvārā tīsukōbaḍḍāyi: "Mī samayānni vr̥thā cēyavaddu, āme cārles‌tō undi."
+
+(1, 'Ms', 'Ms', 'PROPN', 'PROPN', None, 3, 'nsubj')
+(2, 'పాల్\u200cబీపై', 'పాల్\u200cబీపై', 'NOUN', 'NOUN', None, 3, 'obj')
+(3, 'లైంగిక', 'లైంగిక', 'VERB', 'VERB', None, 4, 'acl')
+(4, 'ఆసక్తి', 'ఆసక్తి', 'NOUN', 'NOUN', None, 5, 'nsubj')
+(5, 'ఉన్న', 'ఉన్న', 'VERB', 'VERB', None, 8, 'ccomp')
+(6, 'ఒక', 'ఒక', 'NUM', 'NUM', 'NumType=Card', 7, 'nummod')
+(7, 'మూలం', 'మూలం', 'NOUN', 'NOUN', None, 8, 'nsubj')
+(8, 'చెప్పినప్పుడు', 'చెప్పినప్పుడు', 'VERB', 'VERB', None, 11, 'punct')
+(9, 'క్లార్క్', 'క్లార్క్', 'NOUN', 'NOUN', None, 11, 'nsubj')
+(10, 'పాల్గొన్న', 'పాల్గొన్న', 'VERB', 'VERB', None, 15, 'ccomp')
+(11, 'వ్యవహారం', 'వ్యవహారం', 'NOUN', 'NOUN', None, 15, 'obl')
+(12, 'గురించి', 'గురించి', 'ADP', 'ADP', None, 11, 'case')
+(13, 'పుకార్లు', 'పుకార్లు', 'NOUN', 'NOUN', None, 15, 'nsubj')
+(14, 'మొదట', 'మొదట', 'ADV', 'ADV', None, 15, 'advmod')
+(15, 'నాట్డబ్ల్యూ', 'నాట్డబ్ల్యూ', 'VERB', 'VERB', None, 17, 'acl')
+(16, 'యొక్క', 'యొక్క', 'SCONJ', 'SCONJ', None, 15, 'mark')
+(17, 'ఫీచర్స్', 'ఫీచర్స్', 'NOUN', 'NOUN', None, 20, 'nsubj')
+(18, 'డెస్క్', 'డెస్క్', 'NOUN', 'NOUN', None, 20, 'obl')
+(19, 'ద్వారా', 'ద్వారా', 'ADP', 'ADP', None, 18, 'case')
+(20, 'తీసుకోబడ్డాయి', 'తీసుకోబడ్డాయి', 'VERB', 'VERB', None, 0, 'root')
+(21, ':', ':', 'PUNCT', 'PUNCT', None, 20, 'punct')
+
+
+Sentence 58:
+సోడా లేదా జ్యూస్ పొందిన ప్రయాణీకులు మొత్తం డబ్బాను ఉంచగలరని, ఇది కాఫీ రీఫిల్స్‌ను ఉచితంగా ఇస్తుందని ఫ్రాంటియర్ తెలిపింది.
+Sōḍā lēdā jyūs pondina prayāṇīkulu mottaṁ ḍabbānu un̄cagalarani, idi kāphī rīphils‌nu ucitaṅgā istundani phrāṇṭiyar telipindi.
+
+(1, 'సోడా', 'సోడా', 'NOUN', 'NOUN', None, 2, 'nsubj')
+(2, 'లేదా', 'లేదా', 'VERB', 'VERB', None, 4, 'ccomp')
+(3, 'జ్యూస్', 'జ్యూస్', 'NOUN', 'NOUN', None, 5, 'nsubj')
+(4, 'పొందిన', 'పొందిన', 'VERB', 'VERB', None, 5, 'ccomp')
+(5, 'ప్రయాణీకులు', 'ప్రయాణీకులు', 'NOUN', 'NOUN', None, 8, 'nsubj')
+(6, 'మొత్తం', 'మొత్తం', 'NUM', 'NUM', 'NumType=Card', 7, 'nummod')
+(7, 'డబ్బాను', 'డబ్బాను', 'NOUN', 'NOUN', None, 8, 'nsubj')
+(8, 'ఉంచగలరని', 'ఉంచగలరని', 'VERB', 'VERB', None, 14, 'ccomp')
+(9, ',', ',', 'PUNCT', 'PUNCT', None, 8, 'punct')
+(10, 'ఇది', 'ఇది', 'PRON', 'PRON', None, 14, 'nsubj')
+(11, 'కాఫీ', 'కాఫీ', 'NOUN', 'NOUN', None, 12, 'compound')
+(12, 'రీఫిల్స్\u200cను', 'రీఫిల్స్\u200cను', 'NOUN', 'NOUN', None, 14, 'obj')
+(13, 'ఉచితంగా', 'ఉచితంగా', 'ADV', 'ADV', None, 14, 'advmod')
+(14, 'ఇస్తుందని', 'ఇస్తుందని', 'VERB', 'VERB', None, 16, 'ccomp')
+(15, 'ఫ్రాంటియర్', 'ఫ్రాంటియర్', 'NOUN', 'NOUN', None, 16, 'obj')
+(16, 'తెలిపింది', 'తెలిపింది', 'VERB', 'VERB', None, 0, 'root')
+(17, '.', '.', 'PUNCT', 'PUNCT', None, 16, 'punct')
+
+
+Sentence 59:
+కాబట్టి, ఫ్రెండ్స్ విత్ ఫ్రెండ్స్, ఆన్‌లైన్ స్క్రాబుల్-టైప్ గేమ్ 2011 లో నటుడు అలెక్ బాల్డ్విన్ తన స్మార్ట్‌ఫోన్‌లో ఆడుతున్నప్పుడు, విమానం గేట్ వద్ద ఆపి ఉంచినప్పుడు పరికరాన్ని ఆపివేయడానికి నిరాకరించినందుకు అమెరికన్ ఎయిర్‌లైన్స్ జెట్‌ను ప్రముఖంగా బూట్ చేశాడు. .
+Kābaṭṭi, phreṇḍs vit phreṇḍs, ān‌lain skrābul-ṭaip gēm 2011 lō naṭuḍu alek bālḍvin tana smārṭ‌phōn‌lō āḍutunnappuḍu, vimānaṁ gēṭ vadda āpi un̄cinappuḍu parikarānni āpivēyaḍāniki nirākarin̄cinanduku amerikan eyir‌lains jeṭ‌nu pramukhaṅgā būṭ cēśāḍu. .
+
+(1, 'కాబట్టి', 'కాబట్టి', 'ADV', 'ADV', None, 32, 'advmod')
+(2, ',', ',', 'PUNCT', 'PUNCT', None, 4, 'punct')
+(3, 'ఫ్రెండ్స్', 'ఫ్రెండ్స్', 'PROPN', 'PROPN', None, 9, 'compound')
+(4, 'విత్', 'విత్', 'VERB', 'VERB', None, 10, 'compound:svc')
+(5, 'ఫ్రెండ్స్', 'ఫ్రెండ్స్', 'NOUN', 'NOUN', None, 10, 'list')
+(6, ',', ',', 'PUNCT', 'PUNCT', None, 10, 'punct')
+(7, 'ఆన్\u200cలైన్', 'ఆన్\u200cలైన్', 'NOUN', 'NOUN', None, 9, 'list')
+(8, 'స్క్రాబుల్-టైప్', 'స్క్రాబుల్-టైప్', 'NOUN', 'NOUN', None, 9, 'nmod')
+(9, 'గేమ్', 'గేమ్', 'NOUN', 'NOUN', None, 10, 'nsubj')
+(10, '2011', '2011', 'VERB', 'VERB', None, 14, 'ccomp')
+(11, 'లో', 'లో', 'ADP', 'ADP', None, 10, 'case')
+(12, 'నటుడు', 'నటుడు', 'NOUN', 'NOUN', None, 14, 'nsubj')
+(13, 'అలెక్', 'అలెక్', 'NOUN', 'NOUN', None, 14, 'nsubj')
+(14, 'బాల్డ్విన్', 'బాల్డ్విన్', 'VERB', 'VERB', None, 17, 'punct')
+(15, 'తన', 'తన', 'PRON', 'PRON', None, 16, 'nmod')
+(16, 'స్మార్ట్\u200cఫోన్\u200cలో', 'స్మార్ట్\u200cఫోన్\u200cలో', 'NOUN', 'NOUN', None, 17, 'nsubj')
+(17, 'ఆడుతున్నప్పుడు', 'ఆడుతున్నప్పుడు', 'VERB', 'VERB', None, 23, 'ccomp')
+(18, ',', ',', 'PUNCT', 'PUNCT', None, 17, 'punct')
+(19, 'విమానం', 'విమానం', 'NOUN', 'NOUN', None, 20, 'nmod')
+(20, 'గేట్', 'గేట్', 'NOUN', 'NOUN', None, 23, 'obl')
+(21, 'వద్ద', 'వద్ద', 'ADP', 'ADP', None, 20, 'case')
+(22, 'ఆపి', 'ఆపి', 'ADV', 'ADV', None, 23, 'advmod')
+(23, 'ఉంచినప్పుడు', 'ఉంచినప్పుడు', 'VERB', 'VERB', None, 26, 'ccomp')
+(24, 'పరికరాన్ని', 'పరికరాన్ని', 'NOUN', 'NOUN', None, 26, 'ccomp')
+(25, 'ఆపివేయడానికి', 'ఆపివేయడానికి', 'NOUN', 'NOUN', None, 26, 'obl:tmod')
+(26, 'నిరాకరించినందుకు', 'నిరాకరించినందుకు', 'VERB', 'VERB', None, 28, 'ccomp')
+(27, 'అమెరికన్', 'అమెరికన్', 'PROPN', 'PROPN', None, 28, 'nsubj')
+(28, 'ఎయిర్\u200cలైన్స్', 'ఎయిర్\u200cలైన్స్', 'NOUN', 'NOUN', None, 29, 'ccomp')
+(29, 'జెట్\u200cను', 'జెట్\u200cను', 'VERB', 'VERB', None, 31, 'amod')
+(30, 'ప్రముఖంగా', 'ప్రముఖంగా', 'ADV', 'ADV', None, 32, 'advmod')
+(31, 'బూట్', 'బూట్', 'NOUN', 'NOUN', None, 32, 'nsubj')
+(32, 'చేశాడు', 'చేశాడు', 'VERB', 'VERB', None, 0, 'root')
+(33, '.', '.', 'PUNCT', 'PUNCT', None, 32, 'punct')
+
+
+Sentence 60:
+యు.ఎస్. ప్రభుత్వ షట్డౌన్ ద్వారా చిక్కుకుపోయే బదులు, పెట్టుబడిదారులు తమ దృష్టిని ఎక్కువగా ముఖ్యమైన వాటిపై ఉంచారు: ఫెడరల్ రిజర్వ్.
+Yu.Es. Prabhutva ṣaṭḍaun dvārā cikkukupōyē badulu, peṭṭubaḍidārulu tama dr̥ṣṭini ekkuvagā mukhyamaina vāṭipai un̄cāru: Pheḍaral rijarv.
+
+(1, 'యు.ఎస్.', 'యు.ఎస్.', 'NOUN', 'NOUN', None, 2, 'nmod')
+(2, 'ప్రభుత్వ', 'ప్రభుత్వ', 'NOUN', 'NOUN', None, 6, 'nsubj')
+(3, 'షట్డౌన్', 'షట్డౌన్', 'NOUN', 'NOUN', None, 6, 'obl')
+(4, 'ద్వారా', 'ద్వారా', 'ADP', 'ADP', None, 3, 'case')
+(5, 'చిక్కుకుపోయే', 'చిక్కుకుపోయే', 'NOUN', 'NOUN', None, 6, 'nsubj')
+(6, 'బదులు', 'బదులు', 'VERB', 'VERB', None, 14, 'ccomp')
+(7, ',', ',', 'PUNCT', 'PUNCT', None, 6, 'punct')
+(8, 'పెట్టుబడిదారులు', 'పెట్టుబడిదారులు', 'NOUN', 'NOUN', None, 10, 'nmod')
+(9, 'తమ', 'తమ', 'NOUN', 'NOUN', None, 10, 'nmod')
+(10, 'దృష్టిని', 'దృష్టిని', 'ADV', 'ADV', None, 14, 'advmod')
+(11, 'ఎక్కువగా', 'ఎక్కువగా', 'ADV', 'ADV', None, 14, 'advmod')
+(12, 'ముఖ్యమైన', 'ముఖ్యమైన', 'NOUN', 'NOUN', None, 13, 'compound')
+(13, 'వాటిపై', 'వాటిపై', 'ADV', 'ADV', None, 14, 'advmod')
+(14, 'ఉంచారు', 'ఉంచారు', 'VERB', 'VERB', None, 0, 'root')
+(15, ':', ':', 'PUNCT', 'PUNCT', None, 14, 'punct')
+
+

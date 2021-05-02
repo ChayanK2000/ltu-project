@@ -1,0 +1,4 @@
+Sentence 87:While the DAVP's records show that in 2009-10 up to 3 million, in 2010-11 to Rs 4.10 crore, in 2011-12 and Rs 2.7 crore and in 2012-13 to Rs 1.4 crore UPA had been spent on advertising for Sardar Patel.
+REL PRONOUN: "that" with ID: 7
+REFERNT: "Rs" with ID :31
+

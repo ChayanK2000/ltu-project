@@ -1,0 +1,1524 @@
+Sentence 1:People who consider this yog can avoid shopping at this time and people who ignore this yog can go shopping.
+REL PRONOUN: "who" with ID: 2
+REFERNT: "People" with ID :1
+
+Sentence 1:People who consider this yog can avoid shopping at this time and people who ignore this yog can go shopping.
+REL PRONOUN: "who" with ID: 14
+REFERNT: "people" with ID :13
+
+Sentence 3:The decision made by the Federal Reserve to continue supporting the American Economy with its relief package has created enthusiasm among foreign investors, which in turn has helped the domestic share market to make history on Thursday.
+REL PRONOUN: "which" with ID: 25
+REFERNT: "investors" with ID :23
+
+Sentence 4:If you are still not satisfied and you have reservations about these names, there are other options that are available in the market.
+REL PRONOUN: "that" with ID: 19
+REFERNT: "options" with ID :18
+
+Sentence 5:Representatives who had come to attend the meeting in the absence of the Health department and the CDPO were not allowed to sit in the meeting hall.
+REL PRONOUN: "who" with ID: 2
+REFERNT: "Representatives" with ID :1
+
+Sentence 7:Vikas, who sells things used for Puja and other brass items in Sabzi-mandi said that as brass has become more expensive, things made from brass have also become more expensive.
+REL PRONOUN: "who" with ID: 3
+REFERNT: "Vikas" with ID :1
+
+Sentence 8:Former UP Minister, Rajaram Pandey, who was known for his controversial speeches, passed away late Thursday evening following a heart attack.
+REL PRONOUN: "who" with ID: 8
+REFERNT: "Minister" with ID :3
+
+Sentence 9:He said that the general meeting of the PSS was called with 7 day notice, but information of the meeting held on May 12th was sent on May 8th, which reached the PSS a day before the meeting.
+REL PRONOUN: "which" with ID: 32
+REFERNT: "May" with ID :29
+
+Sentence 10:Those who have not paid their electricity bill within the due date.
+REL PRONOUN: "who" with ID: 2
+REFERNT: "Those" with ID :1
+
+Sentence 11:Many Revenue department officials are continuously asking the Canadian Chartered Accountants to force foreigners to declare their income which they are earning in other countries, so that they can calculate the appropriate tax on the income they are earning in Canada.
+REL PRONOUN: "which" with ID: 19
+REFERNT: "income" with ID :18
+
+Sentence 12:There are very many applicants to whom the DL has not been delivered even after 1 month.
+REL PRONOUN: "whom" with ID: 7
+REFERNT: "applicants" with ID :5
+
+Sentence 13:The investigation that was conducted last year at different places, during Diwali, showed that the noise pollution reached a level of 100 decibels.
+REL PRONOUN: "that" with ID: 3
+REFERNT: "investigation" with ID :2
+
+Sentence 14:The rally started from Badwala up to the Haripur Kalsi Gate, where the children appealed to people to save the environment.
+REL PRONOUN: "where" with ID: 13
+REFERNT: "Gate" with ID :11
+
+Sentence 15:Before this Katha hundreds of pilgrims offered oblations to the Havan that is being organised for the desire for peace on the border.
+REL PRONOUN: "that" with ID: 12
+REFERNT: "Havan" with ID :11
+
+Sentence 16:He said that it is the feelings of inferiority Pakistan has, when compared to India, that forces them to move down the wrong path again and again.
+REL PRONOUN: "that" with ID: 18
+REFERNT: "inferiority" with ID :9
+
+Sentence 18:The campaign against passengers without tickets, that was started this year in October, has resulted in an increase of 11,000 passengers in the reserved and 28,000 passengers in the unreserved category.
+REL PRONOUN: "that" with ID: 8
+REFERNT: "tickets" with ID :6
+
+Sentence 19:Among the people who went to meet the General Secretary were Ghulam Moinuddin, Manjit Singh, Saroj Pandey, Mahendra Singh, Dharmendra Upadhyay, Lal Bahadur Upadhyay, Ravi Shankar Pandey, Munneshwar Pandey and Girish.
+REL PRONOUN: "who" with ID: 4
+REFERNT: "people" with ID :3
+
+Sentence 20:Every member of society had to come forward to have complete control over it, because corruption now has roots that are so deep that it is no longer possible for the government acting alone to uncover it and stop it.
+REL PRONOUN: "that" with ID: 21
+REFERNT: "roots" with ID :20
+
+Sentence 22:The number of applicants who are being moved around the office for two to three months are countless.
+REL PRONOUN: "who" with ID: 5
+REFERNT: "applicants" with ID :4
+
+Sentence 23:Konnur is the first district in the country, in which no family is now landless.
+REL PRONOUN: "which" with ID: 11
+REFERNT: "country" with ID :8
+
+Sentence 24:The criminal was standing on the Mohanpur - Itwa road, which passes over the Bodhgaya-Bakraur bridge.
+REL PRONOUN: "which" with ID: 12
+REFERNT: "road" with ID :10
+
+Sentence 25:There is a long list of iconic men who fought against foreign armed attacks and rulers.
+REL PRONOUN: "who" with ID: 9
+REFERNT: "men" with ID :8
+
+Sentence 27:The UT officials will receive 90 percent of the D.A. starting in July, which is equal to the D.A. of central government officials.
+REL PRONOUN: "which" with ID: 15
+REFERNT: "percent" with ID :7
+
+Sentence 28:Because of this the speeding taxi collided with a eucalyptus tree which was on the edge of the highway.
+REL PRONOUN: "which" with ID: 12
+REFERNT: "tree" with ID :11
+
+Sentence 29:According to the sources, Assembly seats where there is some opposition or problems due to caste, new candidates can be finalised.
+REL PRONOUN: "where" with ID: 8
+REFERNT: "seats" with ID :7
+
+Sentence 31:While going to Kalal Khedia a truck driver, who was ahead of them, suddenly applied the brakes.
+REL PRONOUN: "who" with ID: 10
+REFERNT: "driver" with ID :8
+
+Sentence 32:An Office Bearer meeting would be held on Saturday, at which this issue would be discussed.
+REL PRONOUN: "which" with ID: 12
+REFERNT: "Saturday" with ID :9
+
+Sentence 33:Taking a strong stand against the officers who filed the petition for the interference of the Supreme court against the insult by the political lords of bureaucracy, he said that the retired officers are filing Public Interest Petitions in large numbers, even though they served the political lords very well when they were in office.
+REL PRONOUN: "who" with ID: 8
+REFERNT: "officers" with ID :7
+
+Sentence 34:Information about the PSS meeting, which was held on July 3rd, was not given to the Panchayat level committee officer, so they could not attend the meeting.
+REL PRONOUN: "which" with ID: 7
+REFERNT: "meeting" with ID :5
+
+Sentence 35:Komal was immediately taken to the Multi-speciality Government Hospital, Sector-16, where she was declared dead on arrival.
+REL PRONOUN: "where" with ID: 15
+REFERNT: "Hospital" with ID :9
+
+Sentence 36:No circular was published with information on the date of application for the submission map, which in turn created some confusion among the workers.
+REL PRONOUN: "which" with ID: 17
+REFERNT: "map" with ID :15
+
+Sentence 37:Sri Lankan selectors have selected 16 members of the team for the up coming limited-over match series, which is going to take place from the 10th of November, against New Zealand.
+REL PRONOUN: "which" with ID: 21
+REFERNT: "series" with ID :19
+
+Sentence 38:The Motor Vehicle Accident Claims Tribunal has ordered that Rs.50.67 lakhs compensation should be paid to the family of the former Minister of Maharashtra, Shrikant Jichkar, who was killed in a road accident in 2004.
+REL PRONOUN: "who" with ID: 29
+REFERNT: "Minister" with ID :22
+
+Sentence 39:Chauki in-charge Rejister Pal Singh, who was sitting on the front, was killed immediately.
+REL PRONOUN: "who" with ID: 9
+REFERNT: "Rejister" with ID :5
+
+Sentence 40:Rajaram Pandey found out that he had not being included in the cabinet reshuffle that was to be carried out on Friday.
+REL PRONOUN: "that" with ID: 15
+REFERNT: "reshuffle" with ID :14
+
+Sentence 41:The list has only those names which were speculated about earlier.
+REL PRONOUN: "which" with ID: 7
+REFERNT: "names" with ID :6
+
+Sentence 42:The Government is receiving these kinds of complaints and information about people who came from abroad who are receiving all the financial benefits in Canada.
+REL PRONOUN: "who" with ID: 13
+REFERNT: "people" with ID :12
+
+Sentence 42:The Government is receiving these kinds of complaints and information about people who came from abroad who are receiving all the financial benefits in Canada.
+REL PRONOUN: "who" with ID: 17
+REFERNT: "people" with ID :12
+
+Sentence 43:The list prepared by the BJP included the candidates who were already chosen except for the North-Centre and Bargi assembly, where the talks to change the candidates went on for a long time.
+REL PRONOUN: "who" with ID: 10
+REFERNT: "candidates" with ID :9
+
+Sentence 43:The list prepared by the BJP included the candidates who were already chosen except for the North-Centre and Bargi assembly, where the talks to change the candidates went on for a long time.
+REL PRONOUN: "where" with ID: 24
+REFERNT: "assembly" with ID :22
+
+Sentence 44:Customers who come from far afield buy things from this market, but people are buying fewer things as things are getting more expensive.
+REL PRONOUN: "who" with ID: 2
+REFERNT: "Customers" with ID :1
+
+Sentence 45:Other than the precious metals the price of brass scrap, which was until yesterday $3,933 per ton, has been reduced to $3,840 per ton.
+REL PRONOUN: "which" with ID: 12
+REFERNT: "price" with ID :7
+
+Sentence 46:A very sad incident occurred in Maloya village, which is located on the outskirts of the city, where a newly married woman committed suicide by hanging herself from the fan.
+REL PRONOUN: "which" with ID: 10
+REFERNT: "village" with ID :8
+
+Sentence 46:A very sad incident occurred in Maloya village, which is located on the outskirts of the city, where a newly married woman committed suicide by hanging herself from the fan.
+REL PRONOUN: "where" with ID: 20
+REFERNT: "city" with ID :18
+
+Sentence 47:The former Deputy Chief Minister, Narhari Amin, who left Congress before the assembly elections and joined the BJP, has been appointed as the Deputy Chairman of the Planning Commission.
+REL PRONOUN: "who" with ID: 10
+REFERNT: "Minister" with ID :5
+
+Sentence 49:Still, the reach and technical sophistication of US spy agencies exposed by the Snowden revelations have come as a shock to some companies who previously thought the biggest surveillance risk was posed by China.
+REL PRONOUN: "who" with ID: 25
+REFERNT: "companies" with ID :24
+
+Sentence 50:This finding, which was reflected across the sizes and major business groups, shows that business is pushing for a "meaningful change" that brings powers back to the UK.
+REL PRONOUN: "which" with ID: 4
+REFERNT: "finding" with ID :2
+
+Sentence 50:This finding, which was reflected across the sizes and major business groups, shows that business is pushing for a "meaningful change" that brings powers back to the UK.
+REL PRONOUN: "that" with ID: 26
+REFERNT: "change" with ID :24
+
+Sentence 51:"Most of these headliners appeared at Carolines, and went on to greater success, to the point where they're too big to play a club," Hirsch said.
+REL PRONOUN: "where" with ID: 20
+REFERNT: "point" with ID :19
+
+Sentence 53:Finally, and most tellingly of all, our poll of business leaders found a clear majority wanted to see Britain pursue a course of treaty change and a relationship with the EU that is based on trade, not politics.
+REL PRONOUN: "that" with ID: 34
+REFERNT: "EU" with ID :33
+
+Sentence 54:ISLAMIST Mohamed Morsi promised a "new Egypt" as he took the oath of office to become the country's first freely elected president, succeeding Hosni Mubarak who was ousted 16 months ago.
+REL PRONOUN: "who" with ID: 30
+REFERNT: "Hosni" with ID :28
+
+Sentence 55:She appointed an outside monitor to oversee major changes, including reforms in policies, training and supervision, and she ordered a pilot program to test body-worn cameras in some precincts where most stops occur.
+REL PRONOUN: "where" with ID: 35
+REFERNT: "precincts" with ID :34
+
+Sentence 56:But, after the countless times in which I have found myself defending the Obama administration to colleagues and peers, I've reached a limit to the explanations that I can provide.
+REL PRONOUN: "which" with ID: 8
+REFERNT: "times" with ID :6
+
+Sentence 56:But, after the countless times in which I have found myself defending the Obama administration to colleagues and peers, I've reached a limit to the explanations that I can provide.
+REL PRONOUN: "that" with ID: 30
+REFERNT: "explanations" with ID :29
+
+Sentence 57:Rumours about an affair involving Clarke were first picked up by the NotW's features desk when a source who was sexually interested in Ms Pawlby was told: "Don't bother wasting your time, she's with Charles."
+REL PRONOUN: "who" with ID: 20
+REFERNT: "source" with ID :19
+
+Sentence 58:Frontier said passengers who get soda or juice can keep the whole can, and it will give coffee refills for free.
+REL PRONOUN: "who" with ID: 4
+REFERNT: "passengers" with ID :3
+
+Sentence 59:So, still no Words With Friends, the online Scrabble-type game that actor Alec Baldwin was playing on his smartphone in 2011 when he was famously booted off an American Airlines jet for refusing to turn off the device while the plane was parked at the gate.
+REL PRONOUN: "that" with ID: 15
+REFERNT: "game" with ID :14
+
+Sentence 62:In fact, there are 1,200 officially sanctioned haunted houses in the United States generating about $500 million in revenue, according to America Haunts, and that includes those awesome photos of you mid-peeing your pants that your friend puts on Facebook and you can't take down and then that guy you like sees the photo and leaves a comment like "nice face."
+REL PRONOUN: "that" with ID: 39
+REFERNT: "pants" with ID :38
+
+Sentence 63:In 2009 leases for the Circular Quay enterprises, which earned the Obeids about $2.5 million annually, were renewed without going to public tender.
+REL PRONOUN: "which" with ID: 10
+REFERNT: "enterprises" with ID :8
+
+Sentence 64:So we are excited to work in partnership with the UK Government to examine options for bringing high speed rail to Scotland, creating benefit for all and complementing the Glasgow-Edinburgh line which the Scottish Government is already planning.
+REL PRONOUN: "which" with ID: 35
+REFERNT: "line" with ID :34
+
+Sentence 66:He helped conduct a 2001 study of 6- to 9-year-old girls that links body fat to the timing of puberty.
+REL PRONOUN: "that" with ID: 17
+REFERNT: "girls" with ID :16
+
+Sentence 67:Already the stamp duty take for residential property in the boroughs of Westminster and Kensington & Chelsea, which stood at £708 million in the 2012/13 tax year, exceeds the combined total for Northern Ireland, Wales, Scotland, the North East, North West and Yorkshire and the Humber put together.
+REL PRONOUN: "which" with ID: 19
+REFERNT: "Westminster" with ID :13
+
+Sentence 69:Meanwhile, questions are being raised about the urn procession undertaken by the BJP, carrying the ashes of the people who died in the blasts.
+REL PRONOUN: "who" with ID: 22
+REFERNT: "people" with ID :21
+
+Sentence 70:On his website Ditta gave a question and answer session about himself in which he says his fantasy job would be a lawyer representing clients on Death Row in America, his ultimate dinner guest as being Mohammed Ali and inequality as his motivation for work.
+REL PRONOUN: "which" with ID: 14
+REFERNT: "question" with ID :7
+
+Sentence 71:He nevertheless praised the Government for responding to his request for urgent assistance which he first raised with the Prime Minister at the beginning of May.
+REL PRONOUN: "which" with ID: 14
+REFERNT: "assistance" with ID :13
+
+Sentence 72:For medical and nursing students such as O'Malley, who come from the United States and Europe to join Bwelle on his missions, it's a hands-on opportunity they'd never get at home.
+REL PRONOUN: "who" with ID: 10
+REFERNT: "O'Malley" with ID :8
+
+Sentence 74:A.R. Rahman sang his signature songs in the musical evening that started at 8 p.m.
+REL PRONOUN: "that" with ID: 11
+REFERNT: "evening" with ID :10
+
+Sentence 75:Before that Chairman Dr. S.P Deshwal said that the aim was to provide the nation with the best and most worthy citizens by providing high quality education for students from all walks of life, who would help in moving the country forward.
+REL PRONOUN: "who" with ID: 36
+REFERNT: "walks" with ID :32
+
+Sentence 77:Soon after the drop off, Scarborough was in regular phone contact with Ditta who had been out at the dinner at the Blackburn Rovers football stadium, Ewood Park.
+REL PRONOUN: "who" with ID: 15
+REFERNT: "Ditta" with ID :14
+
+Sentence 78:He was given an official welcome by an army band that played the national anthem as he stood to attention.
+REL PRONOUN: "that" with ID: 11
+REFERNT: "band" with ID :10
+
+Sentence 80:"We've been able to scrub in on surgeries where we help blot blood away or hold tools for Dr. Bwelle," O'Malley said.
+REL PRONOUN: "where" with ID: 11
+REFERNT: "surgeries" with ID :10
+
+Sentence 81:Similarly, the committee rejected the proposal to increase taxes on transmission wires, etc., and electrical goods that would have pushed up the cost of electricity and would have a direct impact on the general public.
+REL PRONOUN: "that" with ID: 20
+REFERNT: "goods" with ID :19
+
+Sentence 82:Mr Snowden said in his letter that he had faced a "severe and sustained" campaign of persecution that forced him from his home.
+REL PRONOUN: "that" with ID: 20
+REFERNT: "campaign" with ID :17
+
+Sentence 84:Most new airliners and other planes that have been modified so that passengers can use Wifi at higher altitudes are expected to meet the criteria.
+REL PRONOUN: "that" with ID: 7
+REFERNT: "airliners" with ID :3
+
+Sentence 86:He did not tell anyone that Jahid has drowned.
+REL PRONOUN: "that" with ID: 6
+REFERNT: "anyone" with ID :5
+
+Sentence 88:The discussion paper outlines 12 measures that were previously considered by former Immigration Minister Chris Bowen.
+REL PRONOUN: "that" with ID: 7
+REFERNT: "measures" with ID :6
+
+Sentence 90:Indeed, such is demand across parts of southeast Asia - where household debt is rising - that ValueMax, where she is carrying out her transaction, this week became the third pawnshop to list on the Singapore stock exchange.
+REL PRONOUN: "where" with ID: 12
+REFERNT: "parts" with ID :7
+
+Sentence 90:Indeed, such is demand across parts of southeast Asia - where household debt is rising - that ValueMax, where she is carrying out her transaction, this week became the third pawnshop to list on the Singapore stock exchange.
+REL PRONOUN: "where" with ID: 21
+REFERNT: "ValueMax" with ID :19
+
+Sentence 92:After that a cultural program was organised at the Hindi Bhavan, where the former SP state President Vinod Badthwal was present. Principal guest and former legislator Munna Singh Chauhan was also present as a special guest.
+REL PRONOUN: "where" with ID: 13
+REFERNT: "Bhavan" with ID :11
+
+Sentence 94:The Palmer United Party could control up to four votes in the Senate that may be crucial in deciding if the carbon and mining taxes are axed.
+REL PRONOUN: "that" with ID: 14
+REFERNT: "votes" with ID :10
+
+Sentence 95:"These investments respond to the ideas that front-line clinicians have told me will be the best ways to tend to Tasmania's health system," Ms Plibersek said.
+REL PRONOUN: "that" with ID: 8
+REFERNT: "ideas" with ID :7
+
+Sentence 96:In 2010, authorities found a roughly 700-yard passage equipped with rail tracks that extended from the kitchen of a Tijuana home to two San Diego warehouses.
+REL PRONOUN: "that" with ID: 16
+REFERNT: "tracks" with ID :15
+
+Sentence 97:UN Secretary-General Ban Ki-moon told the summit overnight that now is the time to "rise above national interests."
+REL PRONOUN: "that" with ID: 11
+REFERNT: "summit" with ID :9
+
+Sentence 99:She is the daughter of former Australian league player Peter Tunks, who has appealed to the Department of Foreign Affairs in Canberra to assist his daughter.
+REL PRONOUN: "who" with ID: 13
+REFERNT: "player" with ID :9
+
+Sentence 100:The opposition will realise the strength of the Government by the crowds that gather for the rally.
+REL PRONOUN: "that" with ID: 13
+REFERNT: "crowds" with ID :12
+
+Sentence 102:Why is it that we shouldn't have a system where you can walk in, punch your details into a computer, vote immediately and have a result at 6.30 that night?
+REL PRONOUN: "where" with ID: 11
+REFERNT: "system" with ID :10
+
+Sentence 103:The doctor had made a false medical insurance claim for services that he had never provided.
+REL PRONOUN: "that" with ID: 12
+REFERNT: "services" with ID :11
+
+Sentence 106:Experts say violence that left 14 adults and seven children dead is nothing more than random chance, not a sign of growing violence in America.
+REL PRONOUN: "that" with ID: 4
+REFERNT: "violence" with ID :3
+
+Sentence 107:The most eager is Oregon, which is enlisting 5,000 drivers in the country's biggest experiment.
+REL PRONOUN: "which" with ID: 7
+REFERNT: "Oregon" with ID :5
+
+Sentence 108:"It really comes down to providing flexibility to airlines and allowing them to do the things that they believe they need to do to be successful," said Boeing cabins expert Kent Craver.
+REL PRONOUN: "that" with ID: 18
+REFERNT: "things" with ID :17
+
+Sentence 109:Some of the largest tunnels have been discovered after central Mexico's marijuana harvest in October, which presents drug cartels with a challenge of how to quickly get their product to consumers.
+REL PRONOUN: "which" with ID: 18
+REFERNT: "harvest" with ID :14
+
+Sentence 110:Sales of the Silverado and Sierra trucks, which were redesigned for the 2014 model year, were up about 20 percent during the first 10 months of the year, GM said on Friday.
+REL PRONOUN: "which" with ID: 9
+REFERNT: "trucks" with ID :7
+
+Sentence 111:Thomas Oppermann, the MP who heads the parliamentary panel that oversees intelligence, said that if there were an opportunity to hear Mr Snowden as a witness "without bringing him into danger and completely ruining relations with the US," it should be taken.
+REL PRONOUN: "who" with ID: 6
+REFERNT: "MP" with ID :5
+
+Sentence 111:Thomas Oppermann, the MP who heads the parliamentary panel that oversees intelligence, said that if there were an opportunity to hear Mr Snowden as a witness "without bringing him into danger and completely ruining relations with the US," it should be taken.
+REL PRONOUN: "that" with ID: 11
+REFERNT: "panel" with ID :10
+
+Sentence 112:The inseparable pair - who are the same height - were commended for appearance, behaviour and style at the annual contest run by Sunnybank Equestrian Centre, in Rudry near Cardiff.
+REL PRONOUN: "who" with ID: 5
+REFERNT: "pair" with ID :3
+
+Sentence 114:There is no need to build an enormous, unwieldy technological infrastructure that will inevitably be expanded to keep records of individuals' everyday comings and goings.
+REL PRONOUN: "that" with ID: 13
+REFERNT: "infrastructure" with ID :12
+
+Sentence 115:This collection is ideal for the modern shopper who like this style of footwear, whether female or male.
+REL PRONOUN: "who" with ID: 9
+REFERNT: "shopper" with ID :8
+
+Sentence 116:The Supreme Court said that there are several other options that could be used.
+REL PRONOUN: "that" with ID: 11
+REFERNT: "options" with ID :10
+
+Sentence 117:"It is not a matter of something we might choose to do," said Hasan Ikhrata, executive director of the Southern California Assn. of Governments, which is planning for the state to start tracking miles driven by every California motorist by 2025.
+REL PRONOUN: "which" with ID: 30
+REFERNT: "Hasan" with ID :17
+
+Sentence 119:But he denied the changes were made at the request of Mr Obeid, who Mr Tripodi acknowledged was urging a shift in government lease policy.
+REL PRONOUN: "who" with ID: 15
+REFERNT: "Mr" with ID :12
+
+Sentence 120:Across the EU, parties which are dedicated to opposing the EU, or to scrapping the euro as a common currency, are gaining ground.
+REL PRONOUN: "which" with ID: 6
+REFERNT: "parties" with ID :5
+
+Sentence 121:A southern Georgia judge on Wednesday ordered authorities to release all surveillance video that investigators reviewed.
+REL PRONOUN: "that" with ID: 14
+REFERNT: "video" with ID :13
+
+Sentence 122:And he started a nonprofit, ASCOVIME, that travels into rural areas on weekends to provide free medical care.
+REL PRONOUN: "that" with ID: 9
+REFERNT: "nonprofit" with ID :5
+
+Sentence 123:They were included in the final draft of the document, which will be endorsed by world leaders including Ms Gillard during the summit.
+REL PRONOUN: "which" with ID: 12
+REFERNT: "document" with ID :10
+
+Sentence 124:Parents of Georgia teen who died in 'freak accident' believe son was murdered
+REL PRONOUN: "who" with ID: 5
+REFERNT: "teen" with ID :4
+
+Sentence 125:The decision has reignited painful memories for Perth mother June Corteen, who lost her 39-year-old twin daughters Jane and Jenny in the destruction unleashed by Patek and his co-conspirators almost a decade ago.
+REL PRONOUN: "who" with ID: 13
+REFERNT: "mother" with ID :9
+
+Sentence 126:It's a book that I thought would uplift me during the doldrums of second-year medical school, and renew in me a sense of hope.
+REL PRONOUN: "that" with ID: 5
+REFERNT: "book" with ID :4
+
+Sentence 129:To make the desserts glossy, colourful and sweet, chemicals that are harmful for the health are being used,.
+REL PRONOUN: "that" with ID: 12
+REFERNT: "chemicals" with ID :11
+
+Sentence 131:The solicitor, who was nicknamed "Bash" and hailed by criminals as a "top brief," was arrested at his home in 2011 following a police surveillance operation into Scarborough, who he had represented in a previous narcotics trial.
+REL PRONOUN: "who" with ID: 4
+REFERNT: "solicitor" with ID :2
+
+Sentence 131:The solicitor, who was nicknamed "Bash" and hailed by criminals as a "top brief," was arrested at his home in 2011 following a police surveillance operation into Scarborough, who he had represented in a previous narcotics trial.
+REL PRONOUN: "who" with ID: 36
+REFERNT: "operation" with ID :32
+
+Sentence 132:"Customers are mortgaging items that they already own, and monetising personal assets does not increase household debt," she says.
+REL PRONOUN: "that" with ID: 6
+REFERNT: "items" with ID :5
+
+Sentence 133:"While we can amend our surveillance programs to better protect the rights of Europeans, they also need to come to terms with the fact that we're not the only ones that are out there spying," Murphy said.
+REL PRONOUN: "that" with ID: 34
+REFERNT: "ones" with ID :33
+
+Sentence 135:According to sources, when presenting Ujair Ahmed to the court, the NIA said that Ujair Ahmed was also among those accused of the Patna Serial Bombings, along with Imtiyaaz Ansari and Haider who are members of the Indian Mujahideen.
+REL PRONOUN: "who" with ID: 36
+REFERNT: "Imtiyaaz" with ID :32
+
+Sentence 137:There is nothing more valuable than wealth that is used for the well-being of mankind, but if wealth becomes the cause of ego, then it is of no value.
+REL PRONOUN: "that" with ID: 8
+REFERNT: "wealth" with ID :7
+
+Sentence 138:A phone transcript tabled in ICAC showed calls in August and September 2007 between Mr Obeid, Mr Tripodi and Steve Dunn, a senior bureaucrat who had come into the ports ministry after working under Mr Obeid in the fisheries department.
+REL PRONOUN: "who" with ID: 27
+REFERNT: "bureaucrat" with ID :26
+
+Sentence 139:It is no surprise that the idea appeals to urban liberals, as the taxes could be rigged to change driving patterns in ways that could help reduce congestion and greenhouse gases, for example.
+REL PRONOUN: "that" with ID: 25
+REFERNT: "ways" with ID :24
+
+Sentence 140:This encourages those who carrying out adulteration.
+REL PRONOUN: "who" with ID: 4
+REFERNT: "those" with ID :3
+
+Sentence 141:New York City psychiatrist Dr. Jack Drescher, who specializes in issues of gender identification, said the new German law "sounds like a good thing."
+REL PRONOUN: "who" with ID: 9
+REFERNT: "psychiatrist" with ID :4
+
+Sentence 142:Johnson, who had been performing well until now in the series, has been sent home to prepare for the Ashes series.
+REL PRONOUN: "who" with ID: 3
+REFERNT: "Johnson" with ID :1
+
+Sentence 144:Reports that the US National Security Agency spied on Brazilian oil company Petrobras and gained access to data held by US cloud providers including Google and Yahoo have ratcheted corporate paranoia about state surveillance to new highs.
+REL PRONOUN: "that" with ID: 2
+REFERNT: "Reports" with ID :1
+
+Sentence 145:But mice who had not been given the vaccine "chilled out," say the researchers, a sign that the nicotine had reached their brains.
+REL PRONOUN: "who" with ID: 3
+REFERNT: "mice" with ID :2
+
+Sentence 145:But mice who had not been given the vaccine "chilled out," say the researchers, a sign that the nicotine had reached their brains.
+REL PRONOUN: "that" with ID: 21
+REFERNT: "sign" with ID :20
+
+Sentence 147:Patek, who spent almost 10 years on the run as one of South-East Asia's most wanted, was yesterday sentenced to 20 years in jail for his role in building the explosive devices used in the bombing.
+REL PRONOUN: "who" with ID: 3
+REFERNT: "Patek" with ID :1
+
+Sentence 148:Airbus this week called for an industry standard that would provide for a seat at least 18 inches (46 cm) wide in economy cabins, but its U.S. arch-rival Boeing says it should be for airlines to decide.
+REL PRONOUN: "that" with ID: 9
+REFERNT: "standard" with ID :8
+
+Sentence 149:The youngster, from the village of Nantyglo, near Ebbw Vale, South Wales, is following in the footsteps of his aunt Sharon Howells, who has been showing horses for more than 10 years.
+REL PRONOUN: "who" with ID: 28
+REFERNT: "aunt" with ID :24
+
+Sentence 150:The tunnel, which zigzags the length of nearly six football pitches, links warehouses near Tijuana, Mexico and San Diego, USA.
+REL PRONOUN: "which" with ID: 4
+REFERNT: "tunnel" with ID :2
+
+Sentence 151:The jury heard on Thursday that Coulson confronted Mr Blunkett over an affair with a married woman while he was himself seeing co-defendant Rebekah Brooks, who was married at the time.
+REL PRONOUN: "who" with ID: 28
+REFERNT: "defendant" with ID :24
+
+Sentence 152:But Dr. Arlene Baratz, a Pittsburgh breast radiologist who has a daughter with a disorder of sexual development and helps hundreds of others in a support group, said the German law will "empower" both parents and children.
+REL PRONOUN: "who" with ID: 10
+REFERNT: "radiologist" with ID :9
+
+Sentence 153:Scotland Yard has "served a surrender notice upon a 40-year-old man that requires him to attend a police station at date and time of our choosing," a spokesman said.
+REL PRONOUN: "that" with ID: 17
+REFERNT: "man" with ID :16
+
+Sentence 154:It cannot explain having the National Security Agency collect data on the private lives of Americans, nor prosecuting whistle-blowers who reveal government wrongdoing.
+REL PRONOUN: "who" with ID: 24
+REFERNT: "blowers" with ID :23
+
+Sentence 156:Neither of them are good negotiators and neither of them are prepared to make the kind of concessions that are necessary.
+REL PRONOUN: "that" with ID: 19
+REFERNT: "concessions" with ID :18
+
+Sentence 159:It is our attitude towards money that is good or bad.
+REL PRONOUN: "that" with ID: 7
+REFERNT: "money" with ID :6
+
+Sentence 160:Cardinals are the highest-ranking clergy in the Catholic Church below the pope, and they're the ones who elect popes, so Francis will be appointing his first group of men who will ultimately help choose his successor.
+REL PRONOUN: "who" with ID: 21
+REFERNT: "ones" with ID :20
+
+Sentence 160:Cardinals are the highest-ranking clergy in the Catholic Church below the pope, and they're the ones who elect popes, so Francis will be appointing his first group of men who will ultimately help choose his successor.
+REL PRONOUN: "who" with ID: 35
+REFERNT: "group" with ID :32
+
+Sentence 161:Passengers who buy their tickets on the airline's website won't have to pay.
+REL PRONOUN: "who" with ID: 2
+REFERNT: "Passengers" with ID :1
+
+Sentence 162:The police told the court that Jahid has drowned and the post-mortem report confirmed this.
+REL PRONOUN: "that" with ID: 6
+REFERNT: "court" with ID :5
+
+Sentence 163:Or we can defend our own economic interests - which includes telling Berlin and Brussels where to get off.
+REL PRONOUN: "which" with ID: 10
+REFERNT: "interests" with ID :8
+
+Sentence 166:The 45-year-old was found guilty of mass murder for the attack on two nightclubs in the popular tourist area of Kuta which left 202 people dead, including 88 Australians, and injured scores more.
+REL PRONOUN: "which" with ID: 24
+REFERNT: "area" with ID :21
+
+Sentence 168:Speaking to an open government conference in London via video link, Mr Kerry said: "There is no question that the President and I and others in government have actually learned of some things that had been happening on an automatic pilot because the ability has been there, going back to World War Two and to the very difficult years of the Cold War, and then, of course, 9/11."
+REL PRONOUN: "that" with ID: 37
+REFERNT: "things" with ID :36
+
+Sentence 170:The bank, which declined to comment on the suspensions, confirmed this month that it has received requests for information from regulators.
+REL PRONOUN: "which" with ID: 4
+REFERNT: "bank" with ID :2
+
+Sentence 171:It is the public that will make you sit your examination in Democracy.
+REL PRONOUN: "that" with ID: 5
+REFERNT: "public" with ID :4
+
+Sentence 174:The Independent Commission Against Corruption (ICAC) on Friday widened its inquiry into whether Mr Obeid lobbied several state ministers to have leases at Circular Quay, where the Obeids owned two restaurants and a cafe, renewed without going to tender after their expiration in August 2005.
+REL PRONOUN: "where" with ID: 29
+REFERNT: "Quay" with ID :27
+
+Sentence 175:Cocaine-addict lawyer who tipped off Mr Big about police investigation is jailed
+REL PRONOUN: "who" with ID: 3
+REFERNT: "lawyer" with ID :2
+
+Sentence 177:A top defence lawyer who told a drugs Mr Big about a major police investigation, because he feared his secret drug addiction would be exposed, has been jailed for three years.
+REL PRONOUN: "who" with ID: 5
+REFERNT: "lawyer" with ID :4
+
+Sentence 178:"While there is considerable evidence from many different mammals that the two sides of the brain are used for different purposes, much of the detail still has to be hammered out - and dogs are no exception," he said.
+REL PRONOUN: "that" with ID: 11
+REFERNT: "mammals" with ID :10
+
+Sentence 179:Peter Hughes was in Paddy's Bar where a suicide bomber detonated a backpack loaded with explosives just 20 seconds earlier.
+REL PRONOUN: "where" with ID: 8
+REFERNT: "Bar" with ID :7
+
+Sentence 180:This includes Australia and the United Kingdom, which are typically our largest profit generators.
+REL PRONOUN: "which" with ID: 9
+REFERNT: "Australia" with ID :3
+
+Sentence 181:Today, he advocates for others in an organization called the Interface Project, trying to normalize perceptions of those who are intersex.
+REL PRONOUN: "who" with ID: 21
+REFERNT: "those" with ID :20
+
+Sentence 183:In Chandigarh they cannot imagine the way in which the development is taking place or will take place.
+REL PRONOUN: "which" with ID: 9
+REFERNT: "way" with ID :7
+
+Sentence 184:News reports that the NSA swept up millions of phone records in Europe have frayed relations with some U.S. allies, though the agency's chief said this week that they were inaccurate and reflected a misunderstanding of metadata that Nato allies collected and shared with the United States.
+REL PRONOUN: "that" with ID: 3
+REFERNT: "reports" with ID :2
+
+Sentence 185:The third son of Hirachand Govaradhandas Ambani, who worked as a teacher in a school in Coravada, a small village in Gujarat, Dhirubhai Ambani was born on December 28th, 1932.
+REL PRONOUN: "who" with ID: 9
+REFERNT: "son" with ID :3
+
+Sentence 186:Scientists have developed an anti-nicotine vaccine that could take the pleasure out of smoking a cigarette.
+REL PRONOUN: "that" with ID: 7
+REFERNT: "vaccine" with ID :6
+
+Sentence 188:The US National Intelligence Estimate in February named France alongside Russia and Israel in a second tier of offenders who engage in hacking for economic intelligence, behind China, according to The Washington Post.
+REL PRONOUN: "who" with ID: 20
+REFERNT: "offenders" with ID :19
+
+Sentence 189:The report also includes a list of typical symptoms communicated by children who are having an allergic reaction.
+REL PRONOUN: "who" with ID: 13
+REFERNT: "children" with ID :12
+
+Sentence 190:I felt that a second term for Obama, free from the pressures of future elections, would fulfill the hope that we had heard of for so long.
+REL PRONOUN: "that" with ID: 22
+REFERNT: "hope" with ID :21
+
+Sentence 191:In September it began giving half as many frequent flier miles to customers who bought through an online travel agency.
+REL PRONOUN: "who" with ID: 14
+REFERNT: "customers" with ID :13
+
+Sentence 192:Morsi took a symbolic oath on Friday in Tahrir Square, birthplace of the uprising that ended Mubarak's authoritarian rule last year, and vowed to reclaim presidential powers stripped from his office by the military council that took over from the ousted leader.
+REL PRONOUN: "that" with ID: 16
+REFERNT: "uprising" with ID :15
+
+Sentence 192:Morsi took a symbolic oath on Friday in Tahrir Square, birthplace of the uprising that ended Mubarak's authoritarian rule last year, and vowed to reclaim presidential powers stripped from his office by the military council that took over from the ousted leader.
+REL PRONOUN: "that" with ID: 39
+REFERNT: "council" with ID :38
+
+Sentence 193:It's the first time in 20 years that the blonde beauty has had short hair, and we're loving the demure change.
+REL PRONOUN: "that" with ID: 9
+REFERNT: "years" with ID :8
+
+Sentence 197:Australian diplomats played a key role in pushing for "sustainable development goals" to replace the MDGs, which expire in 2015, ahead of the UN sustainable development summit that began in Rio de Janeiro overnight.
+REL PRONOUN: "which" with ID: 20
+REFERNT: "MDGs" with ID :18
+
+Sentence 197:Australian diplomats played a key role in pushing for "sustainable development goals" to replace the MDGs, which expire in 2015, ahead of the UN sustainable development summit that began in Rio de Janeiro overnight.
+REL PRONOUN: "that" with ID: 32
+REFERNT: "summit" with ID :31
+
+Sentence 200:Lancashire's Serious and Organised Crime Unit led the investigation into Mr Ditta which has also seen him convicted of three counts of possession of cocaine and now perverting the course of justice, demonstrating our commitment to bringing criminals to justice.
+REL PRONOUN: "which" with ID: 14
+REFERNT: "Mr" with ID :12
+
+Sentence 201:They have the best names, like "Terror Behind the Walls" (which, by the way is in an actual prison), "Howl-O-Scream" and "The House of Shock."
+REL PRONOUN: "which" with ID: 15
+REFERNT: "names" with ID :5
+
+Sentence 202:Mitt Romney presented a confusing and unrefined alternative who could not seem to lock down his policies or his positions.
+REL PRONOUN: "who" with ID: 9
+REFERNT: "alternative" with ID :8
+
+Sentence 203:Helping others live happier lives, fulfilling a promise he made to his father, is something that brings him great joy.
+REL PRONOUN: "that" with ID: 18
+REFERNT: "something" with ID :17
+
+Sentence 205:It is inherently impossible because of the refraction caused by the ice crystals which make up the ice cream, but I reckon we will find a way of doing it.
+REL PRONOUN: "which" with ID: 14
+REFERNT: "crystals" with ID :13
+
+Sentence 207:As America's road planners struggle to find the cash to mend a crumbling highway system, many are beginning to see a solution in a little black box that fits neatly by the dashboard of your car.
+REL PRONOUN: "that" with ID: 30
+REFERNT: "box" with ID :29
+
+Sentence 208:NHTSA could not review the owner notification letter due to the 16-day government shutdown, which tempered auto sales growth in October.
+REL PRONOUN: "which" with ID: 18
+REFERNT: "shutdown" with ID :16
+
+Sentence 209:"It brings the children into the decision and takes away the anxiety that motivates parents because they don't feel they are doing the right thing," she said.
+REL PRONOUN: "that" with ID: 14
+REFERNT: "anxiety" with ID :13
+
+Sentence 210:Fenton is animal mad - he loves horses, tractors and farms and has got two chickens which he looks after.
+REL PRONOUN: "which" with ID: 18
+REFERNT: "chickens" with ID :17
+
+Sentence 212:"For the vast majority of people who have health insurance that works, you can keep it," he said in a speech in Boston.
+REL PRONOUN: "who" with ID: 8
+REFERNT: "people" with ID :7
+
+Sentence 212:"For the vast majority of people who have health insurance that works, you can keep it," he said in a speech in Boston.
+REL PRONOUN: "that" with ID: 12
+REFERNT: "insurance" with ID :11
+
+Sentence 214:For 21 years, Georges Bwelle watched his ill father slip in and out of consciousness, traveling to hospitals that weren't equipped to help him.
+REL PRONOUN: "that" with ID: 21
+REFERNT: "hospitals" with ID :20
+
+Sentence 215:It makes me yearn for the many promises that disappeared.
+REL PRONOUN: "that" with ID: 9
+REFERNT: "promises" with ID :8
+
+Sentence 216:Besides that, a special coin would be used for the coin toss that would be kept by the MCA.
+REL PRONOUN: "that" with ID: 14
+REFERNT: "toss" with ID :13
+
+Sentence 217:A federal appeals court blocks a judge's ruling that the NYPD's controversial tactic discriminates against minorities.
+REL PRONOUN: "that" with ID: 10
+REFERNT: "ruling" with ID :9
+
+Sentence 218:The U.S. Senate approved a $90-million pilot project last year that would have involved about 10,000 cars.
+REL PRONOUN: "that" with ID: 14
+REFERNT: "project" with ID :11
+
+Sentence 219:In Australia the leisure business rebounded during the second half which offset a slightly weaker domestic corporate travel market.
+REL PRONOUN: "which" with ID: 11
+REFERNT: "half" with ID :10
+
+Sentence 220:"The prosecution suggests that Mr Coulson, who is now the editor of the NotW, he is not the man who stands outside people's houses hoping to catch them out, he is the man who likes to put the story to people to see what they will say," Mr Edis said.
+REL PRONOUN: "who" with ID: 9
+REFERNT: "Mr" with ID :6
+
+Sentence 220:"The prosecution suggests that Mr Coulson, who is now the editor of the NotW, he is not the man who stands outside people's houses hoping to catch them out, he is the man who likes to put the story to people to see what they will say," Mr Edis said.
+REL PRONOUN: "who" with ID: 23
+REFERNT: "man" with ID :22
+
+Sentence 220:"The prosecution suggests that Mr Coulson, who is now the editor of the NotW, he is not the man who stands outside people's houses hoping to catch them out, he is the man who likes to put the story to people to see what they will say," Mr Edis said.
+REL PRONOUN: "who" with ID: 39
+REFERNT: "man" with ID :38
+
+Sentence 221:The judge noted she wasn't putting an end to the stop-and-frisk practice, which is constitutional, but was reforming the way the NYPD implemented its stops.
+REL PRONOUN: "which" with ID: 17
+REFERNT: "practice" with ID :15
+
+Sentence 222:On Thursday, OPCW said the two locations were, according to Syria, "abandoned and ... the chemical weapons program items they contained were moved to other declared sites, which were inspected."
+REL PRONOUN: "which" with ID: 33
+REFERNT: "sites" with ID :31
+
+Sentence 224:Mr Tripodi, who was ports minister from February 2006 until November 2009, was initially in favour of public tenders.
+REL PRONOUN: "who" with ID: 4
+REFERNT: "Mr" with ID :1
+
+Sentence 225:I will spare no effort to implement the mandate given to me by member states to realise our vision of sustainable development goals that build on the success of the MDGs.
+REL PRONOUN: "that" with ID: 24
+REFERNT: "goals" with ID :23
+
+Sentence 226:Bruce was born with a DSD that prevented his body from producing enough testosterone to properly develop his genitals.
+REL PRONOUN: "that" with ID: 7
+REFERNT: "DSD" with ID :6
+
+Sentence 227:Mr Mazanga says Mr Guebuza - who is due to step down when his second term ends next year - wants to destroy the country's democracy.
+REL PRONOUN: "who" with ID: 7
+REFERNT: "Mr" with ID :4
+
+Sentence 229:Now in its third year, the civil war pits the primarily Sunni Muslim rebels against Assad's government and its security forces, which are stacked with members of his Alawite sect, an offshoot of Shiite Islam.
+REL PRONOUN: "which" with ID: 25
+REFERNT: "forces" with ID :23
+
+Sentence 230:"Concerns about Big Brother and those sorts of things were a major problem," said Alauddin Khan, who directs strategic and performance management at the Nevada Department of Transportation.
+REL PRONOUN: "who" with ID: 21
+REFERNT: "Alauddin" with ID :18
+
+Sentence 231:The two traders would be the first RBS employees to be suspended in the widening probe that echoes the Libor interbank lending manipulation scandal.
+REL PRONOUN: "that" with ID: 17
+REFERNT: "probe" with ID :16
+
+Sentence 235:Samsung, Huawei and HTC all manufacture phones that operate on Google's Android operating system, which competes fiercely with Apple and Microsoft mobile products.
+REL PRONOUN: "that" with ID: 9
+REFERNT: "phones" with ID :8
+
+Sentence 235:Samsung, Huawei and HTC all manufacture phones that operate on Google's Android operating system, which competes fiercely with Apple and Microsoft mobile products.
+REL PRONOUN: "which" with ID: 18
+REFERNT: "system" with ID :16
+
+Sentence 237:An excellent example of this was when a strong New Zealand team was crushed by Bangladesh, who had an insurmountable lead and won the one-day series title.
+REL PRONOUN: "who" with ID: 18
+REFERNT: "Bangladesh" with ID :16
+
+Sentence 238:The jack-o-lantern slowly withering on your front porch probably came from Illinois, which grew 542 million pounds of pumpkin this year.
+REL PRONOUN: "which" with ID: 16
+REFERNT: "Illinois" with ID :14
+
+Sentence 239:The aim of the law was to take the pressure off parents who might make hasty decisions on sex-assignment surgery for newborns, and to fight discrimination against those who are intersex.
+REL PRONOUN: "who" with ID: 13
+REFERNT: "parents" with ID :12
+
+Sentence 239:The aim of the law was to take the pressure off parents who might make hasty decisions on sex-assignment surgery for newborns, and to fight discrimination against those who are intersex.
+REL PRONOUN: "who" with ID: 32
+REFERNT: "those" with ID :31
+
+Sentence 242:Danielle Ockwell, who was supervised by Lord and asked for child protection training because she was concerned about his behaviour, testified she found the YMCA Caringbah children's services manager Jacqui Barnat who supervised Lord "very intimidating and hard to approach a lot of the time."
+REL PRONOUN: "who" with ID: 4
+REFERNT: "Danielle" with ID :1
+
+Sentence 242:Danielle Ockwell, who was supervised by Lord and asked for child protection training because she was concerned about his behaviour, testified she found the YMCA Caringbah children's services manager Jacqui Barnat who supervised Lord "very intimidating and hard to approach a lot of the time."
+REL PRONOUN: "who" with ID: 35
+REFERNT: "manager" with ID :32
+
+Sentence 246:The man's distraught nine-year-old son travelled to Australia with him and has been comforted since the death of his father on Wednesday by an adult cousin who was also on the vessel.
+REL PRONOUN: "who" with ID: 31
+REFERNT: "cousin" with ID :30
+
+Sentence 247:Do not envy someone who has money.
+REL PRONOUN: "who" with ID: 5
+REFERNT: "someone" with ID :4
+
+Sentence 249:And as little as a decade ago, the medical community thought of gender as a slate that could be erased and then redrawn.
+REL PRONOUN: "that" with ID: 18
+REFERNT: "slate" with ID :17
+
+Sentence 250:The completion of what is essentially the initial stage of destruction is a significant milestone in an ambitious timeline that aims to destroy all of Damascus' chemical weapons by mid-2014.
+REL PRONOUN: "that" with ID: 20
+REFERNT: "timeline" with ID :19
+
+Sentence 252:The only other airline with such a fee is Hungary's Wizz Air, said airline consultant Jay Sorensen, who closely tracks add-on fees.
+REL PRONOUN: "who" with ID: 21
+REFERNT: "consultant" with ID :17
+
+Sentence 253:If, at 18 years old, I was supposed to figure out that governance may contradict the political campaigns that precede it.
+REL PRONOUN: "that" with ID: 21
+REFERNT: "campaigns" with ID :20
+
+Sentence 254:Australian authorities rushed the man to Christmas Island Hospital, where he died.
+REL PRONOUN: "where" with ID: 11
+REFERNT: "Hospital" with ID :9
+
+Sentence 255:Btitish police served an extradition notice today on WikiLeaks founder Julian Assange, who has taken refuge in Ecuador's embassy in London and requested asylum.
+REL PRONOUN: "who" with ID: 14
+REFERNT: "founder" with ID :10
+
+Sentence 256:On January 9th, 2013 the Washington Post reported, quoting a top secret document, that more than 18 million documents were stolen within just 3 days from the beginning of the program.
+REL PRONOUN: "that" with ID: 17
+REFERNT: "document" with ID :15
+
+Sentence 259:The devices, which track every mile a motorist drives and transmit that information to bureaucrats, are at the center of a controversial attempt in Washington and state planning offices to overhaul the outdated system for funding America's major roads.
+REL PRONOUN: "which" with ID: 4
+REFERNT: "devices" with ID :2
+
+Sentence 262:"Today, the Egyptian people laid the foundation of a new life - absolute freedom, a genuine democracy and stability," said Morsi, a 60-year-old US-trained engineer from the Muslim Brotherhood, a fundamentalist group that has spent most of the 84 years since its inception as an outlawed organisation harshly targeted by successive governments.
+REL PRONOUN: "that" with ID: 46
+REFERNT: "group" with ID :45
+
+Sentence 263:The police have already declared Musharraf innocent, which was a great relief for him.
+REL PRONOUN: "which" with ID: 9
+REFERNT: "Musharraf" with ID :6
+
+Sentence 264:Let this case serve as a warning to criminals that no one is beyond the reach of the law.
+REL PRONOUN: "that" with ID: 10
+REFERNT: "criminals" with ID :9
+
+Sentence 265:There is radical extremism in the world that is hell-bent and determined to try to kill people and blow people up and attack governments.
+REL PRONOUN: "that" with ID: 8
+REFERNT: "extremism" with ID :4
+
+Sentence 266:Further tests are needed before starting human trials, which would take several years, but Professor Ronald Crystal of Weill Cornell Medical College in New York said the early signs are good.
+REL PRONOUN: "which" with ID: 10
+REFERNT: "trials" with ID :8
+
+Sentence 268:He conceded the YMCA's opening statement to the commission was also inaccurate in claiming "there have been external audits of the YMCA that have recognised the YMCA as being at the forefront of child safety."
+REL PRONOUN: "that" with ID: 25
+REFERNT: "YMCA" with ID :24
+
+Sentence 269:The Gate City Hall Circle Office, that earns crores of rupees every day for the Punjab State Power Corporation, is housed in an old ruin of a building.
+REL PRONOUN: "that" with ID: 8
+REFERNT: "Office" with ID :6
+
+Sentence 270:The occasion was a Halloween party and Heidi had dressed up in such a way that people who saw her were in shock and were also were very impressed by the amazing change she had undergone.
+REL PRONOUN: "who" with ID: 18
+REFERNT: "people" with ID :17
+
+Sentence 270:The occasion was a Halloween party and Heidi had dressed up in such a way that people who saw her were in shock and were also were very impressed by the amazing change she had undergone.
+REL PRONOUN: "that" with ID: 16
+REFERNT: "way" with ID :15
+
+Sentence 271:Mr Guebuza told AFP, the French news agency, on Wednesday that Mr Dhlakama saw himself as a "loser" who wanted to use "whatever remains of his forces to try to prove that he can impose on the government his own decisions."
+REL PRONOUN: "that" with ID: 13
+REFERNT: "Wednesday" with ID :12
+
+Sentence 271:Mr Guebuza told AFP, the French news agency, on Wednesday that Mr Dhlakama saw himself as a "loser" who wanted to use "whatever remains of his forces to try to prove that he can impose on the government his own decisions."
+REL PRONOUN: "who" with ID: 23
+REFERNT: "loser" with ID :21
+
+Sentence 273:Instead, he believes that they dogs have learned from experience what moves they should and shouldn't feel worried about.
+REL PRONOUN: "what" with ID: 12
+REFERNT: "experience" with ID :11
+
+Sentence 274:German MP Hans-Christian Ströbele on Thursday met Mr Snowden in Russia, where he has been granted asylum, to discuss him testifying in Germany.
+REL PRONOUN: "where" with ID: 15
+REFERNT: "Mr" with ID :10
+
+Sentence 275:We don't have to rush into surgery that is irreversible.
+REL PRONOUN: "that" with ID: 9
+REFERNT: "surgery" with ID :8
+
+Sentence 277:"There are several questions that must be answered or confirmed," he said.
+REL PRONOUN: "that" with ID: 6
+REFERNT: "questions" with ID :5
+
+Sentence 278:Investigators also found entries on the private investigator's computer which had Ms Pawlby and her sister as "Projects."
+REL PRONOUN: "which" with ID: 11
+REFERNT: "computer" with ID :10
+
+Sentence 279:Historically, that meant it was white labour that had to be protected - and if some in the region saw echoes of that historic artifact, I wouldn't be surprised.
+REL PRONOUN: "that" with ID: 9
+REFERNT: "labour" with ID :8
+
+Sentence 280:"Some people have life-endangering conditions that require surgery, but most kids do not," he said.
+REL PRONOUN: "that" with ID: 9
+REFERNT: "conditions" with ID :8
+
+Sentence 281:Prof Georgio Vallortigara, a neuroscientist from the University of Trento, said: "It is very well known in humans that the left and right side of the brain are differently involved in stimuli that invokes positive or negative emotions."
+REL PRONOUN: "that" with ID: 23
+REFERNT: "humans" with ID :22
+
+Sentence 281:Prof Georgio Vallortigara, a neuroscientist from the University of Trento, said: "It is very well known in humans that the left and right side of the brain are differently involved in stimuli that invokes positive or negative emotions."
+REL PRONOUN: "that" with ID: 37
+REFERNT: "stimuli" with ID :36
+
+Sentence 282:Centre manager Colin Seddon said: "This water rail was likely a winter migrant from Northern Europe who got caught up in strong winds over the North Sea."
+REL PRONOUN: "who" with ID: 19
+REFERNT: "Europe" with ID :18
+
+Sentence 283:He suffered only a broken arm at first, but an infection developed and spread to his brain, creating a hematoma that would affect him for the rest of his life.
+REL PRONOUN: "that" with ID: 23
+REFERNT: "hematoma" with ID :22
+
+Sentence 284:The shadowy National Security Agency said late Friday that it was a glitch that brought down its public website for a few hours, not hackers as some claimed online.
+REL PRONOUN: "that" with ID: 14
+REFERNT: "glitch" with ID :13
+
+Sentence 286:The patents cover technology that helps match Internet search terms with relevant advertising, the lawsuit said, which is the core of Google's search business.
+REL PRONOUN: "that" with ID: 5
+REFERNT: "technology" with ID :4
+
+Sentence 289:Such was the case with Jim Bruce, a 36-year-old writer from Montana, who was born with XY male chromosomes but ambiguous genitals.
+REL PRONOUN: "who" with ID: 19
+REFERNT: "Jim" with ID :6
+
+Sentence 291:The Treasury have provisionally costed out the CGT measure but are awaiting a final decision from Mr Osborne, who, in the 2012 Budget, introduced a 7% rate of stamp duty for homes costing more than £2m and annual charges for buyers who choose to hold homes in a company rather than as individuals.
+REL PRONOUN: "who" with ID: 20
+REFERNT: "decision" with ID :15
+
+Sentence 291:The Treasury have provisionally costed out the CGT measure but are awaiting a final decision from Mr Osborne, who, in the 2012 Budget, introduced a 7% rate of stamp duty for homes costing more than £2m and annual charges for buyers who choose to hold homes in a company rather than as individuals.
+REL PRONOUN: "who" with ID: 48
+REFERNT: "buyers" with ID :47
+
+Sentence 292:Yet, of all of the examples that I have listed above, they largely seem to be of the administration's own choosing.
+REL PRONOUN: "that" with ID: 8
+REFERNT: "examples" with ID :7
+
+Sentence 293:In New York City, transportation officials are seeking to develop a taxing device that would also be equipped to pay parking meter fees, provide "pay-as-you-drive" insurance, and create a pool of real-time speed data from other drivers that motorists could use to avoid traffic.
+REL PRONOUN: "that" with ID: 15
+REFERNT: "device" with ID :14
+
+Sentence 293:In New York City, transportation officials are seeking to develop a taxing device that would also be equipped to pay parking meter fees, provide "pay-as-you-drive" insurance, and create a pool of real-time speed data from other drivers that motorists could use to avoid traffic.
+REL PRONOUN: "that" with ID: 47
+REFERNT: "drivers" with ID :46
+
+Sentence 294:Royal Bank of Scotland has suspended two traders in its foreign exchange division according to two people familiar with the situation, in another sign that the global probe by regulators into the suspected manipulation of the currency market is rapidly gaining traction.
+REL PRONOUN: "that" with ID: 26
+REFERNT: "sign" with ID :25
+
+Sentence 295:It may be recalled that in the year 2002 Ghulam Hasan Khan, who won the 2002 elections from Shopian on a PDP ticket, was included in the cabinet, while Mufti Mohamed Sayeed was a Chief Minister.
+REL PRONOUN: "who" with ID: 14
+REFERNT: "Ghulam" with ID :10
+
+Sentence 297:Congress had urged the JMM chief, Shibu Soren, and Chief Minister, Hemant Soren, to campaign on behalf of the party in Chhattisgarh, which JMM's top leadership has accepted.
+REL PRONOUN: "which" with ID: 28
+REFERNT: "party" with ID :24
+
+Sentence 298:Delta and JetBlue were among the airliners who have already submitted plans.
+REL PRONOUN: "who" with ID: 8
+REFERNT: "airliners" with ID :7
+
+Sentence 299:Australian carriers are looking at the decision, which requires US carriers to undertake a massive amount of work to meet the requirements, but have indicated they have no immediate plans to change their procedures.
+REL PRONOUN: "which" with ID: 9
+REFERNT: "decision" with ID :7
+
+Sentence 300:Syria has submitted a plan for the total destruction of its chemical weapons that has to be approved next month by the OPCW's executive committee.
+REL PRONOUN: "that" with ID: 14
+REFERNT: "weapons" with ID :13
+
+Sentence 301:One could argue that New York City is the birthplace of standup comedy in America: nearly a hundred years ago, the vaudevillian Frank Fay, who served as the master of ceremonies at the Palace Theatre, on Broadway, started telling jokes directly to the crowd, in a conversational manner.
+REL PRONOUN: "who" with ID: 28
+REFERNT: "vaudevillian" with ID :24
+
+Sentence 302:The MCA will also publish a 64-page brochure, which will have articles about Tendulkar and testimonies about him from the business, sporting and journalist around the world.
+REL PRONOUN: "which" with ID: 12
+REFERNT: "brochure" with ID :10
+
+Sentence 303:Further action is now also being taken on Asaram's ashrams that have been built illegally or on public land.
+REL PRONOUN: "that" with ID: 12
+REFERNT: "ashrams" with ID :11
+
+Sentence 307:Now, Airbus is appealing directly to the public ahead of the Dubai Airshow, where the 777X is expected to dominate with more than 100 orders.
+REL PRONOUN: "where" with ID: 16
+REFERNT: "Airshow" with ID :14
+
+Sentence 308:Renamo, which has been pushing for electoral reforms, had already said that it would boycott municipal elections due in November.
+REL PRONOUN: "which" with ID: 3
+REFERNT: "Renamo" with ID :1
+
+Sentence 309:Nevada is among several states now scrambling to find affordable technology that would allow the state to keep track of how many miles a car is being driven, but not exactly where and at what time.
+REL PRONOUN: "that" with ID: 12
+REFERNT: "technology" with ID :11
+
+Sentence 309:Nevada is among several states now scrambling to find affordable technology that would allow the state to keep track of how many miles a car is being driven, but not exactly where and at what time.
+REL PRONOUN: "where" with ID: 33
+REFERNT: "miles" with ID :23
+
+Sentence 310:They argue that luggage costs money to handle, and passengers who want the service should pay for it.
+REL PRONOUN: "who" with ID: 12
+REFERNT: "passengers" with ID :11
+
+Sentence 312:"They include wealthy individuals who need to borrow short term for business ventures or investments, or small businesses with a need to tide over their cash flow needs," says Ms Yeah.
+REL PRONOUN: "who" with ID: 6
+REFERNT: "individuals" with ID :5
+
+Sentence 313:On the instruction of the Office for the Protection of the Constitution (BfV), Germany's domestic intelligence agency, its mission was to photograph the rooftop of the US outpost, which is located less than 5km from the European Central Bank and Bundesbank.
+REL PRONOUN: "which" with ID: 35
+REFERNT: "outpost" with ID :33
+
+Sentence 316:Nor are the types of people who use pawnbrokers only the financially stretched.
+REL PRONOUN: "who" with ID: 7
+REFERNT: "people" with ID :6
+
+Sentence 317:His addiction to cocaine left him hopelessly compromised and vulnerable to the motives of leading members of organised crime groups who tasked him to obtain valuable information regarding police investigations.
+REL PRONOUN: "who" with ID: 21
+REFERNT: "groups" with ID :20
+
+Sentence 318:Wealthy people in Singapore also use ValueMax outlets, pawning gold bars or Rolex watches, which can command up to 60 per cent of their purchase price in cash.
+REL PRONOUN: "which" with ID: 17
+REFERNT: "outlets" with ID :8
+
+Sentence 319:Then, changing the subject, Bansal told the reporters that in the last parliamentary elections the BJP had sent a women after him and conspired to lodge a complaint against him, but that they had failed.
+REL PRONOUN: "that" with ID: 11
+REFERNT: "reporters" with ID :10
+
+Sentence 320:But a suggestion of stronger demand came Friday from two reports on Chinese manufacturing that showed an uptick in activity.
+REL PRONOUN: "that" with ID: 15
+REFERNT: "manufacturing" with ID :14
+
+Sentence 323:The search for bomb-making material and the terrorists who made those bombs is still going on, in this case.
+REL PRONOUN: "who" with ID: 9
+REFERNT: "terrorists" with ID :8
+
+Sentence 325:Most of the skirmishes have taken place in Sofala province, which is several hundred kilometres north of Maputo, but hosts Beira, the port that miners, including Rio Tinto and Vale, rely on to export coal.
+REL PRONOUN: "which" with ID: 12
+REFERNT: "province" with ID :10
+
+Sentence 325:Most of the skirmishes have taken place in Sofala province, which is several hundred kilometres north of Maputo, but hosts Beira, the port that miners, including Rio Tinto and Vale, rely on to export coal.
+REL PRONOUN: "that" with ID: 27
+REFERNT: "port" with ID :26
+
+Sentence 326:A statement from the OPCW, which works closely with the United Nations, said its team was "now satisfied that it has verified - and seen destroyed - all of Syria's declared critical production and mixing/filling equipment."
+REL PRONOUN: "which" with ID: 7
+REFERNT: "OPCW" with ID :5
+
+Sentence 327:The High Court strongly criticised the Amritsar administration in its order and questioned the use of such an administration that could not even resolve such a small issue as that of the firecracker traders over a period of the 9 years.
+REL PRONOUN: "that" with ID: 20
+REFERNT: "administration" with ID :19
+
+Sentence 327:The High Court strongly criticised the Amritsar administration in its order and questioned the use of such an administration that could not even resolve such a small issue as that of the firecracker traders over a period of the 9 years.
+REL PRONOUN: "that" with ID: 30
+REFERNT: "administration" with ID :19
+
+Sentence 328:Many on Wall Street view the addition of baggage fees as a sign that airlines are charging enough money to cover the cost of air travel after years of losses.
+REL PRONOUN: "that" with ID: 14
+REFERNT: "sign" with ID :13
+
+Sentence 329:But by agreeing to take the official oath before the court, rather than before parliament as is customary, he is bowing to the military's will in an indication that the contest for power will continue.
+REL PRONOUN: "that" with ID: 32
+REFERNT: "indication" with ID :31
+
+Sentence 330:Today he will meet the families of the people who died in Patna last Sunday.
+REL PRONOUN: "who" with ID: 10
+REFERNT: "people" with ID :9
+
+Sentence 331:Businesses could also be required to account for the number of 457 visa holders after previously businesses who had intended to sponsor a small number of workers then employed hundreds.
+REL PRONOUN: "who" with ID: 18
+REFERNT: "businesses" with ID :17
+
+Sentence 332:Kaplowitz contends the premise that holds the most weight is the epidemic of obesity.
+REL PRONOUN: "that" with ID: 5
+REFERNT: "premise" with ID :4
+
+Sentence 333:A proposal concerning this matter has been sent to the government on behalf of ADA, which is soon going to be approved.
+REL PRONOUN: "which" with ID: 17
+REFERNT: "ADA" with ID :15
+
+Sentence 334:But Mr Palmer claimed it was only ministers who could have a conflict of interest and said Mr Abbott's daughters stood to personally benefit from policies.
+REL PRONOUN: "who" with ID: 9
+REFERNT: "ministers" with ID :8
+
+Sentence 335:Sebelius, who is overseeing implementation of the Affordable Care Act, said the launch of the online marketplace has gone "miserably" since October.
+REL PRONOUN: "who" with ID: 3
+REFERNT: "Sebelius" with ID :1
+
+Sentence 336:The mining magnate, who is in a dispute about paying a $6 million carbon tax bill, made the claim as he tried to brush off questions about whether he had a conflict.
+REL PRONOUN: "who" with ID: 5
+REFERNT: "magnate" with ID :3
+
+Sentence 337:Such is the growth in the pawn business that ValueMax, operator of the outlet at Bendemeer and of 15 others like it in Singapore, plans to expand not only in neighbouring Malaysia - where it has four shops - but outside Asia too, says Yeah Lee Ching, ValueMax's executive director.
+REL PRONOUN: "where" with ID: 36
+REFERNT: "Malaysia" with ID :34
+
+Sentence 339:Crossley-Holland, who has translated Beowulf from Anglo-Saxon as well as writing the Penguin Book of Norse Myths and British Folk Tales, said: "You may well have intentions but you do better to keep them well out of sight."
+REL PRONOUN: "who" with ID: 4
+REFERNT: "Crossley" with ID :1
+
+Sentence 340:Clearly, Modi was referring to Sibal, who had told journalists in Delhi that Modi wants to create an environment where he is in control, where he gives his speeches and he does not talk to journalists in order to avoid their questions.
+REL PRONOUN: "who" with ID: 9
+REFERNT: "Sibal" with ID :7
+
+Sentence 340:Clearly, Modi was referring to Sibal, who had told journalists in Delhi that Modi wants to create an environment where he is in control, where he gives his speeches and he does not talk to journalists in order to avoid their questions.
+REL PRONOUN: "where" with ID: 22
+REFERNT: "environment" with ID :21
+
+Sentence 340:Clearly, Modi was referring to Sibal, who had told journalists in Delhi that Modi wants to create an environment where he is in control, where he gives his speeches and he does not talk to journalists in order to avoid their questions.
+REL PRONOUN: "where" with ID: 28
+REFERNT: "environment" with ID :21
+
+Sentence 341:They are exploring how, over the next decade, they can move to a system in which drivers pay per mile of road they roll over.
+REL PRONOUN: "which" with ID: 18
+REFERNT: "system" with ID :16
+
+Sentence 342:Most of the people who have come from other parties are on the list but a significant number of workers, active since the Samata Party period, have been left off.
+REL PRONOUN: "who" with ID: 5
+REFERNT: "people" with ID :4
+
+Sentence 343:"Germany must wake up," says Oliver Grün, president of BITMi, which represents small and medium sized German IT companies.
+REL PRONOUN: "which" with ID: 16
+REFERNT: "Oliver" with ID :9
+
+Sentence 344:The prevailing theory on how to treat children with ambiguous genitalia was put forward by Dr. John Money at Johns Hopkins University, who held that gender was malleable.
+REL PRONOUN: "who" with ID: 24
+REFERNT: "University" with ID :22
+
+Sentence 347:It was not immediately clear if the facility in Safira was one of the two sites that OPCW inspectors were not able to visit.
+REL PRONOUN: "that" with ID: 17
+REFERNT: "sites" with ID :16
+
+Sentence 348:Others might receive crutches, a pair of donated eyeglasses or free birth certificates -- documentation that's required for school but that many impoverished families simply can't afford.
+REL PRONOUN: "that" with ID: 17
+REFERNT: "documentation" with ID :16
+
+Sentence 349:I live in Shopian, which is believed to be a stronghold of terrorists.
+REL PRONOUN: "which" with ID: 6
+REFERNT: "Shopian" with ID :4
+
+Sentence 350:Due to the western disturbance activity, since the early hours of Thursday the higher hilly regions have experienced some snowfall and the low lying areas had rainfall, that continued until late into the evening.
+REL PRONOUN: "that" with ID: 30
+REFERNT: "rainfall" with ID :28
+
+Sentence 352:"NSA.gov was not accessible for several hours tonight because of an internal error that occurred during a scheduled update," the spy agency said in an emailed statement.
+REL PRONOUN: "that" with ID: 16
+REFERNT: "error" with ID :15
+
+Sentence 353:Immigration Minister Brendan O'Connor, who was yesterday in Sri Lanka where he is meeting officials about people smuggling, has implemented five of the recommended changes with the remainder under consideration.
+REL PRONOUN: "who" with ID: 6
+REFERNT: "Minister" with ID :2
+
+Sentence 353:Immigration Minister Brendan O'Connor, who was yesterday in Sri Lanka where he is meeting officials about people smuggling, has implemented five of the recommended changes with the remainder under consideration.
+REL PRONOUN: "where" with ID: 12
+REFERNT: "Lanka" with ID :11
+
+Sentence 354:Economists are also worried about high levels of consumer debt in Thailand, which this week narrowly emerged from technical recession.
+REL PRONOUN: "which" with ID: 14
+REFERNT: "debt" with ID :10
+
+Sentence 355:The aim of this is to make monitoring more transparent and to get back the trust of the people which has been lost following the disclosure of large scale phone tapping.
+REL PRONOUN: "which" with ID: 20
+REFERNT: "people" with ID :19
+
+Sentence 356:Mr Hare, who started with the YMCA when he was 21, conceded management "from myself down" failed by recruiting Lord and failed to make sure staff were clear about their obligations to report child safe policy breaches.
+REL PRONOUN: "who" with ID: 4
+REFERNT: "Mr" with ID :1
+
+Sentence 357:"Egypt today is a civil, national, constitutional and modern state," Morsi, wearing a blue business suit and a red tie, told the judges in the wood-panelled chamber where he took the oath of office.
+REL PRONOUN: "where" with ID: 37
+REFERNT: "chamber" with ID :36
+
+Sentence 360:But Mr Hare rejected the suggestion the YMCA had a cultural problem which prevented staff from reporting Lord's breaches of child safety.
+REL PRONOUN: "which" with ID: 13
+REFERNT: "problem" with ID :12
+
+Sentence 361:The announcement came as fighting raged Thursday in the town of Safira, which experts say is home to a chemical weapons production facility as well as storage sites, reported the Britain-based Syrian Observatory for Human Rights.
+REL PRONOUN: "which" with ID: 14
+REFERNT: "town" with ID :10
+
+Sentence 362:Chief executive officer Phillip Hare was asked about one case where a YMCA employee was charged child pornography offences, and another when a gym instructor at the YMCA Caringbah Hall was convicted of child sexual offences against children in his care in 1991.
+REL PRONOUN: "where" with ID: 11
+REFERNT: "case" with ID :10
+
+Sentence 363:BJP candidate Rajsharan Bhagat, along with his sponsor, deposited his nomination papers with the Returning Officer for the assembly constituency 12-Jashpur on Thursday, which was day 7 after the start of filing of nomination papers for the second phase of the elections to be held on November 19th.
+REL PRONOUN: "which" with ID: 29
+REFERNT: "constituency" with ID :22
+
+Sentence 364:The U.S. website Catholic Online has also opposed the German law, writing that "as the world is being dragged into a new state, where gender is a choice, but sexual activity is not, we reverse two more pillars of civilization."
+REL PRONOUN: "where" with ID: 27
+REFERNT: "state" with ID :25
+
+Sentence 366:The administration has said it should come as no surprise that the 5 percent of the population who purchase insurance on their own may be forced to switch plans because their coverage doesn't meet the new standards required under the Affordable Care Act.
+REL PRONOUN: "who" with ID: 18
+REFERNT: "population" with ID :17
+
+Sentence 367:We found that the vast majority of businesses are now looking to export outside of Europe, focusing on countries that are modernising and growing while the EU states stagnate.
+REL PRONOUN: "that" with ID: 21
+REFERNT: "countries" with ID :20
+
+Sentence 369:And one that is so long in the tooth it has become fossilised: I first heard the "independence means passport controls" canard at least 40 years ago.
+REL PRONOUN: "that" with ID: 3
+REFERNT: "one" with ID :2
+
+Sentence 370:Former NSW minister Joe Tripodi has denied changing maritime leases policy at the request of his political mentor Eddie Obeid, who had hidden interests in three properties on government-controlled land.
+REL PRONOUN: "who" with ID: 22
+REFERNT: "mentor" with ID :18
+
+Sentence 371:True wealthy is the one which makes it possible for wealth to flow through numerous hands.
+REL PRONOUN: "which" with ID: 6
+REFERNT: "one" with ID :5
+
+Sentence 372:The group that owns thousands of former Nortel patents filed a barrage of patent lawsuits on Thursday against cell phone manufacturers including Google, the company it outbid in the Nortel bankruptcy auction.
+REL PRONOUN: "that" with ID: 3
+REFERNT: "group" with ID :2
+
+Sentence 373:Morsi later travelled to Cairo University where he was to make his inauguration address.
+REL PRONOUN: "where" with ID: 7
+REFERNT: "University" with ID :6
+
+Sentence 374:The virus selectively infects liver cells, which then start to make a steady stream of the antibodies.
+REL PRONOUN: "which" with ID: 8
+REFERNT: "cells" with ID :6
+
+Sentence 376:Historically, children born with both male and female genitalia were called hermaphrodites, named for the handsome Greek god who had dual sexuality.
+REL PRONOUN: "who" with ID: 21
+REFERNT: "god" with ID :20
+
+Sentence 377:A big shift is occurring in cloud computing where European executives have become more aware that data stored in the US is subject to that jurisdiction and therefore potentially vulnerable.
+REL PRONOUN: "where" with ID: 9
+REFERNT: "computing" with ID :8
+
+Sentence 378:At the same time, those who took part in the experiment between 12 noon and 6pm set aside their morals and intentionally gave wrong answers.
+REL PRONOUN: "who" with ID: 7
+REFERNT: "those" with ID :6
+
+Sentence 379:News about the probes has rattled traders in an area that has been one of the bigger profit drivers of investment banks' trading units in past years but which has been challenged this year as low volatility in currencies cuts opportunities for speculators.
+REL PRONOUN: "that" with ID: 11
+REFERNT: "area" with ID :10
+
+Sentence 379:News about the probes has rattled traders in an area that has been one of the bigger profit drivers of investment banks' trading units in past years but which has been challenged this year as low volatility in currencies cuts opportunities for speculators.
+REL PRONOUN: "which" with ID: 30
+REFERNT: "drivers" with ID :19
+
+Sentence 380:More than three hours into the hearing, Long repeatedly pressed Sebelius on why the "architect" of the Affordable Care Act has not voluntarily forgone government-sponsored insurance to purchase a plan through HealthCare.gov, which she is now pitching to millions of Americans.
+REL PRONOUN: "which" with ID: 39
+REFERNT: "plan" with ID :35
+
+Sentence 381:Some of the world's largest banks, including UBS, Barclays, Deutsche Bank and RBS, have confirmed they are co-operating with regulators in investigations into the world's largest financial market, where $5.3tn changes hands each day.
+REL PRONOUN: "where" with ID: 36
+REFERNT: "market" with ID :34
+
+Sentence 383:The verdict comes ahead of the 10th anniversary of the attack later this year, which will be marked by ceremonies in Bali and Australia.
+REL PRONOUN: "which" with ID: 16
+REFERNT: "anniversary" with ID :8
+
+Sentence 386:During this the alumni and students who have achieved the top position in the University are awarded the "Cash Achievement Award".
+REL PRONOUN: "who" with ID: 7
+REFERNT: "alumni" with ID :4
+
+Sentence 387:Today at Liverpool Crown Court Ditta, who works at law firm Forbes Solicitors, based in Blackburn, was facing disgrace after being found guilty of two counts of perverting the course of justice following a three week trial at Liverpool Crown Court.
+REL PRONOUN: "who" with ID: 8
+REFERNT: "Court" with ID :5
+
+Sentence 389:Police say they have a video that appears to show Mayor Rob Ford smoking a crack pipe.
+REL PRONOUN: "that" with ID: 7
+REFERNT: "video" with ID :6
+
+Sentence 390:He got engaged about 8 months ago to the 28 year old woman, Francesca Pascale, who is 50 years younger than him.
+REL PRONOUN: "who" with ID: 18
+REFERNT: "woman" with ID :13
+
+Sentence 391:He said that after the veneration a grand bhandara was organised with the help of the citizens, in which people of all religions in the city came to pray.
+REL PRONOUN: "which" with ID: 20
+REFERNT: "citizens" with ID :17
+
+Sentence 392:The Court refused to stop the media from reporting, but told Asaram's lawyer that they have other legal options which they may make use of.
+REL PRONOUN: "which" with ID: 22
+REFERNT: "options" with ID :21
+
+Sentence 394:Speaking in the summer, Michael Gove, the Education Secretary, said there was a "widespread consensus that we need to reform our examination system to restore public confidence," insisting GCSEs would be "more challenging, more ambitious and more rigorous."
+REL PRONOUN: "that" with ID: 20
+REFERNT: "consensus" with ID :19
+
+Sentence 395:If the "genuineness" criteria was adopted a visa applicant could be scrutinised about "whether the nomination is genuine in circumstances where the nominee is a relation or personal associate of an owner or relevant person of the sponsoring business."
+REL PRONOUN: "where" with ID: 24
+REFERNT: "circumstances" with ID :23
+
+Sentence 396:He added: "We're dealing in a new world where people are willing to blow themselves up."
+REL PRONOUN: "where" with ID: 12
+REFERNT: "world" with ID :11
+
+Sentence 397:At least six authorities globally - the European Commission, Finma, Switzerland's competition authority Weko, the FCA, the Department of Justice in the US and the Hong Kong Monetary Authority - are looking at allegations that bankers colluded to move the currencies market.
+REL PRONOUN: "that" with ID: 40
+REFERNT: "allegations" with ID :39
+
+Sentence 398:In Nevada, where about 50 volunteers' cars were equipped with the devices not long ago, drivers were uneasy about the government being able to monitor their every move.
+REL PRONOUN: "where" with ID: 4
+REFERNT: "Nevada" with ID :2
+
+Sentence 399:This is the same Francisca, about whom it has been said that her relationship with Berlusconi is a sham.
+REL PRONOUN: "whom" with ID: 8
+REFERNT: "Francisca" with ID :5
+
+Sentence 400:However, we are always interested in regulatory developments that could benefit passengers and we will certainly be taking a close look at the FAA's decision and the reasons behind it.
+REL PRONOUN: "that" with ID: 10
+REFERNT: "developments" with ID :9
+
+Sentence 401:Mr Hughes said Patek should have shared the same fate as three other members of the Jemaah Islamiah terror cell responsible for the carnage - Amrozi, Mukhlas and Imam Samudra - who were executed four years ago.
+REL PRONOUN: "who" with ID: 33
+REFERNT: "Samudra" with ID :31
+
+Sentence 403:The new vaccine contains a harmless virus that has been engineered to carry the genetic information to make anti-nicotine antibodies.
+REL PRONOUN: "that" with ID: 8
+REFERNT: "virus" with ID :7
+
+Sentence 404:The Front is now the most popular party in France with 24 per cent of the vote - a timely warning to British Labour that they can't assume a split on the right will automatically favour the left.
+REL PRONOUN: "that" with ID: 25
+REFERNT: "Labour" with ID :24
+
+Sentence 405:For flyers it is about more elbow room, but for suppliers it is increasingly an issue that could affect earnings.
+REL PRONOUN: "that" with ID: 18
+REFERNT: "issue" with ID :17
+
+Sentence 407:However, given the ease with which their behaviour can be recorded, it will probably not be long before we understand why their tails sometimes go one way, sometimes the other.
+REL PRONOUN: "which" with ID: 7
+REFERNT: "ease" with ID :5
+
+Sentence 408:A Chinese newspaper that made a front-page appeal for the release of a reporter accused of defamation is to be overhauled, a press regulator says.
+REL PRONOUN: "that" with ID: 4
+REFERNT: "newspaper" with ID :3
+
+Sentence 409:Virat, who is completing 25 years next week, has scored 17 one-day centuries out of which 16 have lead to an Indian victory.
+REL PRONOUN: "who" with ID: 3
+REFERNT: "Virat" with ID :1
+
+Sentence 409:Virat, who is completing 25 years next week, has scored 17 one-day centuries out of which 16 have lead to an Indian victory.
+REL PRONOUN: "which" with ID: 20
+REFERNT: "centuries" with ID :17
+
+Sentence 410:It was seeking to break into an emerging market in auto insurance, in which drivers would pay based on their mileage.
+REL PRONOUN: "which" with ID: 15
+REFERNT: "insurance" with ID :12
+
+Sentence 411:It cannot justify the findings of a report that says the White House's efforts to silence the media are the "most aggressive ... since the Nixon Administration."
+REL PRONOUN: "that" with ID: 10
+REFERNT: "report" with ID :9
+
+Sentence 412:"Cell phones, that really is an issue, not just because potentially it could create interference with navigational devices, but we do know, according to the FCC, that it could interfere with cell phone towers when they're in the air," Rosenker said.
+REL PRONOUN: "that" with ID: 5
+REFERNT: "phones" with ID :3
+
+Sentence 413:In tests, vaccinated mice who were subsequently given nicotine continued with their normal activity.
+REL PRONOUN: "who" with ID: 6
+REFERNT: "mice" with ID :5
+
+Sentence 414:Furthermore, on the suspicion that she was pregnant, she was taken to hospital for an abortion.
+REL PRONOUN: "that" with ID: 6
+REFERNT: "suspicion" with ID :5
+
+Sentence 416:They are intersex, part of a group of about 60 conditions that fall under the diagnosis of disorders of sexual development, an umbrella term for those with atypical chromosomes, gonads (ovaries or testes), or unusually developed genitalia.
+REL PRONOUN: "that" with ID: 13
+REFERNT: "conditions" with ID :12
+
+Sentence 418:He awarded the 15 girls who had received training in sewing with a sewing machine, plants and certificates.
+REL PRONOUN: "who" with ID: 6
+REFERNT: "girls" with ID :5
+
+Sentence 419:A contractual dispute between Gazprom and its counterparts in Ukraine, which hosts most of Russia's gas for Europe, adds a layer of risk to conventional routes, officials say.
+REL PRONOUN: "which" with ID: 12
+REFERNT: "dispute" with ID :3
+
+Sentence 420:Renamo's share of the vote has been declining since 1992, while a newer party, the Democratic Movement of Mozambique (MDM) which was formed by a former Renamo member, is expected to improve its showing at the elections.
+REL PRONOUN: "which" with ID: 26
+REFERNT: "party" with ID :16
+
+Sentence 422:Virgin, which has already been talking to CASA about extending the use its in-flight wi-fi entertainment system, was amenable to a change but said it would take its lead from the regulator.
+REL PRONOUN: "which" with ID: 3
+REFERNT: "Virgin" with ID :1
+
+Sentence 423:Syria has destroyed critical equipment for producing chemical weapons and poison gas munitions, the global chemical weapons watchdog said Thursday as fierce clashes raged in the country's north, close to one of the sites where toxic agents are believed to be stored.
+REL PRONOUN: "where" with ID: 38
+REFERNT: "sites" with ID :37
+
+Sentence 424:By a 5-4 vote, the justices ruled the Patient Protection and Affordable Care Act's individual mandate - which requires citizens to buy health insurance by 2014 or else pay a penalty - was constitutional under the taxing power of the government.
+REL PRONOUN: "which" with ID: 22
+REFERNT: "mandate" with ID :20
+
+Sentence 425:Three men who authorities say worked as drivers were charged with possession of marijuana and cocaine with intent to distribute.
+REL PRONOUN: "who" with ID: 3
+REFERNT: "men" with ID :2
+
+Sentence 426:The Punjab, Haryana, Rajasthan and Uttarakhand are among the states where the sale of kerosene sale will be stopped.
+REL PRONOUN: "where" with ID: 13
+REFERNT: "states" with ID :12
+
+Sentence 427:The new faces who have been given a chance include Nirmala Sapre from the Bina Assembly constituency's Sagar District and Pratapsingh Lodhi from Jabera Assembly Constituency's Damoha District.
+REL PRONOUN: "who" with ID: 4
+REFERNT: "faces" with ID :3
+
+Sentence 428:"We are very hopeful that this kind of vaccine strategy can finally help the millions of smokers who have tried to stop, exhausting all the methods on the market today, but find their nicotine addiction to be strong enough to overcome these current approaches," Prof Cornell said.
+REL PRONOUN: "who" with ID: 19
+REFERNT: "smokers" with ID :18
+
+Sentence 429:In the states where the sale of kerosene through PDS shops has been stopped, the oil companies can sell kerosene at full price on the open market.
+REL PRONOUN: "where" with ID: 4
+REFERNT: "states" with ID :3
+
+Sentence 432:A report filed to the European Commission in 2011 described intersex people as different from transsexual or transgender people, as their status is not gender related but instead relates to their biological makeup, which is neither exclusively male nor exclusively female, but is typical of both at once or not clearly defined as either.
+REL PRONOUN: "which" with ID: 36
+REFERNT: "makeup" with ID :34
+
+Sentence 433:This experiment shows that those who took part in the experiment in the morning between 8 and 12 did not make any mistakes and they gave the correct answers.
+REL PRONOUN: "who" with ID: 6
+REFERNT: "those" with ID :5
+
+Sentence 434:There are treatments to delay early menses and ward off another consequence: premature aging of the bones that ultimately can lead to stunted growth and being short as an adult.
+REL PRONOUN: "that" with ID: 19
+REFERNT: "bones" with ID :18
+
+Sentence 435:On the other hand, analysts say full 10-seat-per-row cabins for existing 777s suggest many passengers are voting for the denser layout, which may go hand in hand with cheaper fares.
+REL PRONOUN: "which" with ID: 28
+REFERNT: "layout" with ID :26
+
+Sentence 436:The activist group, which has been tracking the death toll through a network of activists in Syria, said Thursday that 120,296 people have died.
+REL PRONOUN: "which" with ID: 5
+REFERNT: "group" with ID :3
+
+Sentence 437:John Kerry has indicated a softening of the U.S's defensive stance on its surveillance programmes with an unprecedented admission that on occasions its spying has "reached too far inappropriately."
+REL PRONOUN: "that" with ID: 20
+REFERNT: "admission" with ID :19
+
+Sentence 438:Kenya media drew the ire of authorities by broadcasting security camera footage of troops who were dispatched to the scene of the attack purportedly robbing the upmarket mall.
+REL PRONOUN: "who" with ID: 15
+REFERNT: "troops" with ID :14
+
+Sentence 439:CAT is a brand that has been offering strong, durable, beautiful and high quality products for the past one hundred years.
+REL PRONOUN: "that" with ID: 5
+REFERNT: "brand" with ID :4
+
+Sentence 440:The United Nations is to start work immediately on a new set of goals to replace the millennium development goals, which were put place 12 years ago to tackle global poverty.
+REL PRONOUN: "which" with ID: 22
+REFERNT: "goals" with ID :20
+
+Sentence 442:Jim Snabe, co-chief executive at SAP, says: "We see a new question from customers that didn't come up a year ago - which is where is my data stored and can you guarantee that it stays physically in that jurisdiction."
+REL PRONOUN: "that" with ID: 19
+REFERNT: "customers" with ID :18
+
+Sentence 442:Jim Snabe, co-chief executive at SAP, says: "We see a new question from customers that didn't come up a year ago - which is where is my data stored and can you guarantee that it stays physically in that jurisdiction."
+REL PRONOUN: "where" with ID: 30
+REFERNT: "customers" with ID :18
+
+Sentence 443:The UK government, which has been holding talks with Transport Scotland, has instructed HS2 Ltd to look at further rail capacity and journey time improvements for northern England and Scotland.
+REL PRONOUN: "which" with ID: 5
+REFERNT: "government" with ID :3
+
+Sentence 444:The program was presided over by Chaudhari Vikram Chandra Goyal, Vice-Chancellor of Charan Singh University, who said that the institution had honoured the University.
+REL PRONOUN: "who" with ID: 20
+REFERNT: "Chaudhari" with ID :7
+
+Sentence 446:Rockstar, the consortium that bought the Nortel patents for $4.5 billion, sued Samsung Electronics Co Ltd, HTC Corp, Huawei and four other companies for patent infringement in U.S. District Court in Texas.
+REL PRONOUN: "that" with ID: 5
+REFERNT: "consortium" with ID :4
+
+Sentence 447:Shares of Bombardier, which also announced that Google Inc Chief Financial Officer Patrick Pichette would join the board, were down 8.5 percent at C$4.83 in mid afternoon trading on Thursday.
+REL PRONOUN: "which" with ID: 5
+REFERNT: "Shares" with ID :1
+
+Sentence 448:Derided as the Brotherhood's uncharismatic "spare tyre," his personal prestige has surged since his victory and his delivery of a Friday speech that tried to present him as a candidate not just of Islamists but of all those who want to complete the work of the 2011 uprising against the authoritarian Mubarak.
+REL PRONOUN: "that" with ID: 27
+REFERNT: "speech" with ID :26
+
+Sentence 448:Derided as the Brotherhood's uncharismatic "spare tyre," his personal prestige has surged since his victory and his delivery of a Friday speech that tried to present him as a candidate not just of Islamists but of all those who want to complete the work of the 2011 uprising against the authoritarian Mubarak.
+REL PRONOUN: "who" with ID: 43
+REFERNT: "those" with ID :42
+
+Sentence 449:The movement is also bolstered by two former U.S. Transportation secretaries, who in a 2011 report urged Congress to move in the pay-per-mile direction.
+REL PRONOUN: "who" with ID: 13
+REFERNT: "secretaries" with ID :11
+
+Sentence 451:Prime property - the top 5% to 10% of the housing market by price - in the affluent south-west London belt, which stretches from Fulham to Wimbledon, has increased by a record 11.8% over the past year.
+REL PRONOUN: "which" with ID: 27
+REFERNT: "belt" with ID :25
+
+Sentence 452:Two detectives trailed the suspect and spotted him arriving at Ditta's house in and was seen to place the drugs which had a purity of 60 per cent under the lawyer's bins in a black golf glove.
+REL PRONOUN: "which" with ID: 22
+REFERNT: "drugs" with ID :21
+
+Sentence 453:The court also upheld the remaining sections of the 2700 page law, and further held that the health care law's requirement that states increase Medicaid eligibility or else lose all federal Medicaid funding is not unconstitutionally coercive.
+REL PRONOUN: "that" with ID: 24
+REFERNT: "requirement" with ID :23
+
+Sentence 454:He stressed that the leaders should stop making statements that reduce the morale of the army and security forces.
+REL PRONOUN: "that" with ID: 10
+REFERNT: "statements" with ID :9
+
+Sentence 455:He had avoided capture for almost a decade but was eventually apprehended in January 2011 in the Pakistani town of Abbottabad, where US forces killed former al-Qaeda chief Osama bin Laden less than four months later.
+REL PRONOUN: "where" with ID: 23
+REFERNT: "town" with ID :19
+
+Sentence 456:The Federal Government insists a $325 million rescue package for Tasmania's ailing health system has tough conditions attached that will ensure the State Government can't waste the funds.
+REL PRONOUN: "that" with ID: 21
+REFERNT: "conditions" with ID :19
+
+Sentence 457:A letter from Mr Snowden, presented to the media in Berlin on Friday by the MP, said: "Though the outcome of my efforts has been demonstrably positive, my government continues to treat dissent as defection, and seeks to criminalise political speech with felony charges that provide no defence."
+REL PRONOUN: "that" with ID: 51
+REFERNT: "charges" with ID :50
+
+Sentence 458:Girls who blossom early need reassurance that, even when it happens ahead of schedule, the process is a normal part of life.
+REL PRONOUN: "who" with ID: 2
+REFERNT: "Girls" with ID :1
+
+Sentence 459:And the I-95 Coalition, which includes 17 state transportation departments along the Eastern Seaboard (including Maryland, Pennsylvania, Virginia and Florida), is studying how they could go about implementing the change.
+REL PRONOUN: "which" with ID: 6
+REFERNT: "Coalition" with ID :4
+
+Sentence 461:Baroness Kramer said: "Our goal for HS2 is for a truly national network that will bring the UK and its cities closer together."
+REL PRONOUN: "that" with ID: 16
+REFERNT: "network" with ID :15
+
